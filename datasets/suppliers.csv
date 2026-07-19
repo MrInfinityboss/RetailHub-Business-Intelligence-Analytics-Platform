@@ -1,0 +1,301 @@
+supplier_id,supplier_name,city,country,rating,contract_start_date
+1,Richardson-Gray,South Melaniechester,Senegal,4.7,2017-02-23
+2,Todd Inc,Alfredview,Norfolk Island,4.5,2021-08-02
+3,Austin-Berger,East Karenbury,Senegal,2.7,2019-06-05
+4,"Long, Flores and Reyes",Hillshire,Equatorial Guinea,3.0,2019-04-25
+5,English-Dominguez,Port Anne,Nigeria,4.4,2018-08-22
+6,"House, Smith and Wright",Grimesmouth,Barbados,2.6,2021-07-22
+7,"Gardner, Brooks and Pierce",Micheleberg,Senegal,4.9,2015-05-08
+8,Cooper Inc,Port Dominiqueview,Ukraine,3.4,2015-09-29
+9,Joseph-Brooks,New Williamberg,Oman,4.3,2018-05-22
+10,Bradley-Davis,Sanchezside,Bangladesh,4.7,2018-02-27
+11,Washington PLC,Lake Alyssafurt,Somalia,3.5,2019-05-14
+12,"Short, Ellison and Dixon",Ronaldview,Nigeria,3.3,2020-11-26
+13,"Ramos, Gomez and Edwards",Robertfort,Netherlands,4.0,2019-09-14
+14,"Ramos, Gomez and Edwards",Harveybury,Oman,4.0,2017-01-22
+15,Cole-Johnson,Baileyport,Saint Vincent and the Grenadines,3.5,2017-08-14
+16,"Nguyen, Olson and Freeman",East Judyhaven,Ukraine,4.0,2021-01-08
+17,Perez-Coleman,Crosbyview,Switzerland,4.8,2016-08-11
+18,"Edwards, Lane and Collins",North Marieland,Equatorial Guinea,3.7,2019-01-13
+19,Davis-Garcia,Grimesmouth,Saudi Arabia,3.0,2019-04-24
+20,Proctor-Taylor,Santanaside,Suriname,3.4,2021-01-02
+21,Scott PLC,Port Markside,Cameroon,3.5,2020-09-19
+22,"Anderson, Delgado and Carpenter",New Sarahview,Sierra Leone,2.8,2018-09-20
+23,Joseph-Brooks,Gilmorefort,Gabon,2.9,2017-06-22
+24,"Davis, Kennedy and Harmon",East Kristin,Dominica,4.2,2017-12-11
+25,"Roach, Browning and Jordan",Christopherbury,Korea,3.3,2018-04-18
+26,"Evans, Cross and Johnston",North Marieland,Tonga,4.9,2016-10-02
+27,Durham-Myers,Lake John,Lithuania,3.1,2020-01-03
+28,Proctor-Taylor,South James,Bangladesh,2.7,2016-09-01
+29,Navarro PLC,Julieburgh,Tonga,4.4,2020-03-11
+30,May Inc,Scotttown,Senegal,4.7,2021-01-05
+31,Powers Group,Stephaniefort,Suriname,3.2,2022-09-12
+32,Rodriguez-Campbell,Baileyport,Cameroon,3.0,2015-12-14
+33,Marshall-Miller,Vaughnmouth,Madagascar,3.0,2021-01-29
+34,Dickson Group,Shelleyfort,Equatorial Guinea,3.8,2015-09-09
+35,Perez-Coleman,Elizabethstad,Guinea,3.7,2017-09-12
+36,Nixon-Miller,Mcneilberg,Turkmenistan,3.1,2016-05-30
+37,"Thompson, Gibson and Riley",Thompsonfurt,Oman,2.6,2016-04-19
+38,Moore-Baker,Michaelburgh,Cameroon,3.7,2016-05-27
+39,Chang PLC,West Amandamouth,Mozambique,4.9,2015-05-09
+40,"Torres, Burns and Garner",Emilyview,Korea,4.1,2021-08-02
+41,Adams Group,West Juliefurt,Gibraltar,3.7,2015-06-28
+42,Bailey-Flores,Lake Jesusview,Belarus,2.8,2018-03-10
+43,Dickson Group,Lake Thomas,Korea,3.1,2020-08-05
+44,"Campbell, Tyler and Parker",Sanchezside,Mongolia,3.2,2022-12-04
+45,"Rivera, Hendricks and Flynn",Davisville,Canada,4.4,2021-10-31
+46,Maldonado LLC,Margaretland,Mongolia,4.7,2016-02-06
+47,"Ferguson, Martin and Obrien",Robertfort,Zambia,4.8,2022-11-27
+48,Austin-Morgan,Elizabethstad,North Macedonia,5.0,2020-03-25
+49,Maddox-Mullins,Lindamouth,Cape Verde,5.0,2016-06-08
+50,"Miller, Schultz and Yates",East Joycetown,Saint Lucia,4.9,2018-08-04
+51,Davis LLC,Lake Mitchellmouth,Saudi Arabia,2.7,2022-05-06
+52,Cole-Johnson,Lake Christopher,Equatorial Guinea,2.8,2018-02-22
+53,Hanson-Gibson,North Terrance,North Macedonia,3.3,2016-06-20
+54,"Berger, Fields and Smith",North Teresabury,Hungary,3.9,2022-01-01
+55,"Nguyen, Olson and Freeman",Ashleyton,Senegal,2.7,2022-08-17
+56,"Garcia, Stewart and Delacruz",West Robin,Saint Lucia,4.6,2022-10-22
+57,"Gardner, Brooks and Pierce",Lake Debbieport,Equatorial Guinea,4.0,2022-08-25
+58,Lopez PLC,Lake Thomas,Kazakhstan,3.9,2021-12-26
+59,Baker-Ross,South Monica,Lithuania,2.9,2018-08-21
+60,Stephens-Young,Lake Mollymouth,Canada,3.1,2016-07-16
+61,Robles-Brewer,Jasminemouth,Oman,2.9,2019-12-09
+62,Davis-Garcia,Lake Michaelstad,Mozambique,4.6,2016-10-07
+63,Hudson-Gentry,Rodriguezfurt,Norway,4.0,2018-10-15
+64,Hill-Flores,Emilyview,Nigeria,4.3,2020-04-01
+65,"Pierce, Wang and Wilson",Davisborough,Norfolk Island,3.2,2022-07-29
+66,"Warner, Weiss and Davis",East Kevinborough,Oman,3.4,2017-04-24
+67,"Delgado, Guzman and Smith",North Marcberg,Niue,3.5,2017-01-06
+68,Lambert-Nelson,Christopherfurt,Nepal,4.4,2020-11-17
+69,"Ramos, Gomez and Edwards",West Carolinestad,Latvia,4.4,2015-01-19
+70,Moore-Baker,East Gregory,Niue,3.0,2019-07-14
+71,Raymond LLC,East Kevinborough,Zambia,4.9,2020-12-20
+72,Washington-Martinez,Alfredview,Senegal,2.8,2019-05-30
+73,Carter and Sons,Lake Madisonport,Falkland Islands (Malvinas),4.7,2018-01-27
+74,Stephens-Young,Bruceside,Sierra Leone,2.8,2021-08-18
+75,Chapman Group,Vaughnmouth,Zimbabwe,3.2,2017-12-20
+76,"Williams, Jackson and Campbell",Port Anne,Germany,4.6,2020-09-07
+77,Wilson Group,Brownhaven,Hungary,2.9,2018-09-18
+78,Hernandez-Rogers,Jasonhaven,Kyrgyz Republic,3.5,2015-03-19
+79,Rodriguez-Campbell,Christopherfurt,Mozambique,3.6,2019-03-31
+80,Lin-Smith,Gordonton,Zambia,3.1,2015-05-25
+81,"Cox, Mills and Cruz",North Markton,Switzerland,4.3,2022-06-14
+82,Davis-Garcia,Elizabethchester,Mozambique,4.6,2019-10-25
+83,Reeves-Boyd,Alexisside,Sierra Leone,4.7,2017-12-23
+84,Carter and Sons,New Crystalton,Somalia,3.3,2018-11-22
+85,Montes LLC,North Scott,Germany,3.8,2019-12-15
+86,Wells and Sons,Port Molly,Suriname,3.1,2017-01-30
+87,"Fry, Wilson and Stewart",East Joshuashire,Canada,3.1,2017-04-22
+88,Williams-Johnson,New Caseyport,Tonga,2.9,2018-05-08
+89,"Curry, Acosta and Elliott",Rosebury,Hungary,4.9,2017-01-25
+90,Gentry Group,New Laurie,Argentina,4.7,2021-01-24
+91,"Thompson, Gibson and Riley",Jasonhaven,Palau,4.4,2015-10-31
+92,Singh and Sons,Lake Madisonport,Cape Verde,3.8,2021-08-13
+93,Douglas PLC,South Monica,Nauru,3.7,2017-10-15
+94,Roberts Group,West Russellport,Suriname,3.8,2019-06-29
+95,Montes LLC,Port Cameronfort,Senegal,3.8,2016-04-06
+96,Newton and Sons,East Kevinborough,Netherlands,3.6,2018-01-31
+97,"Smith, Khan and Ramirez",Donnaburgh,Svalbard & Jan Mayen Islands,2.8,2021-01-14
+98,Peterson Group,Cindyfort,Zimbabwe,2.8,2017-03-02
+99,"Rivera, Hendricks and Flynn",Port Jacquelineside,Cameroon,4.9,2016-01-22
+100,Dickson Group,Port Molly,Saint Lucia,3.7,2019-03-06
+101,Acosta LLC,Roseport,Somalia,4.9,2016-04-19
+102,Edwards-Roth,New John,Palau,2.9,2017-07-09
+103,"Guerrero, Graves and Armstrong",Carsonstad,Bermuda,3.9,2018-08-09
+104,Thomas-Berg,Port Chad,Oman,3.0,2019-07-07
+105,Singh and Sons,East Jenniferfort,Cape Verde,3.1,2020-02-12
+106,"Mcintosh, Melton and Wilkins",Christopherbury,Equatorial Guinea,2.6,2020-05-31
+107,Neal LLC,Andreaport,Argentina,2.8,2021-10-03
+108,"Pierce, Wang and Wilson",Kristopherbury,Azerbaijan,4.8,2015-07-13
+109,Patel-Morales,North Scott,Germany,3.3,2017-11-25
+110,Ellis Group,Williamville,Sierra Leone,4.0,2015-01-04
+111,Larson and Sons,Jasonhaven,Cameroon,3.7,2015-01-28
+112,"Peck, Andersen and Mitchell",Durhamberg,Gabon,3.5,2016-09-12
+113,"Rios, Carrillo and Jackson",West Carolinestad,Zambia,3.8,2019-10-15
+114,Cohen-Johnston,Port Jonathan,Falkland Islands (Malvinas),3.0,2022-02-27
+115,"Kaiser, Edwards and Smith",Davisstad,Kyrgyz Republic,5.0,2021-03-11
+116,Hanson-Alexander,North Markton,Nepal,4.5,2020-03-04
+117,Gregory-Nixon,Cantuport,Canada,4.4,2021-03-24
+118,Hall Inc,East Randallton,Saint Lucia,3.7,2016-05-17
+119,Duncan-Williams,Waltersfort,Kyrgyz Republic,2.9,2021-09-20
+120,Jones Group,New Reneetown,Madagascar,4.8,2022-02-15
+121,Lambert-Nelson,Alexisside,Latvia,3.4,2015-10-05
+122,Thomas Inc,South Melaniechester,Azerbaijan,2.6,2018-10-05
+123,Wells and Sons,Rosebury,Tonga,3.4,2021-08-23
+124,Hill-Flores,New Kellyberg,Senegal,4.5,2018-10-23
+125,Dean LLC,North Jeremyshire,Mozambique,4.1,2021-09-22
+126,Williams-Johnson,Lake James,Belarus,4.4,2022-06-27
+127,Meyer Ltd,New Michelleton,United States of America,4.5,2018-10-19
+128,Chapman Group,North Marcberg,Madagascar,3.0,2015-06-23
+129,Cole-Johnson,South Christopherview,Saudi Arabia,4.8,2017-09-20
+130,"Aguirre, Franklin and Snyder",New Diane,Niue,3.6,2016-09-20
+131,"Simon, Terrell and Terrell",New Caseyport,Sierra Leone,4.1,2018-10-17
+132,Raymond LLC,Port Jacquelineside,Zimbabwe,2.5,2019-09-09
+133,Gregory-Nixon,Moonburgh,Norfolk Island,5.0,2018-09-17
+134,"Haney, Harris and Johnson",Michaelmouth,Tonga,3.2,2016-07-25
+135,Garcia Ltd,Hillshire,Armenia,2.7,2017-05-30
+136,"Crosby, Armstrong and Herrera",Reedside,Nauru,3.6,2020-06-09
+137,Young-Alexander,West Scottchester,Micronesia,2.8,2015-03-20
+138,"Short, Ellison and Dixon",Lake Jamesville,Korea,2.9,2016-09-17
+139,Schaefer Group,Grimesmouth,Bosnia and Herzegovina,4.1,2022-02-21
+140,"Smith, Khan and Ramirez",Port Cameronfort,Pitcairn Islands,3.5,2015-10-17
+141,"Abbott, Green and Andrews",Lake Alyssafurt,Heard Island and McDonald Islands,4.8,2018-04-27
+142,"Peck, Andersen and Mitchell",Matthewsberg,Bermuda,3.3,2016-08-28
+143,"Mcintosh, Melton and Wilkins",Alfredview,Netherlands,4.3,2015-11-02
+144,"Taylor, Blair and Meyer",Davisborough,Senegal,3.7,2018-05-20
+145,Duncan-Williams,Wilsonton,Kenya,4.1,2019-03-05
+146,Gentry Group,Lake Brycemouth,Tonga,4.0,2016-05-29
+147,"Mason, White and Richards",Lake Thomas,Congo,3.7,2015-08-16
+148,Warren and Sons,Elizabethchester,Nauru,4.9,2016-01-29
+149,"Haney, Harris and Johnson",Kimtown,Saudi Arabia,3.4,2020-03-19
+150,Peterson Ltd,Kimtown,Christmas Island,2.9,2021-11-19
+151,"Ferguson, Martin and Obrien",West Juliefurt,Bangladesh,4.2,2016-06-10
+152,Edwards-Roth,North Marcberg,North Macedonia,4.6,2017-07-25
+153,"Haney, Harris and Johnson",Lake John,Guinea,2.6,2017-10-01
+154,"Chang, Lamb and Miller",Lake Jamesville,Senegal,3.6,2017-11-20
+155,Lambert-Nelson,New Sarahview,Bermuda,4.7,2016-12-15
+156,"Moss, James and Edwards",Port Katelynfort,Bosnia and Herzegovina,4.4,2015-06-11
+157,"Roach, Browning and Jordan",Shelleyfort,Madagascar,5.0,2019-03-16
+158,"Cruz, Middleton and Larsen",Christopherfurt,Oman,3.8,2017-11-10
+159,Murray-Henderson,Port Katelynfort,Heard Island and McDonald Islands,4.1,2017-09-27
+160,"Ferguson, Martin and Obrien",Davisstad,Kiribati,3.3,2017-02-13
+161,"House, Smith and Wright",New Caseyport,Turkmenistan,4.9,2022-06-09
+162,"Lane, Morrison and Rivera",East Jenniferfort,Svalbard & Jan Mayen Islands,3.4,2019-11-20
+163,"Huang, Ford and Olsen",West Scottchester,Argentina,4.3,2018-05-08
+164,"Flores, Thomas and Bush",Vanessaport,Senegal,3.5,2016-08-23
+165,Moore-Murray,Elainefurt,Barbados,3.9,2021-05-30
+166,"Huang, Khan and Davis",Matthewsberg,Heard Island and McDonald Islands,4.3,2022-02-09
+167,Scott PLC,Baileyport,Nepal,3.8,2015-04-05
+168,Peterson-Ramsey,Transtad,Argentina,4.8,2022-06-10
+169,English-Dominguez,East Alexisbury,Mongolia,3.5,2020-08-06
+170,Guerrero Group,Hannaberg,Switzerland,4.1,2015-10-19
+171,Crawford and Sons,Sampsonstad,Nicaragua,3.4,2021-01-10
+172,Washington-Martinez,Port Joshuabury,Senegal,3.5,2015-11-10
+173,"Rios, Carrillo and Jackson",East Karenbury,Congo,3.6,2015-05-29
+174,Young-Alexander,Chavezside,Mozambique,2.8,2015-12-04
+175,"Miller, Schultz and Yates",Elizabethburgh,Netherlands,2.7,2018-09-06
+176,"Campbell, Tyler and Parker",Moonburgh,Falkland Islands (Malvinas),4.2,2019-12-17
+177,"Berger, Fields and Smith",South Monica,Zambia,4.1,2018-04-05
+178,Robles-Brewer,North Marieland,China,4.2,2015-12-23
+179,Hernandez-Lopez,Jamesfurt,Oman,2.5,2016-08-05
+180,"Smith, Griffith and Tucker",Port Chad,Netherlands,3.3,2021-10-27
+181,"Roach, Browning and Jordan",Williamville,Georgia,3.0,2022-09-14
+182,"Moss, James and Edwards",North Marieland,Korea,4.4,2021-01-13
+183,Nielsen-Mendoza,Bruceside,Cameroon,4.7,2015-10-30
+184,Nixon-Miller,Andreaport,Senegal,3.1,2021-07-24
+185,"Savage, Huffman and Martin",South Joshuaville,Tonga,4.2,2020-07-15
+186,Mclaughlin and Sons,Alyssaview,Kazakhstan,2.8,2019-03-18
+187,Moore-Baker,Lake Christopher,Congo,3.2,2016-02-23
+188,Adams Group,Mcneilberg,United States of America,2.8,2022-12-23
+189,"Warner, Weiss and Davis",New Crystalton,Lithuania,3.2,2018-07-17
+190,"Delgado, Guzman and Smith",Darrellfurt,Saint Lucia,4.2,2015-05-10
+191,Jackson-Neal,Wallport,Zimbabwe,4.8,2016-09-05
+192,"Simon, Terrell and Terrell",Walkerville,Svalbard & Jan Mayen Islands,3.0,2018-03-18
+193,Lane Ltd,Elizabethchester,Norfolk Island,3.9,2015-07-02
+194,"Warner, Weiss and Davis",Lake Edward,United States of America,4.3,2017-08-04
+195,"Cunningham, Murphy and Wolfe",Matthewsberg,South Africa,4.9,2018-10-01
+196,Miller-Chan,New Kellyberg,South Africa,4.0,2022-08-04
+197,Warren and Sons,Matthewsberg,Mongolia,3.1,2015-09-10
+198,Lee Group,South James,China,4.1,2019-08-14
+199,"Hall, Roberts and Lee",Lake Christopher,Gabon,3.3,2022-04-30
+200,"Williams, Jackson and Campbell",North Kristinbury,Mozambique,4.9,2021-06-14
+201,"Brown, Robinson and Taylor",North Terrance,Cameroon,3.5,2022-05-27
+202,"Moss, James and Edwards",East Joshuashire,Kyrgyz Republic,4.2,2016-05-12
+203,Hobbs-Hamilton,Baileyport,North Macedonia,2.6,2021-05-31
+204,"Carter, Gilbert and West",Thompsonfurt,Latvia,3.5,2022-10-31
+205,Hopkins LLC,Carsonstad,Senegal,4.7,2017-08-10
+206,"Gardner, Brooks and Pierce",Andreaport,Azerbaijan,4.0,2018-12-28
+207,Martin LLC,Williamville,Senegal,3.6,2019-04-01
+208,House-Johnston,Mollymouth,Lithuania,4.8,2018-12-14
+209,"Reynolds, Baird and Bradley",Baileyport,Azerbaijan,4.6,2017-04-27
+210,Austin-Berger,Michellechester,Cameroon,3.3,2022-10-08
+211,Ortiz-Miller,East Lisa,Gibraltar,3.9,2022-08-27
+212,Wilson Group,Johnsonstad,Falkland Islands (Malvinas),3.7,2018-01-17
+213,Stephens-Young,Lake Edward,China,4.1,2021-06-11
+214,Cole-Johnson,Thompsonfurt,Saudi Arabia,3.3,2018-03-07
+215,"Anderson, Delgado and Carpenter",Davisstad,Kiribati,3.1,2021-05-12
+216,Garcia Ltd,Lake Michaelstad,Georgia,4.8,2019-09-06
+217,Durham-Myers,Port Molly,Korea,4.8,2018-10-06
+218,Cohen-Johnston,West Robin,Nicaragua,4.6,2016-01-10
+219,"Pierce, Wang and Wilson",Tinaborough,Palau,4.9,2020-03-28
+220,Holt-Meadows,West Juliefurt,Svalbard & Jan Mayen Islands,4.4,2017-07-27
+221,"Shaffer, Lewis and Davidson",Scotttown,Cameroon,4.4,2016-09-25
+222,"Garrison, Rogers and Adams",Michaelburgh,Falkland Islands (Malvinas),4.4,2016-07-18
+223,"Reyes, Torres and Williams",Navarroview,Cape Verde,3.7,2022-11-10
+224,"Shannon, Robinson and Greene",Scotttown,Zambia,3.6,2015-10-29
+225,Davis LLC,South James,Nepal,3.1,2021-05-23
+226,Rodriguez-Campbell,Hayesmouth,Hungary,4.1,2021-12-06
+227,Brown LLC,Shelleyfort,Nepal,3.2,2015-04-01
+228,Patterson Inc,Grimesmouth,Niue,3.1,2019-09-19
+229,Rodriguez-Campbell,New Kellyberg,Azerbaijan,4.0,2019-08-15
+230,"Robles, Nguyen and Banks",Jeremyburgh,Nauru,3.5,2017-11-14
+231,Singh and Sons,Morganhaven,Senegal,3.0,2020-05-02
+232,"Reynolds, Baird and Bradley",Scottmouth,Norfolk Island,4.5,2018-04-09
+233,Sellers-Zuniga,New Laurie,Latvia,4.7,2018-07-09
+234,White Ltd,West Jeffreybury,Mongolia,2.9,2018-06-15
+235,"Jackson, Lane and Wilkinson",Gilmorefort,France,2.5,2021-05-29
+236,White-Carlson,Port Cynthiaville,Kyrgyz Republic,3.3,2020-01-25
+237,Lee Group,Jasonhaven,Latvia,4.5,2018-01-12
+238,"Jordan, Swanson and Franklin",Emilyview,Heard Island and McDonald Islands,4.6,2022-06-01
+239,Chavez-Johnson,New Williamberg,Belarus,2.8,2021-06-02
+240,Garrett-Young,South James,Gabon,4.4,2022-06-19
+241,"Haas, Cooper and Davis",Lake Christopher,Lithuania,2.8,2020-11-05
+242,Moore-Murray,North Terrance,France,3.5,2018-02-18
+243,"Clark, Brown and Duncan",Walkerville,Azerbaijan,5.0,2021-03-09
+244,"Webb, Blair and Thomas",Lawsonchester,Korea,3.0,2017-08-20
+245,"Caldwell, Stevenson and Joseph",Jasonhaven,Netherlands,2.9,2017-03-02
+246,"Webb, Blair and Thomas",North Donna,North Macedonia,3.6,2018-08-11
+247,"Smith, Khan and Ramirez",Santanaside,Zimbabwe,4.0,2022-10-04
+248,Bush-Wilson,New Michelleton,Bangladesh,4.8,2019-07-19
+249,Young-Alexander,East Kevinborough,Saint Vincent and the Grenadines,5.0,2018-01-26
+250,Lee-Johnson,Brownhaven,Saint Lucia,2.7,2018-09-11
+251,"Garrison, Rogers and Adams",Port Chad,Oman,2.8,2017-05-01
+252,"Hodge, Mckinney and Nelson",Port Joshuabury,Tonga,4.5,2020-04-09
+253,"Torres, Burns and Garner",Hallchester,Pitcairn Islands,3.2,2017-10-21
+254,Nixon-Miller,Moonburgh,Bangladesh,4.7,2019-06-09
+255,Proctor-Taylor,Ericaberg,Nigeria,4.2,2017-12-16
+256,Brown PLC,Cantuport,Norway,2.8,2017-07-26
+257,"Chang, Lamb and Miller",Meganstad,Saint Vincent and the Grenadines,4.6,2022-10-06
+258,Todd Inc,New Sarahview,Cameroon,2.9,2017-10-07
+259,"Shaffer, Lewis and Davidson",North Teresabury,Belarus,3.6,2015-07-26
+260,Davis LLC,Rodriguezfurt,Mozambique,3.9,2018-01-11
+261,"Simon, Terrell and Terrell",East Kevinborough,Barbados,3.8,2019-04-05
+262,Barnes LLC,Micheleberg,Mongolia,4.2,2015-10-04
+263,Stone Group,Navarroview,Cape Verde,4.1,2017-06-12
+264,Williams Ltd,Alyssaview,Kyrgyz Republic,5.0,2016-04-30
+265,Bush-Wilson,Coffeyside,Niue,5.0,2019-01-03
+266,"Haas, Cooper and Davis",Lake Madisonport,Netherlands,3.8,2020-10-14
+267,Moore-Baker,Transtad,Pitcairn Islands,2.7,2022-10-01
+268,Williams Group,Andreaport,Ukraine,4.3,2018-02-11
+269,"Abbott, Green and Andrews",North Marieland,Lithuania,4.9,2021-11-28
+270,"Clark, Brown and Duncan",Waltersfort,Senegal,3.3,2016-09-19
+271,Mullins-Gutierrez,Andreaport,Kyrgyz Republic,3.7,2021-03-31
+272,Cooper Inc,Valentineberg,Palau,3.6,2019-07-03
+273,Jones Group,Lake Jesusview,Zimbabwe,2.6,2021-01-25
+274,Alvarado-Durham,East Andrea,Madagascar,4.2,2021-01-17
+275,"Roach, Browning and Jordan",Port Chad,Korea,3.4,2019-04-06
+276,Washington PLC,Morganchester,Zimbabwe,4.5,2017-01-22
+277,Thomas-Berg,East Jenniferfort,Sierra Leone,4.6,2019-03-19
+278,"Wright, Scott and Evans",Brownhaven,Belarus,4.6,2021-08-13
+279,Austin-Morgan,Tinaborough,Kiribati,3.5,2022-10-08
+280,Berry Group,Ericaberg,Niue,3.3,2022-06-04
+281,"Garcia, Stewart and Delacruz",Elizabethburgh,Kyrgyz Republic,4.4,2016-06-14
+282,Henry-Taylor,South Melaniechester,Heard Island and McDonald Islands,4.5,2019-10-13
+283,"Miller, Gonzalez and Rasmussen",East Kristin,Madagascar,3.7,2015-11-02
+284,Johnson Ltd,Gordonton,Kyrgyz Republic,4.7,2020-05-09
+285,"Shannon, Robinson and Greene",Emilyview,Madagascar,2.9,2022-12-10
+286,Short PLC,Finleyfort,Turkmenistan,4.7,2015-06-03
+287,Parker Group,New Brian,North Macedonia,2.7,2020-04-03
+288,Johnson Ltd,East Gregory,Bangladesh,2.9,2022-07-26
+289,"Gardner, Brooks and Pierce",North Ericton,Cameroon,3.8,2021-10-12
+290,Maddox-Mullins,Davidfort,Switzerland,2.7,2018-02-21
+291,Hernandez-Lopez,East Kristin,Barbados,2.6,2015-10-31
+292,"Roach, Browning and Jordan",Chavezside,Heard Island and McDonald Islands,2.5,2022-05-24
+293,"Simon, Terrell and Terrell",Robertfort,Latvia,3.6,2022-05-17
+294,Marshall-Miller,Oscarhaven,Oman,4.4,2019-08-20
+295,Austin-Berger,Chavezside,Saint Vincent and the Grenadines,2.6,2022-11-01
+296,"Williams, Reyes and Miller",Bruceside,Gabon,4.1,2015-01-14
+297,"Hodge, Mckinney and Nelson",South Christopherview,Gibraltar,4.6,2019-12-08
+298,Edwards-Roth,Stephentown,Equatorial Guinea,2.9,2015-04-23
+299,"Aguirre, Franklin and Snyder",East Amanda,Oman,2.9,2022-06-28
+300,"Stark, Rivera and Valencia",Lake Edward,Micronesia,4.7,2020-06-11

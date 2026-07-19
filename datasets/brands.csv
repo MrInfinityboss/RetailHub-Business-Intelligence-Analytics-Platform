@@ -1,0 +1,201 @@
+brand_id,brand_name,country,founded_year
+1,NeedLabs,Nicaragua,1992
+2,DoorStudio,China,1990
+3,BoardWorks,Nigeria,1979
+4,PictureGoods,Congo,2006
+5,PrepareWorks,Gabon,1982
+6,AcceptLabs,Somalia,1985
+7,LegGoods,Bosnia and Herzegovina,2012
+8,MustStudio,Mongolia,2020
+9,GoalLabs,Armenia,2005
+10,PoorGoods,Mongolia,2018
+11,ListLabs,China,2015
+12,ProjectGoods,Canada,1995
+13,HappyGoods,Kazakhstan,2010
+14,EatWorks,Georgia,1987
+15,WhetherGoods,Senegal,1994
+16,WordLabs,Ukraine,1998
+17,FeelCo,Bangladesh,2020
+18,RespondCo,Kyrgyz Republic,2014
+19,ChairWorks,Ukraine,1995
+20,CourseStudio,Zimbabwe,2004
+21,EconomyCo,Canada,1980
+22,ClearWorks,Svalbard & Jan Mayen Islands,2012
+23,TogetherGoods,Falkland Islands (Malvinas),1999
+24,EdgeLabs,Norfolk Island,1998
+25,FromGoods,Netherlands,2010
+26,HotLabs,Guinea,2003
+27,ThingStudio,Nepal,1973
+28,WhoseWorks,Equatorial Guinea,1985
+29,StillWorks,Azerbaijan,1979
+30,ClassCo,Netherlands,2008
+31,CourseWorks,Switzerland,1971
+32,RealityStudio,North Macedonia,1980
+33,NecessaryCo,Saint Lucia,2001
+34,ThingGoods,Armenia,2006
+35,YardWorks,Senegal,1996
+36,RaceGoods,Falkland Islands (Malvinas),2015
+37,AcceptGoods,Senegal,2018
+38,MarriageWorks,Somalia,1977
+39,TaxLabs,Switzerland,2020
+40,AreaGoods,Timor-Leste,2002
+41,ResourceCo,Nigeria,2003
+42,HourWorks,Niue,1975
+43,ChoiceCo,Guinea,2002
+44,SpaceGoods,Oman,2008
+45,ConsiderGoods,Nepal,2000
+46,AdmitCo,Svalbard & Jan Mayen Islands,1974
+47,ClassGoods,Georgia,1997
+48,ShortWorks,Equatorial Guinea,2019
+49,BecauseGoods,Saudi Arabia,2008
+50,AheadCo,Nicaragua,1977
+51,HourCo,Niue,2020
+52,TvWorks,Tonga,2020
+53,DrawCo,Niue,1978
+54,TableLabs,Zambia,2012
+55,ServeGoods,Mozambique,1991
+56,WayCo,Latvia,2001
+57,StillGoods,Belarus,1993
+58,GirlCo,Nauru,2011
+59,JoinCo,Somalia,2022
+60,SourceWorks,Hungary,2012
+61,CampaignGoods,France,2019
+62,DrawLabs,Nauru,2020
+63,NorthStudio,Saudi Arabia,1974
+64,NewStudio,North Macedonia,1983
+65,MovieWorks,Congo,2008
+66,BringWorks,Uzbekistan,2001
+67,ClearLabs,Somalia,1972
+68,EndGoods,Nigeria,1975
+69,TableWorks,Congo,1997
+70,SendLabs,Barbados,2002
+71,WhatCo,Armenia,1978
+72,SpendCo,Hungary,1979
+73,RespondStudio,Lithuania,1976
+74,CollegeWorks,Tonga,1999
+75,CompanyWorks,Latvia,1970
+76,AffectWorks,Sierra Leone,2000
+77,RealityGoods,Lithuania,1995
+78,TodayCo,Zambia,1994
+79,PreventLabs,United States of America,2006
+80,PictureWorks,Switzerland,1997
+81,OpenGoods,Nepal,2008
+82,SafeWorks,Bermuda,2010
+83,EnoughWorks,Ukraine,2018
+84,ChoiceStudio,Equatorial Guinea,2012
+85,ColdCo,Kyrgyz Republic,1997
+86,BetterWorks,Dominica,1996
+87,BeatWorks,Germany,1982
+88,CatchStudio,Falkland Islands (Malvinas),2001
+89,StrongLabs,Pitcairn Islands,1977
+90,SongStudio,Netherlands,2019
+91,BloodLabs,Palau,2014
+92,NewsWorks,Bermuda,1976
+93,ScientistWorks,Senegal,2011
+94,IncludingStudio,Mongolia,1976
+95,MedicalLabs,Zimbabwe,2008
+96,StrategyCo,Netherlands,1974
+97,SafeLabs,Zimbabwe,1995
+98,CitizenStudio,Zimbabwe,2004
+99,StrongCo,Falkland Islands (Malvinas),2008
+100,ReachStudio,Senegal,1992
+101,RateWorks,Cape Verde,2018
+102,BitCo,Kyrgyz Republic,2011
+103,FromLabs,South Africa,1981
+104,NameWorks,Cape Verde,2005
+105,WeightLabs,Tonga,2008
+106,ThenCo,Congo,1987
+107,TaxGoods,Kenya,2009
+108,ThingCo,Svalbard & Jan Mayen Islands,2017
+109,RoomLabs,Argentina,2013
+110,LifeLabs,Cameroon,2010
+111,YourGoods,Palau,2003
+112,BoardGoods,Senegal,1984
+113,StrategyGoods,Nicaragua,2012
+114,PhysicalStudio,Cameroon,1989
+115,ImpactGoods,Nigeria,1998
+116,PictureLabs,Falkland Islands (Malvinas),1986
+117,WeightStudio,Bangladesh,1986
+118,PowerStudio,Kyrgyz Republic,1978
+119,ResourceLabs,Timor-Leste,2020
+120,SecondLabs,Mongolia,1977
+121,ImagineCo,Nicaragua,1974
+122,LetCo,Senegal,2019
+123,PutWorks,Korea,1999
+124,ResourceWorks,Kazakhstan,1993
+125,ThingLabs,Heard Island and McDonald Islands,2009
+126,NecessaryLabs,Kyrgyz Republic,1990
+127,DaughterStudio,Tonga,1976
+128,SendWorks,Madagascar,2008
+129,WhileStudio,Latvia,1979
+130,KidStudio,Suriname,1999
+131,AssumeLabs,Canada,2020
+132,GrowthLabs,Senegal,2019
+133,PictureStudio,Mozambique,1989
+134,PaperGoods,Zambia,2011
+135,ChanceLabs,Zambia,2002
+136,GetGoods,Sierra Leone,1995
+137,UseWorks,Madagascar,1977
+138,ChargeStudio,Gabon,1989
+139,PowerLabs,Saint Vincent and the Grenadines,2004
+140,LittleStudio,North Macedonia,2022
+141,RecognizeStudio,Kyrgyz Republic,1970
+142,WhoseCo,Suriname,2008
+143,BecomeCo,Saint Lucia,2014
+144,PowerWorks,Uzbekistan,2020
+145,CareCo,Somalia,1992
+146,FishLabs,Bangladesh,1976
+147,YourWorks,Mozambique,1984
+148,ThroughoutStudio,Equatorial Guinea,2015
+149,GroundCo,Cameroon,2016
+150,LifeCo,Nicaragua,2003
+151,WordGoods,Equatorial Guinea,1976
+152,FilmStudio,Cameroon,1976
+153,NameStudio,Norway,1995
+154,UseLabs,Zimbabwe,2001
+155,SingleStudio,Korea,1971
+156,RecentlyCo,Cameroon,2006
+157,AmericanWorks,Nicaragua,1998
+158,LandWorks,Nepal,1970
+159,ImagineLabs,Timor-Leste,1975
+160,HimCo,Micronesia,1994
+161,MaybeGoods,Sierra Leone,2008
+162,HotelLabs,Korea,2013
+163,NecessaryGoods,Senegal,1992
+164,HouseWorks,Timor-Leste,1985
+165,DoctorLabs,South Africa,2021
+166,LandLabs,Oman,1994
+167,EconomyLabs,Guinea,1986
+168,StudentCo,Madagascar,1993
+169,AttorneyStudio,Azerbaijan,1970
+170,ServeStudio,Oman,1986
+171,WesternLabs,Switzerland,1997
+172,RequireCo,China,2018
+173,ThreeStudio,Nicaragua,2009
+174,RevealCo,Latvia,2011
+175,CollegeGoods,Senegal,1998
+176,AreaCo,Bangladesh,1975
+177,TechnologyLabs,Armenia,1990
+178,DarkWorks,Madagascar,2022
+179,WestGoods,Nicaragua,1972
+180,NeedStudio,Niue,2016
+181,CoupleCo,Oman,2006
+182,IssueCo,Turkmenistan,1985
+183,ForLabs,Kyrgyz Republic,2011
+184,MoneyLabs,Madagascar,2014
+185,Laugh798,Sierra Leone,1972
+186,Land973,Lithuania,1975
+187,Serve550,Cameroon,2005
+188,Catch229,Netherlands,2022
+189,Purpose112,Nigeria,1971
+190,Entire306,Germany,2005
+191,Tax218,Senegal,1977
+192,Point709,North Macedonia,2004
+193,North209,Nauru,2003
+194,Your555,Zambia,1974
+195,Edge724,Kiribati,2006
+196,Imagine622,Uzbekistan,2017
+197,Recently279,Kazakhstan,2015
+198,Base822,Uzbekistan,1971
+199,More743,Heard Island and McDonald Islands,1983
+200,Leg764,Mozambique,1982

@@ -1,0 +1,101 @@
+promotion_id,campaign_name,discount_percent,start_date,end_date,promotion_type
+1,Flash Sale 2023,5,2023-12-25,2024-01-05,Flash Sale
+2,New Launch 2023,30,2023-08-30,2023-09-12,New Launch
+3,Flash Sale 2024,20,2024-01-25,2024-01-31,Flash Sale
+4,Flash Sale 2024,10,2024-01-07,2024-01-27,Flash Sale
+5,Flash Sale 2023,20,2023-02-07,2023-02-15,Flash Sale
+6,New Launch 2024,10,2024-03-12,2024-04-06,New Launch
+7,Seasonal 2023,25,2023-01-17,2023-02-10,Seasonal
+8,Flash Sale 2023,5,2023-07-25,2023-08-11,Flash Sale
+9,Seasonal 2023,15,2023-09-20,2023-10-13,Seasonal
+10,Flash Sale 2023,25,2023-11-13,2023-11-23,Flash Sale
+11,New Launch 2025,20,2025-05-19,2025-06-06,New Launch
+12,Clearance 2024,30,2024-09-01,2024-09-20,Clearance
+13,Seasonal 2024,25,2024-04-05,2024-05-02,Seasonal
+14,New Launch 2023,5,2023-10-14,2023-10-23,New Launch
+15,Seasonal 2024,25,2024-01-28,2024-02-05,Seasonal
+16,Clearance 2025,15,2025-01-03,2025-01-20,Clearance
+17,Loyalty Bonus 2023,25,2023-06-24,2023-07-06,Loyalty Bonus
+18,Seasonal 2025,15,2025-02-08,2025-02-27,Seasonal
+19,Flash Sale 2025,10,2025-01-19,2025-02-12,Flash Sale
+20,Clearance 2023,30,2023-08-29,2023-09-04,Clearance
+21,Flash Sale 2023,20,2023-12-15,2023-12-29,Flash Sale
+22,New Launch 2025,5,2025-06-26,2025-07-01,New Launch
+23,New Launch 2023,20,2023-10-08,2023-10-16,New Launch
+24,New Launch 2024,15,2024-02-02,2024-02-15,New Launch
+25,New Launch 2024,25,2024-08-26,2024-09-18,New Launch
+26,Seasonal 2024,30,2024-02-09,2024-02-27,Seasonal
+27,Flash Sale 2024,5,2024-11-08,2024-12-06,Flash Sale
+28,Flash Sale 2023,15,2023-02-10,2023-02-24,Flash Sale
+29,Clearance 2025,30,2025-01-31,2025-02-17,Clearance
+30,Seasonal 2024,20,2024-04-18,2024-05-11,Seasonal
+31,Seasonal 2023,25,2023-12-26,2024-01-04,Seasonal
+32,Seasonal 2023,25,2023-11-21,2023-12-19,Seasonal
+33,Flash Sale 2024,20,2024-10-20,2024-10-27,Flash Sale
+34,New Launch 2025,25,2025-04-06,2025-04-28,New Launch
+35,Seasonal 2023,30,2023-03-14,2023-04-02,Seasonal
+36,Flash Sale 2025,15,2025-02-18,2025-02-21,Flash Sale
+37,Loyalty Bonus 2024,15,2024-09-04,2024-09-27,Loyalty Bonus
+38,New Launch 2025,25,2025-07-31,2025-08-18,New Launch
+39,Flash Sale 2023,25,2023-08-09,2023-08-15,Flash Sale
+40,Seasonal 2025,10,2025-02-01,2025-03-01,Seasonal
+41,Seasonal 2024,15,2024-03-27,2024-04-01,Seasonal
+42,New Launch 2023,15,2023-07-23,2023-08-11,New Launch
+43,Flash Sale 2023,15,2023-03-24,2023-04-07,Flash Sale
+44,Loyalty Bonus 2023,30,2023-09-10,2023-10-01,Loyalty Bonus
+45,Flash Sale 2024,10,2024-01-31,2024-02-14,Flash Sale
+46,New Launch 2024,20,2024-02-11,2024-03-02,New Launch
+47,New Launch 2025,25,2025-08-24,2025-08-27,New Launch
+48,Seasonal 2024,25,2024-10-02,2024-10-15,Seasonal
+49,Seasonal 2024,30,2024-05-17,2024-06-15,Seasonal
+50,Loyalty Bonus 2025,5,2025-02-16,2025-03-08,Loyalty Bonus
+51,Seasonal 2024,15,2024-02-22,2024-03-11,Seasonal
+52,Seasonal 2023,15,2023-04-23,2023-05-20,Seasonal
+53,Flash Sale 2023,15,2023-10-03,2023-10-14,Flash Sale
+54,Clearance 2024,20,2024-01-23,2024-02-01,Clearance
+55,Clearance 2025,20,2025-09-21,2025-10-20,Clearance
+56,Seasonal 2025,15,2025-09-08,2025-09-20,Seasonal
+57,New Launch 2023,25,2023-10-12,2023-10-23,New Launch
+58,Loyalty Bonus 2023,25,2023-06-16,2023-06-23,Loyalty Bonus
+59,Seasonal 2025,5,2025-02-01,2025-02-20,Seasonal
+60,New Launch 2025,30,2025-05-18,2025-05-23,New Launch
+61,Loyalty Bonus 2025,30,2025-04-10,2025-04-13,Loyalty Bonus
+62,New Launch 2023,30,2023-11-24,2023-12-23,New Launch
+63,Clearance 2024,10,2024-06-15,2024-07-10,Clearance
+64,New Launch 2023,5,2023-09-21,2023-10-03,New Launch
+65,Loyalty Bonus 2024,5,2024-12-06,2024-12-25,Loyalty Bonus
+66,Flash Sale 2025,10,2025-02-18,2025-03-16,Flash Sale
+67,Clearance 2024,25,2024-10-02,2024-10-17,Clearance
+68,Clearance 2025,10,2025-06-15,2025-07-08,Clearance
+69,Loyalty Bonus 2024,10,2024-01-29,2024-02-01,Loyalty Bonus
+70,Loyalty Bonus 2024,5,2024-03-15,2024-04-10,Loyalty Bonus
+71,Clearance 2025,10,2025-08-25,2025-09-06,Clearance
+72,New Launch 2024,20,2024-08-12,2024-08-27,New Launch
+73,Flash Sale 2025,15,2025-01-26,2025-02-01,Flash Sale
+74,Flash Sale 2023,10,2023-10-20,2023-11-16,Flash Sale
+75,New Launch 2023,30,2023-11-16,2023-11-27,New Launch
+76,Seasonal 2024,15,2024-06-25,2024-07-09,Seasonal
+77,Clearance 2024,25,2024-05-23,2024-06-01,Clearance
+78,New Launch 2024,15,2024-07-15,2024-07-26,New Launch
+79,Clearance 2023,15,2023-01-06,2023-02-01,Clearance
+80,New Launch 2025,10,2025-06-21,2025-07-04,New Launch
+81,Flash Sale 2023,15,2023-04-28,2023-05-16,Flash Sale
+82,New Launch 2023,30,2023-04-22,2023-04-27,New Launch
+83,Seasonal 2024,10,2024-05-05,2024-05-22,Seasonal
+84,Loyalty Bonus 2023,20,2023-04-13,2023-04-23,Loyalty Bonus
+85,Clearance 2023,30,2023-10-04,2023-10-11,Clearance
+86,Loyalty Bonus 2023,10,2023-10-22,2023-11-01,Loyalty Bonus
+87,Loyalty Bonus 2023,15,2023-08-20,2023-08-29,Loyalty Bonus
+88,Loyalty Bonus 2023,20,2023-03-27,2023-04-22,Loyalty Bonus
+89,Seasonal 2025,15,2025-04-09,2025-04-26,Seasonal
+90,Loyalty Bonus 2023,30,2023-06-07,2023-07-02,Loyalty Bonus
+91,Seasonal 2025,25,2025-09-29,2025-10-07,Seasonal
+92,Loyalty Bonus 2024,20,2024-09-03,2024-09-25,Loyalty Bonus
+93,Seasonal 2025,20,2025-10-01,2025-10-14,Seasonal
+94,Loyalty Bonus 2024,30,2024-06-21,2024-07-19,Loyalty Bonus
+95,Seasonal 2023,15,2023-11-26,2023-12-14,Seasonal
+96,Seasonal 2024,30,2024-05-20,2024-06-03,Seasonal
+97,Flash Sale 2023,5,2023-07-03,2023-07-12,Flash Sale
+98,Seasonal 2025,15,2025-08-07,2025-09-03,Seasonal
+99,Flash Sale 2025,25,2025-08-22,2025-09-05,Flash Sale
+100,Clearance 2023,30,2023-11-21,2023-12-19,Clearance

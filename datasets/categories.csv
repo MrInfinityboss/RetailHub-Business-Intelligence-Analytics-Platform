@@ -1,0 +1,26 @@
+category_id,category_name,parent_category
+1,Electronics,
+2,Fashion,
+3,Home,
+4,Sports,
+5,Beauty,
+6,Books,
+7,Furniture,
+8,Mobiles,Electronics
+9,Laptops,Electronics
+10,Audio,Electronics
+11,Cameras,Electronics
+12,Men's Wear,Fashion
+13,Women's Wear,Fashion
+14,Footwear,Fashion
+15,Kitchen,Home
+16,Decor,Home
+17,Cleaning,Home
+18,Fitness,Sports
+19,Outdoor,Sports
+20,Skincare,Beauty
+21,Makeup,Beauty
+22,Fiction,Books
+23,Non-Fiction,Books
+24,Living Room,Furniture
+25,Bedroom,Furniture

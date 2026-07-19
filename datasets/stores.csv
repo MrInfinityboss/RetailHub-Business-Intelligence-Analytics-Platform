@@ -1,0 +1,101 @@
+store_id,store_name,city,state,opening_date,manager_id
+1,Gilmorefort Store,North Ricky,Colorado,2021-11-04,1811
+2,Wallport Store,Port Markside,Minnesota,2015-09-24,688
+3,Hallchester Store,East Joshuashire,Texas,2021-05-25,666
+4,New Michelleton Store,Port Emilyview,Wyoming,2015-02-21,312
+5,West Russellport Store,East Judyhaven,Wyoming,2020-03-24,1772
+6,Port Joshuabury Store,Port Anne,West Virginia,2019-04-19,596
+7,Navarroview Store,Bruceside,Oregon,2019-03-22,1202
+8,Roseport Store,Carterbury,Nevada,2019-06-14,496
+9,Finleyfort Store,North Kristinbury,Maine,2019-06-06,1786
+10,Lake Michaelstad Store,Chavezburgh,Nevada,2018-09-01,1582
+11,Alfredview Store,Alfredview,Montana,2019-01-24,1014
+12,Harveybury Store,Lake Edward,Vermont,2020-02-12,705
+13,Jacksonport Store,Port Jacquelineside,Nevada,2021-11-15,1330
+14,Jacksonport Store,Port Cameronfort,South Dakota,2019-12-21,1004
+15,New Brian Store,East Kristin,Maryland,2020-10-13,1886
+16,Hallchester Store,Scotttown,Michigan,2022-07-13,1371
+17,Lake Mollymouth Store,Baileyport,Arizona,2023-11-28,62
+18,Maryshire Store,Vaughnmouth,Montana,2015-12-24,1643
+19,Margaretland Store,Barajasside,California,2021-06-02,403
+20,West Juliefurt Store,North Scott,Arizona,2017-01-10,620
+21,New Crystalton Store,Chavezburgh,Michigan,2016-10-09,882
+22,Garciatown Store,Finleyfort,South Dakota,2022-02-20,428
+23,Port Anne Store,Lake Mollymouth,Michigan,2015-08-14,1888
+24,West Brandon Store,Davidfort,Hawaii,2022-08-19,1958
+25,Lake Debbieport Store,Jackton,Wyoming,2021-12-08,330
+26,Williamville Store,Durhamberg,Montana,2023-12-15,657
+27,Port Anne Store,Vanessaport,Maine,2021-01-05,750
+28,Lake Christopher Store,East Gregory,Oregon,2022-11-10,1366
+29,Margaretland Store,New Diane,California,2016-01-25,1216
+30,Lake Alyssafurt Store,North Terrance,Oregon,2023-01-04,1379
+31,Rossville Store,Roseport,Nebraska,2016-06-11,72
+32,East Karenbury Store,Jeremyburgh,California,2017-10-30,1040
+33,Garciatown Store,Port Molly,Montana,2016-02-26,432
+34,Michaelmouth Store,Alyssaview,Colorado,2018-08-13,475
+35,Davisville Store,Waltersfort,Hawaii,2021-09-28,1566
+36,East Andrea Store,Port Emilyview,Montana,2017-05-31,302
+37,New Brian Store,North Kristinbury,Montana,2022-05-27,72
+38,Hollyview Store,Carsonstad,Oklahoma,2020-06-16,987
+39,Brownhaven Store,East Karenbury,Montana,2020-08-29,1487
+40,East Randallton Store,East Javier,Hawaii,2023-06-14,1034
+41,Shawnchester Store,West Robin,California,2018-11-20,344
+42,Navarroview Store,East Kevinborough,Iowa,2018-02-07,1563
+43,Lake John Store,West Jeffreybury,Nevada,2023-12-15,770
+44,Vaughnmouth Store,Michaelchester,West Virginia,2020-01-06,1438
+45,West Wendyville Store,South Dana,Minnesota,2020-07-13,418
+46,Chavezburgh Store,Port Joshuabury,Wyoming,2017-09-01,1819
+47,Morganchester Store,Brownhaven,Alaska,2016-12-09,592
+48,East Randallton Store,East Gregory,Alaska,2016-07-12,1946
+49,Kristopherbury Store,North Kristinbury,Alaska,2017-01-05,762
+50,Moonburgh Store,Tinaborough,Hawaii,2016-10-03,1473
+51,Ericaberg Store,North Marcberg,Oregon,2021-09-21,1012
+52,Lake Jamesville Store,Port Jacquelineside,California,2015-07-10,172
+53,Loriport Store,North Kristinbury,Virginia,2020-08-31,220
+54,Donnaburgh Store,Rosebury,South Dakota,2023-07-19,814
+55,Lake Alyssafurt Store,New John,Arizona,2021-11-22,404
+56,Tinaborough Store,Gordonton,Arizona,2018-08-17,1234
+57,Port Jaredborough Store,Bruceside,New Jersey,2015-07-15,296
+58,East Laurashire Store,Matthewfurt,Hawaii,2022-07-05,1200
+59,Port Jaredborough Store,Jacksonport,Virginia,2015-01-11,422
+60,Lake Debbieport Store,Carsonstad,Maine,2021-02-18,384
+61,Maryshire Store,Margaretland,Maryland,2021-01-15,740
+62,East Joshuaport Store,Davisstad,California,2016-09-23,1182
+63,Elainefurt Store,Lake Brycemouth,North Dakota,2021-08-29,805
+64,Port Dominiqueview Store,Emilyview,Michigan,2016-07-30,709
+65,West Wendyville Store,Gilmorefort,Arizona,2017-01-11,695
+66,West Amandamouth Store,Port Chad,Oregon,2022-04-23,691
+67,South Jennifermouth Store,Port Markside,Nevada,2023-10-25,812
+68,Scottmouth Store,West Wendyville,Oregon,2017-05-20,1673
+69,North Scott Store,Williamville,South Dakota,2023-04-18,1173
+70,North Marcberg Store,Chavezside,California,2023-03-22,849
+71,New Brian Store,East Joycetown,Ohio,2021-12-04,1516
+72,Coffeyside Store,Jasonhaven,Alaska,2016-04-05,1073
+73,Lake Madisonport Store,Lake Michaelstad,Montana,2017-09-11,1898
+74,New Brian Store,Reedside,Oregon,2021-02-06,1143
+75,Christopherfurt Store,West Robin,North Carolina,2023-12-30,442
+76,North Ericton Store,Matthewfurt,Nebraska,2022-05-01,1143
+77,New Kathybury Store,West Amandamouth,North Dakota,2018-10-13,1564
+78,Port Chad Store,Oscarhaven,California,2017-02-12,436
+79,New Crystalton Store,Grimesmouth,Mississippi,2023-08-24,418
+80,Taylormouth Store,North Scott,Michigan,2017-06-27,1219
+81,East Amanda Store,Lake Jamesville,North Carolina,2018-01-30,1770
+82,Port Emilyview Store,Kimtown,North Carolina,2023-09-07,684
+83,Mollymouth Store,Durhamberg,South Dakota,2020-01-21,1020
+84,Finleyfort Store,Jacksonport,South Carolina,2017-05-19,1330
+85,Christopherfurt Store,Baileyport,Nevada,2015-01-18,1349
+86,North Ericton Store,Navarroview,Pennsylvania,2018-11-14,309
+87,Stephaniefort Store,West Robin,Virginia,2023-11-16,792
+88,Gibsonmouth Store,New John,South Dakota,2018-11-23,1989
+89,Cantuport Store,Port Chad,Nevada,2021-04-19,1777
+90,Lake Brycemouth Store,Hayesmouth,Minnesota,2017-04-11,1562
+91,Christopherbury Store,Hallchester,Hawaii,2021-12-25,52
+92,New Michelleton Store,East Laurashire,Kansas,2021-12-25,838
+93,North Terrance Store,Reedside,Alaska,2020-06-23,115
+94,South Danny Store,West Amandamouth,Delaware,2021-12-12,620
+95,Coffeyside Store,New Crystalton,Hawaii,2020-03-18,1737
+96,Valentineberg Store,New John,North Dakota,2018-05-28,783
+97,Lake Edward Store,North Jeremyshire,New Jersey,2021-08-23,356
+98,Lake Madisonport Store,Meganstad,Michigan,2022-07-08,1460
+99,Jasminemouth Store,Port Molly,South Dakota,2022-07-28,1535
+100,Chavezside Store,Darrellfurt,Massachusetts,2016-12-01,1330

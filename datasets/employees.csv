@@ -1,0 +1,2001 @@
+employee_id,employee_name,department,designation,store_id,warehouse_id,hire_date,salary
+1,Jesse Orr,Warehouse,Assistant Manager,45,,2016-07-18,48722
+2,Natalie Horton,Operations,Manager,37,,2015-02-10,55785
+3,Matthew Waller,HR,Senior Associate,,24,2022-08-15,44639
+4,Leslie Burke,Finance,Assistant Manager,16,,2015-10-13,90319
+5,Kellie Rivas,Operations,Director,85,,2016-07-20,71515
+6,Emily Lambert,Finance,Associate,33,,2021-07-20,116280
+7,Jose Hernandez,Marketing,Director,,33,2025-02-20,28764
+8,Linda Cortez,Marketing,Assistant Manager,97,,2022-12-20,99542
+9,Shane Fisher,HR,Associate,51,,2015-05-11,111695
+10,Natalie Rodriguez,Operations,Director,,11,2016-11-05,72726
+11,Rachael Lewis,Operations,Associate,25,,2023-02-22,92340
+12,Robert Parker,Finance,Assistant Manager,28,,2023-01-22,68545
+13,Rebecca Diaz,Warehouse,Associate,73,,2019-04-21,82743
+14,John Mckee,Sales,Associate,46,,2025-06-12,111505
+15,Michael Hernandez,Finance,Assistant Manager,15,,2024-10-09,76780
+16,Richard Potter,Sales,Assistant Manager,,45,2023-03-06,81185
+17,Angela Ashley,Marketing,Assistant Manager,,26,2023-03-26,118776
+18,Jeffrey Aguilar,Warehouse,Senior Associate,,6,2023-08-19,73690
+19,Eric Chandler,Warehouse,Director,,32,2016-08-19,43933
+20,Tracey Gross,Sales,Associate,57,,2022-09-16,90820
+21,Erin Hill,Operations,Director,78,,2025-05-04,91745
+22,Tanya Graham,Marketing,Senior Associate,,43,2017-06-21,49818
+23,Matthew Cannon,HR,Assistant Manager,21,,2015-02-28,95042
+24,Christopher Fisher,Marketing,Director,,17,2018-12-21,33863
+25,Susan Potter,Marketing,Senior Associate,,24,2017-12-19,57440
+26,Bridget Chandler,Sales,Manager,65,,2025-06-11,106670
+27,John Chambers,Warehouse,Director,15,,2019-11-27,84810
+28,Courtney Gray,Marketing,Director,19,,2022-04-10,83868
+29,Sherri Mcdonald,Warehouse,Senior Associate,21,,2025-10-20,85127
+30,Andrew Elliott,HR,Manager,11,,2023-09-06,43168
+31,Jennifer Bell,HR,Senior Associate,76,,2023-03-29,116441
+32,Sharon Moore,Finance,Manager,,23,2025-08-28,55420
+33,Kellie Adkins,Marketing,Senior Associate,,32,2022-07-30,100352
+34,Andrew Atkinson,Marketing,Associate,,17,2017-07-18,119073
+35,Jesse Rogers,HR,Director,78,,2022-12-30,50164
+36,Helen Clark,HR,Assistant Manager,42,,2018-07-16,86366
+37,Jason Fletcher,Warehouse,Manager,48,,2018-08-22,31894
+38,Teresa Lawson,Sales,Associate,59,,2022-02-03,86522
+39,Mario Williams,Finance,Associate,,49,2018-06-21,68573
+40,Tanya Edwards,Sales,Manager,7,,2015-04-08,34639
+41,Zachary Ball,Finance,Assistant Manager,57,,2025-12-30,89824
+42,Joseph Walker,Warehouse,Senior Associate,,18,2021-04-14,117147
+43,Amanda Webb,Finance,Assistant Manager,8,,2022-05-16,35643
+44,Rodney Lewis,Marketing,Senior Associate,22,,2023-11-24,110136
+45,Jessica Carpenter,HR,Associate,27,,2021-12-24,105605
+46,Debra Adkins,HR,Manager,,9,2021-09-18,78395
+47,Deborah Russell,Warehouse,Associate,,49,2023-09-17,110926
+48,Jason Johnson,Warehouse,Associate,54,,2018-04-01,56463
+49,Mitchell Shelton,Sales,Associate,,28,2024-02-11,94246
+50,Danielle Nolan,Sales,Senior Associate,,11,2022-12-19,92221
+51,Christine Juarez,Finance,Manager,,7,2017-01-01,81404
+52,Christine Byrd,Marketing,Director,4,,2016-08-09,104670
+53,Shane Gates,Sales,Senior Associate,12,,2024-09-04,108618
+54,David Edwards,Operations,Associate,,24,2024-11-04,100323
+55,Amy Pearson,HR,Associate,66,,2025-12-06,82131
+56,Vincent Lewis,Finance,Senior Associate,,2,2016-02-10,117888
+57,Anna Cooke,Finance,Senior Associate,,18,2024-11-07,79111
+58,Michelle Payne,Finance,Senior Associate,6,,2024-07-01,86590
+59,John Pham,Sales,Director,,29,2023-06-12,45370
+60,Leslie Shields,Operations,Senior Associate,,50,2020-06-23,57552
+61,Christopher Hernandez,Warehouse,Assistant Manager,,35,2020-08-05,111231
+62,Lindsey Cherry,Sales,Assistant Manager,36,,2019-09-19,73809
+63,Randy Byrd,Warehouse,Associate,,10,2015-04-28,75033
+64,Susan Nolan,Warehouse,Senior Associate,39,,2020-07-04,103101
+65,Alec Christian,Marketing,Manager,,38,2017-08-10,57998
+66,Kyle Nelson,Operations,Manager,,16,2017-03-15,52411
+67,Reginald Herrera,Marketing,Associate,,43,2015-08-13,28816
+68,Deborah Kelley,Finance,Assistant Manager,86,,2020-01-13,49289
+69,Andrea Santos,Finance,Senior Associate,77,,2015-07-12,75111
+70,Jade Mcdonald,Finance,Senior Associate,30,,2024-05-07,94684
+71,Barbara Fisher,Marketing,Assistant Manager,95,,2024-10-14,58280
+72,Stacey Haynes,Operations,Director,22,,2023-10-24,68887
+73,Tanya Payne,Warehouse,Director,92,,2018-04-24,48392
+74,Ryan Dean,HR,Director,31,,2016-10-17,103124
+75,George Merritt,Marketing,Manager,,35,2020-07-20,76286
+76,Shawn Boyd,Sales,Associate,,7,2022-05-29,41218
+77,Nancy Fisher,Warehouse,Senior Associate,77,,2015-03-24,84080
+78,Whitney Cannon,Operations,Senior Associate,,21,2024-06-04,58884
+79,Rodney Morton,Operations,Senior Associate,,40,2019-10-29,107592
+80,Veronica Walker,Finance,Senior Associate,9,,2024-01-07,52665
+81,Kristen Torres,Operations,Associate,51,,2015-11-10,107555
+82,Sheila Cannon,Finance,Associate,,45,2019-09-07,92203
+83,Brooke Wang,Marketing,Assistant Manager,,6,2020-01-16,40453
+84,Christine Bishop,Finance,Manager,,6,2015-07-13,97858
+85,Joshua Nelson,Operations,Associate,,50,2022-10-13,94294
+86,Barbara Jackson,Sales,Manager,,29,2025-03-30,69952
+87,Joe Jones,Warehouse,Director,54,,2020-12-12,42784
+88,Brian Smith,HR,Manager,,8,2019-05-10,71978
+89,Amy Sanchez,Finance,Senior Associate,23,,2021-12-30,83992
+90,Mario Marshall,Warehouse,Senior Associate,,35,2018-12-21,40146
+91,Brianna Walton,Operations,Senior Associate,92,,2018-12-16,59379
+92,Jill Short,Marketing,Senior Associate,91,,2023-05-10,92568
+93,William Carpenter,Marketing,Director,,21,2021-07-02,78864
+94,Jerry Pope,HR,Director,90,,2017-11-26,119293
+95,Christine Sanders,Finance,Senior Associate,,9,2019-06-26,47939
+96,Barbara Jefferson,Marketing,Director,68,,2024-03-08,99568
+97,James Adams,Warehouse,Director,,22,2020-10-25,67140
+98,Angela Beck,Sales,Associate,,29,2015-11-02,48526
+99,Alec Decker,HR,Manager,26,,2024-06-05,115507
+100,Nicholas Walton,Warehouse,Assistant Manager,,21,2023-02-24,85327
+101,Tracy Lawson,Finance,Manager,34,,2017-12-08,77259
+102,Stephen Oconnell,Finance,Manager,,41,2025-08-16,55136
+103,Stuart Sanchez,Warehouse,Manager,,47,2025-06-21,109093
+104,Vanessa Dodson,Warehouse,Assistant Manager,,18,2025-12-14,30776
+105,Danielle Cochran,Warehouse,Senior Associate,97,,2019-02-27,38592
+106,Brent Baker,HR,Manager,38,,2025-02-28,44543
+107,Brian Short,HR,Senior Associate,,35,2023-11-15,88077
+108,Kevin Barton,HR,Director,58,,2024-07-30,37438
+109,Adam Aguilar,HR,Associate,89,,2021-01-07,101338
+110,Richard Cardenas,Marketing,Associate,36,,2018-01-25,46025
+111,Lindsey Lambert,Operations,Associate,85,,2017-06-30,90235
+112,Nicole Jordan,Operations,Senior Associate,,16,2025-08-19,101195
+113,Jason Robinson,Finance,Assistant Manager,74,,2020-07-11,108830
+114,Shawn Green,Marketing,Director,30,,2025-03-17,54940
+115,Shane Vance,HR,Manager,,43,2021-02-06,34872
+116,Michele Rodriguez,Warehouse,Associate,35,,2020-11-17,97647
+117,Leslie Graham,Warehouse,Senior Associate,,2,2015-10-22,69281
+118,David Johnson,Warehouse,Associate,80,,2019-06-04,115295
+119,John Garcia,Sales,Manager,,34,2021-02-12,45308
+120,Kevin Perez,HR,Assistant Manager,,8,2016-03-15,80833
+121,Lindsey Kennedy,Operations,Associate,,2,2016-10-13,38961
+122,Michael Rodriguez,Operations,Assistant Manager,33,,2021-07-01,72657
+123,Ronald Smith,HR,Senior Associate,93,,2017-09-24,28095
+124,Kristen Yu,Marketing,Assistant Manager,,7,2022-09-15,97011
+125,Whitney Rogers,Operations,Director,30,,2020-01-24,83649
+126,Wesley Nolan,Marketing,Assistant Manager,28,,2019-06-12,36932
+127,Monica Cochran,HR,Assistant Manager,88,,2016-04-16,73951
+128,Jose Charles,Marketing,Assistant Manager,,44,2019-06-20,67395
+129,Karen Silva,Warehouse,Associate,,36,2020-12-18,89975
+130,Nicole Mcdonald,Marketing,Associate,,48,2021-04-22,73891
+131,Brianna Johnson,HR,Senior Associate,,47,2017-12-21,70225
+132,Jose Garcia,Finance,Assistant Manager,18,,2015-04-22,104456
+133,Joseph Wagner,HR,Assistant Manager,100,,2025-04-14,75754
+134,Jason Gates,Warehouse,Assistant Manager,43,,2025-07-15,102908
+135,Brian Clark,HR,Senior Associate,,17,2024-12-11,109451
+136,James Sanders,Marketing,Director,49,,2018-03-10,106040
+137,Charles Nelson,Finance,Manager,,39,2021-08-18,115910
+138,Andrew Scott,Sales,Senior Associate,,50,2016-07-20,92204
+139,Kevin Mitchell,Finance,Assistant Manager,77,,2024-12-17,79681
+140,Jill Jackson,Marketing,Associate,10,,2015-01-23,76811
+141,Melissa Flynn,Finance,Manager,60,,2020-03-06,46814
+142,Linda Rivas,Warehouse,Assistant Manager,,15,2024-06-04,104164
+143,John Weiss,Warehouse,Assistant Manager,,15,2022-12-25,91781
+144,Frank Short,Finance,Senior Associate,,23,2024-06-30,108341
+145,Joshua Miller,HR,Associate,61,,2020-06-17,92536
+146,Christopher Benson,Warehouse,Associate,62,,2016-01-18,72204
+147,Jessica Charles,Warehouse,Associate,36,,2015-02-01,55161
+148,Vanessa Larson,Warehouse,Director,39,,2016-09-03,118680
+149,Randall Silva,Sales,Assistant Manager,69,,2015-08-20,95492
+150,Rebecca Williams,Sales,Manager,4,,2019-12-05,108483
+151,Matthew Caldwell,Sales,Manager,,37,2015-07-23,81820
+152,Jessica Oliver,Warehouse,Senior Associate,61,,2017-01-16,74963
+153,Nancy Baker,HR,Associate,63,,2019-08-13,31155
+154,Chad Yu,Warehouse,Associate,,37,2023-02-04,34374
+155,Jeremy Atkinson,Marketing,Assistant Manager,79,,2022-06-02,93022
+156,Charles Byrd,Operations,Associate,,43,2015-08-22,48653
+157,Michael Cardenas,Warehouse,Associate,,22,2024-12-08,35544
+158,Brian Wright,Operations,Assistant Manager,,20,2021-01-17,99428
+159,Angel Nolan,Operations,Manager,,20,2018-11-02,85088
+160,William Ortiz,HR,Manager,43,,2019-03-19,38226
+161,Joseph Miller,Operations,Senior Associate,,21,2024-05-01,73987
+162,Christine Kennedy,Operations,Associate,30,,2020-02-12,71221
+163,James Vance,Finance,Manager,60,,2017-09-14,28341
+164,Lisa Walker,Finance,Senior Associate,5,,2019-09-03,83646
+165,Tanya Rivas,Operations,Manager,49,,2015-10-02,64495
+166,Charles King,Sales,Associate,,27,2016-09-07,108807
+167,Ryan Daniels,Operations,Senior Associate,4,,2018-06-17,38646
+168,Jeffrey Benson,HR,Associate,44,,2017-06-04,105934
+169,Amanda Nelson,Marketing,Manager,75,,2018-11-04,28590
+170,Randy Ryan,Sales,Senior Associate,,49,2015-09-18,98313
+171,James Byrd,Sales,Senior Associate,9,,2021-09-17,99998
+172,Cassandra Barnes,HR,Manager,,23,2016-04-08,65507
+173,Leslie Vance,Marketing,Manager,,39,2017-05-21,53810
+174,Lisa Salinas,HR,Senior Associate,58,,2025-10-04,41086
+175,Christopher Oliver,Marketing,Assistant Manager,,44,2015-01-24,59274
+176,Melissa Walker,HR,Senior Associate,69,,2018-01-29,89607
+177,Mary Kennedy,Sales,Senior Associate,54,,2020-07-02,94689
+178,Chad Charles,Warehouse,Manager,,7,2018-05-18,44678
+179,Christopher Yu,Finance,Associate,,43,2018-07-11,29024
+180,Aaron Rivas,HR,Manager,16,,2016-05-25,79640
+181,Alexandra Coleman,Operations,Manager,67,,2019-08-29,81432
+182,Kevin Zavala,Operations,Associate,34,,2023-04-23,118222
+183,Christopher Rodriguez,HR,Manager,25,,2021-06-20,98042
+184,Karen Hill,Warehouse,Associate,,22,2025-03-02,78628
+185,Brooke Stein,HR,Assistant Manager,,22,2022-09-12,82448
+186,Bridget Smith,Warehouse,Associate,,9,2023-09-09,87391
+187,Michelle Potter,Warehouse,Associate,89,,2019-10-01,69559
+188,Richard Ramirez,HR,Senior Associate,,18,2021-09-27,90336
+189,Jeremy Lin,Sales,Assistant Manager,,24,2021-05-12,45980
+190,Jacob Rasmussen,Warehouse,Assistant Manager,,40,2023-12-12,104395
+191,Cheryl Ashley,Warehouse,Manager,19,,2020-07-06,107274
+192,Chad Martinez,Finance,Associate,76,,2019-06-13,68018
+193,Wendy Atkinson,Finance,Senior Associate,96,,2015-10-09,70013
+194,Joyce Kelley,Warehouse,Assistant Manager,100,,2024-06-15,73770
+195,Joshua Keith,Operations,Associate,58,,2019-10-16,103198
+196,Jason Morrison,Operations,Assistant Manager,76,,2023-10-14,44189
+197,John Clark,Operations,Senior Associate,,22,2022-06-17,59420
+198,Jessica Payne,Operations,Associate,86,,2015-01-07,84550
+199,Kathryn Gonzalez,Finance,Assistant Manager,,4,2022-03-02,91793
+200,Noah Burton,Sales,Associate,84,,2020-05-13,55209
+201,David Adkins,Sales,Senior Associate,,43,2017-08-21,38780
+202,Randy Bell,HR,Associate,74,,2017-11-29,74701
+203,Antonio Soto,Operations,Manager,42,,2022-01-07,86747
+204,Nicole Garcia,Finance,Associate,,30,2015-12-13,98523
+205,Michelle Boyd,Finance,Associate,,3,2021-09-02,28273
+206,Cassandra Adkins,Finance,Manager,94,,2024-04-23,29616
+207,Dana Schultz,Warehouse,Director,59,,2015-12-15,63558
+208,Lindsay Holmes,Warehouse,Associate,,8,2015-02-01,79880
+209,Tanya Garcia,Warehouse,Manager,,21,2015-09-01,28328
+210,Susan Atkinson,Operations,Director,64,,2023-01-12,43956
+211,Michelle Parker,HR,Senior Associate,57,,2024-04-29,66539
+212,Adam Walker,Marketing,Manager,52,,2025-11-14,53703
+213,Laura Alvarez,Operations,Director,,38,2015-04-26,93370
+214,Linda Sanchez,Sales,Assistant Manager,86,,2020-04-20,31193
+215,Sara Cherry,HR,Senior Associate,15,,2015-07-13,109727
+216,Cheryl Stevens,Warehouse,Assistant Manager,,31,2019-01-31,43590
+217,Nicole Carpenter,Finance,Assistant Manager,73,,2018-05-22,68538
+218,Robert Smith,Marketing,Manager,82,,2021-08-31,118769
+219,Brooke Flynn,Marketing,Manager,78,,2024-12-31,88964
+220,Martha Sanchez,Warehouse,Director,80,,2023-11-08,119864
+221,Christopher Jordan,Marketing,Director,86,,2015-09-13,29809
+222,Michelle Nolan,Sales,Director,97,,2017-08-23,94226
+223,Charles Jones,Warehouse,Assistant Manager,,13,2018-01-09,34964
+224,Wendy Parker,Operations,Senior Associate,,13,2017-10-04,84290
+225,Alyssa Lee,Marketing,Associate,57,,2018-11-20,57987
+226,Kevin Webster,HR,Associate,71,,2021-09-05,99484
+227,Robert Cherry,Warehouse,Director,11,,2023-02-19,39440
+228,Brandon Clark,Sales,Senior Associate,,21,2025-05-04,110482
+229,Jesse Anderson,Finance,Associate,55,,2022-09-25,72229
+230,Brenda Oconnell,HR,Senior Associate,,16,2018-04-14,75776
+231,Rodney Flores,Marketing,Associate,22,,2017-01-09,80542
+232,Jade Nelson,Warehouse,Manager,,46,2019-02-22,31246
+233,Janet Smith,Sales,Manager,45,,2023-10-19,56557
+234,Todd Martinez,Warehouse,Senior Associate,,18,2025-12-05,93264
+235,Susan Dixon,HR,Assistant Manager,67,,2019-04-26,116396
+236,Destiny Adkins,Operations,Manager,,12,2016-12-09,118583
+237,Breanna Bryant,Sales,Director,91,,2015-01-20,77284
+238,Craig Shields,Finance,Assistant Manager,,46,2015-11-06,51740
+239,Amber Molina,HR,Associate,,20,2022-01-02,71936
+240,Rebecca Salinas,Warehouse,Senior Associate,,38,2021-06-27,70638
+241,Elizabeth Johnson,HR,Assistant Manager,23,,2022-01-28,64546
+242,Corey Hernandez,Finance,Manager,26,,2015-04-08,61237
+243,Rodney Nelson,Sales,Assistant Manager,48,,2019-10-22,107886
+244,Tanya Cannon,Warehouse,Senior Associate,73,,2016-12-25,63923
+245,Adam Ray,Operations,Associate,96,,2018-09-14,30691
+246,Dennis Lawson,Sales,Assistant Manager,,7,2021-11-05,94368
+247,Mitchell Atkinson,Sales,Assistant Manager,,15,2018-01-12,89186
+248,Rita Marshall,Warehouse,Assistant Manager,45,,2022-04-03,62813
+249,Sherri Martinez,HR,Manager,,30,2018-03-07,85959
+250,Wendy Cannon,HR,Associate,,11,2020-08-12,114579
+251,Robert Pope,Finance,Assistant Manager,,1,2020-01-19,113046
+252,John Schultz,Warehouse,Assistant Manager,19,,2019-03-22,100648
+253,Sarah Gilbert,HR,Assistant Manager,3,,2016-05-21,81667
+254,Pamela Moore,Finance,Associate,,39,2021-05-04,30543
+255,Laura Smith,HR,Assistant Manager,81,,2025-11-22,75123
+256,Alan Davenport,Marketing,Assistant Manager,52,,2022-01-29,103306
+257,Shawn Bishop,Operations,Director,,28,2023-03-16,105730
+258,Todd Pham,Finance,Manager,,4,2023-11-03,99102
+259,Samuel Robertson,Finance,Assistant Manager,,12,2015-06-03,118758
+260,Linda Shields,HR,Manager,,2,2023-09-21,75517
+261,Danielle Cardenas,Sales,Assistant Manager,21,,2017-09-01,38092
+262,Deborah Molina,HR,Assistant Manager,26,,2022-04-25,73707
+263,Jennifer Cook,Marketing,Assistant Manager,87,,2025-10-28,57321
+264,Meghan Boyd,HR,Director,88,,2024-11-02,104868
+265,Alyssa Caldwell,Sales,Associate,77,,2019-07-24,99496
+266,Adam Wright,Operations,Assistant Manager,,44,2024-03-21,67080
+267,Debra Rodriguez,HR,Assistant Manager,58,,2021-10-21,63718
+268,Adam Murray,Finance,Manager,,6,2016-06-19,42670
+269,Joseph White,Warehouse,Manager,86,,2017-08-21,31971
+270,William Anderson,Marketing,Assistant Manager,9,,2025-07-10,56786
+271,Melissa Coleman,Finance,Manager,75,,2025-01-25,50173
+272,Rita Evans,Operations,Manager,52,,2024-10-23,52398
+273,William Flynn,Operations,Director,,2,2019-03-24,119859
+274,Melissa Robinson,Marketing,Assistant Manager,46,,2018-07-13,90657
+275,Michelle Cannon,HR,Senior Associate,16,,2023-11-13,78727
+276,Breanna Gross,Marketing,Director,,25,2015-03-23,44456
+277,Frank Vance,Marketing,Senior Associate,64,,2024-11-15,105385
+278,Matthew Coleman,Warehouse,Associate,47,,2021-08-23,87319
+279,Allison Garcia,Sales,Director,38,,2021-12-17,75362
+280,Tracey Johnson,Marketing,Senior Associate,35,,2019-10-28,70868
+281,Antonio Schultz,HR,Senior Associate,,24,2025-10-09,78836
+282,Jeremy Wilson,Sales,Senior Associate,27,,2023-03-31,105248
+283,Brian Fisher,HR,Manager,29,,2015-08-05,94251
+284,Jessica Short,Sales,Associate,28,,2020-10-08,72619
+285,Marie Phillips,Operations,Associate,2,,2024-06-15,89421
+286,Sherri Snyder,Warehouse,Senior Associate,93,,2015-11-04,113541
+287,Erica Poole,Warehouse,Senior Associate,,46,2023-02-08,58014
+288,Amy Lambert,HR,Associate,17,,2017-09-10,110843
+289,Todd Rosales,Marketing,Director,,17,2020-07-28,83824
+290,Susan Garcia,Warehouse,Manager,99,,2024-09-15,45046
+291,Diana Charles,Finance,Associate,48,,2020-06-01,116959
+292,Sheila Dominguez,Marketing,Associate,33,,2015-06-01,91127
+293,Amanda Gates,Finance,Director,,25,2015-03-25,63506
+294,Julie Gross,Operations,Senior Associate,,47,2023-02-07,47745
+295,Erin Bishop,Finance,Associate,32,,2025-03-29,112252
+296,Cassandra Elliott,Operations,Assistant Manager,25,,2018-03-19,103743
+297,John Martin,Warehouse,Director,,9,2025-04-16,32095
+298,Thomas Mitchell,HR,Senior Associate,6,,2019-12-24,86486
+299,Jason Oconnell,Operations,Assistant Manager,43,,2015-08-24,38544
+300,Alyssa Graham,Sales,Manager,80,,2020-11-03,55058
+301,Joseph Nolan,Marketing,Associate,,27,2025-09-17,80257
+302,Ryan Jones,Finance,Assistant Manager,,33,2017-10-01,50919
+303,Leslie Robertson,Sales,Director,23,,2025-07-26,75149
+304,Richard Larson,Warehouse,Director,,29,2022-03-04,67521
+305,Sandra Salazar,Operations,Associate,23,,2019-05-11,81497
+306,Danielle Byrd,Marketing,Manager,67,,2022-08-18,101666
+307,Kevin Cortez,Marketing,Assistant Manager,30,,2019-05-30,42276
+308,Julie Alvarez,Finance,Associate,64,,2015-12-08,101246
+309,James Clark,Warehouse,Director,66,,2024-07-30,48457
+310,Robert Flynn,Sales,Associate,94,,2019-02-11,31070
+311,Joshua Cook,Operations,Senior Associate,38,,2021-03-23,69070
+312,Mike Fisher,Sales,Director,,20,2023-03-10,55810
+313,Charles Yu,Finance,Manager,41,,2015-11-30,44976
+314,Nancy Solis,Sales,Assistant Manager,69,,2022-12-09,66902
+315,Joyce Sheppard,Finance,Manager,,1,2019-01-07,107934
+316,Jerry Salinas,Marketing,Assistant Manager,,23,2020-12-28,81873
+317,Wendy Russell,Operations,Associate,,48,2020-01-11,94960
+318,Antonio Wright,Finance,Assistant Manager,,1,2023-07-22,41756
+319,Stephanie Sims,Marketing,Associate,,40,2017-01-23,34976
+320,William Johnson,Warehouse,Associate,50,,2016-03-08,58846
+321,Brian Jones,Warehouse,Manager,50,,2019-07-10,99246
+322,Spencer Atkinson,Operations,Manager,,22,2016-04-19,109474
+323,Tanya Russell,Warehouse,Associate,62,,2017-09-02,37360
+324,Michele Fernandez,Marketing,Assistant Manager,8,,2022-03-26,71842
+325,Shawn Chandler,HR,Senior Associate,81,,2024-01-03,64478
+326,Jennifer Miller,Operations,Director,76,,2022-08-17,96461
+327,Natasha Merritt,HR,Associate,11,,2018-06-30,46906
+328,Christopher King,Finance,Senior Associate,97,,2023-12-17,72599
+329,Rita Ortiz,Sales,Senior Associate,,28,2019-06-20,106182
+330,Charles Gonzalez,Finance,Manager,,16,2016-12-28,70778
+331,Joseph Hancock,Operations,Manager,50,,2023-04-27,99877
+332,Charles Johnson,Operations,Associate,,50,2020-09-07,85217
+333,Deborah Fisher,Warehouse,Manager,28,,2019-01-29,82960
+334,David Ashley,HR,Director,,46,2022-04-09,51861
+335,Barbara Fisher,Marketing,Associate,,11,2022-12-22,119308
+336,Sarah Moore,Operations,Senior Associate,23,,2017-06-17,50981
+337,Jeffrey Clark,Operations,Manager,,20,2016-04-16,113651
+338,Leonard Powell,Warehouse,Assistant Manager,,49,2020-09-08,119020
+339,Colin Doyle,Marketing,Associate,,48,2015-07-27,75047
+340,Beth Manning,Marketing,Senior Associate,,44,2022-01-09,107947
+341,Sarah Pham,Warehouse,Senior Associate,20,,2019-11-03,93788
+342,Eric Williams,Finance,Assistant Manager,97,,2017-05-11,95873
+343,Kellie Graham,Marketing,Associate,,36,2021-08-02,34302
+344,James Decker,Marketing,Assistant Manager,,38,2019-02-18,40617
+345,David Walton,Finance,Manager,,18,2019-04-10,34404
+346,Sarah Gonzalez,HR,Senior Associate,35,,2017-05-19,30780
+347,Nicole Harmon,Marketing,Director,63,,2022-06-09,104909
+348,Katie Barton,Operations,Director,70,,2024-12-07,44137
+349,Melissa Flynn,Warehouse,Director,,23,2021-10-21,28582
+350,Jennifer Chambers,Finance,Director,23,,2017-08-09,114271
+351,Nicholas Jackson,Sales,Senior Associate,,41,2024-03-02,53645
+352,Brian Pena,HR,Director,,1,2016-04-30,103098
+353,Jennifer Cochran,Marketing,Associate,1,,2018-03-10,116368
+354,Barbara Walton,Operations,Senior Associate,3,,2015-05-22,76122
+355,Jason Mcdonald,Finance,Manager,83,,2024-05-01,113258
+356,Nicholas Fisher,Warehouse,Assistant Manager,,48,2015-06-30,117127
+357,Alan Johnson,Marketing,Manager,,26,2021-01-03,41274
+358,Jacob Morrison,HR,Manager,57,,2017-02-08,41485
+359,Lindsay Hamilton,Sales,Senior Associate,12,,2017-05-02,62034
+360,John Hall,Finance,Manager,66,,2021-09-09,79441
+361,Yvette Wells,Sales,Manager,55,,2023-11-04,100315
+362,Jeffrey Caldwell,Operations,Manager,,10,2015-03-12,44856
+363,Emily Lewis,Marketing,Manager,,23,2016-09-29,45793
+364,Elizabeth Baker,Marketing,Assistant Manager,78,,2018-02-26,56191
+365,Jeffrey Brennan,Sales,Senior Associate,,34,2025-05-19,52968
+366,Brent Hall,Warehouse,Associate,42,,2015-08-22,114492
+367,Ashley Sanchez,Sales,Senior Associate,,28,2016-12-18,64431
+368,Chelsea Ramirez,Operations,Manager,28,,2019-06-10,107881
+369,Vanessa Ball,Marketing,Associate,,29,2018-08-01,33141
+370,Aaron Lee,Operations,Associate,,22,2015-07-15,37365
+371,Christine Mitchell,HR,Director,28,,2020-12-10,101932
+372,Emily Anderson,Finance,Senior Associate,,11,2021-09-07,50958
+373,Jason Bentley,Marketing,Assistant Manager,,22,2016-12-12,35601
+374,Eric Wagner,Warehouse,Associate,32,,2022-07-29,82694
+375,Tanya Barton,Finance,Director,51,,2015-08-16,41550
+376,David Walker,Warehouse,Senior Associate,,24,2023-01-17,33644
+377,Richard Parker,Sales,Senior Associate,28,,2017-11-07,65362
+378,Samuel Short,Operations,Assistant Manager,3,,2017-06-20,78607
+379,Jennifer Parker,Finance,Senior Associate,6,,2017-02-28,76517
+380,Eric Caldwell,Finance,Manager,,37,2024-07-21,81773
+381,Eric Smith,HR,Assistant Manager,46,,2020-07-10,30173
+382,Kristen Boyd,Finance,Associate,67,,2022-08-05,54768
+383,Jacob Cook,Finance,Associate,,37,2017-03-30,59598
+384,Kevin Sanchez,Warehouse,Assistant Manager,63,,2015-08-16,54967
+385,Nancy Johnson,Operations,Senior Associate,,23,2015-06-03,79432
+386,Lisa Smith,Marketing,Director,94,,2019-11-07,49075
+387,Jennifer Martinez,Marketing,Director,,21,2018-08-04,86143
+388,Wesley Jackson,Sales,Director,,29,2023-06-12,114082
+389,James Smith,Finance,Director,94,,2023-09-03,88789
+390,David Zavala,Sales,Director,,26,2018-06-03,63776
+391,Emma Morrison,Marketing,Senior Associate,85,,2019-10-09,67994
+392,Matthew Phillips,HR,Director,14,,2019-03-14,81844
+393,Sandra Keith,Finance,Senior Associate,88,,2022-06-05,94605
+394,Gabriel Lewis,Finance,Manager,,26,2021-12-04,55744
+395,Samuel Adams,HR,Associate,23,,2022-03-01,31534
+396,Susan Adams,Operations,Director,7,,2015-08-11,92645
+397,Jessica Smith,Finance,Manager,72,,2018-09-19,88861
+398,Brianna Merritt,HR,Director,44,,2025-08-21,37332
+399,Emily Jones,HR,Senior Associate,32,,2018-10-05,85643
+400,Brooke Baker,Operations,Senior Associate,40,,2016-12-02,34591
+401,Diana Caldwell,Sales,Manager,100,,2017-03-13,87164
+402,Daniel Walker,HR,Director,43,,2015-04-18,96474
+403,Mario Stein,Warehouse,Manager,,37,2023-08-04,29427
+404,Veronica Baker,HR,Assistant Manager,28,,2015-01-22,94853
+405,Alexander Velasquez,Warehouse,Senior Associate,,50,2021-07-23,39081
+406,Danielle Velasquez,Marketing,Assistant Manager,69,,2019-05-25,52380
+407,Bryan Nolan,Finance,Assistant Manager,81,,2016-01-16,92845
+408,Alyssa Rosales,Warehouse,Director,85,,2024-09-22,60664
+409,Debra Cardenas,Finance,Associate,64,,2023-03-01,117887
+410,Nicholas Martin,HR,Senior Associate,77,,2024-01-07,116067
+411,Daniel Peterson,HR,Associate,,23,2025-04-21,118795
+412,Stephen Adams,HR,Manager,63,,2025-01-12,37598
+413,Monique Jordan,Marketing,Assistant Manager,11,,2022-09-16,44218
+414,Angela Ball,Operations,Assistant Manager,54,,2020-11-14,44849
+415,Nicholas Bryant,Warehouse,Assistant Manager,56,,2022-09-01,81852
+416,Joseph Nolan,Operations,Assistant Manager,4,,2019-12-09,67563
+417,Chad Martinez,HR,Director,55,,2016-12-29,96618
+418,Stephanie Perry,Marketing,Director,73,,2019-03-31,53953
+419,James Potter,HR,Manager,37,,2020-02-20,46377
+420,Joshua Benson,Operations,Director,,21,2015-07-06,87708
+421,Joseph Cooke,Marketing,Associate,,42,2024-04-28,84788
+422,Richard Hernandez,Finance,Assistant Manager,28,,2025-01-02,91535
+423,Eric Johnson,Warehouse,Manager,,49,2019-08-15,56709
+424,Diana Patton,Sales,Director,,21,2020-06-16,76427
+425,Amanda Miller,Warehouse,Manager,81,,2024-04-02,113408
+426,Brianna Ashley,Finance,Associate,,40,2020-01-03,84230
+427,Jeffrey Galvan,HR,Assistant Manager,,40,2022-07-27,113789
+428,John Harrington,Operations,Director,,46,2020-08-31,67874
+429,Danielle Webster,Sales,Associate,,10,2017-12-25,32125
+430,Sara Rivas,Marketing,Associate,48,,2023-09-26,97955
+431,Jade Fisher,Warehouse,Assistant Manager,43,,2017-02-13,70361
+432,Brandon Ashley,Finance,Manager,63,,2017-06-20,31873
+433,John Walker,Warehouse,Manager,79,,2022-08-10,40763
+434,Michelle Rivera,Sales,Associate,42,,2022-10-23,56786
+435,Alexander Lawson,Warehouse,Manager,,31,2025-07-02,45571
+436,Andrea Lewis,Finance,Manager,48,,2022-10-26,90967
+437,Michelle Evans,Warehouse,Director,29,,2015-04-10,84226
+438,Michele Perry,HR,Senior Associate,,17,2024-05-06,58327
+439,Joseph Nelson,Warehouse,Senior Associate,8,,2019-07-22,35788
+440,Melanie May,Warehouse,Associate,44,,2015-02-04,35225
+441,Elizabeth Edwards,Operations,Manager,,45,2021-05-15,114998
+442,Mike Russell,Operations,Assistant Manager,69,,2016-11-15,59741
+443,Cheryl Ryan,Operations,Senior Associate,99,,2019-07-30,37870
+444,Zachary Walker,Finance,Assistant Manager,4,,2020-03-07,93457
+445,Jade Flynn,Warehouse,Director,,41,2015-10-26,108036
+446,Joseph Beard,Finance,Associate,80,,2024-05-10,39222
+447,Matthew Yu,Operations,Manager,44,,2020-08-12,114932
+448,Noah Reid,Operations,Assistant Manager,29,,2025-08-13,94666
+449,Jose Miller,Marketing,Associate,36,,2020-02-11,51187
+450,Guy Lewis,Marketing,Associate,,44,2021-07-18,99341
+451,James Wells,Warehouse,Senior Associate,87,,2023-12-08,66635
+452,Michelle Hill,Operations,Associate,,22,2017-05-02,86447
+453,Corey Pham,Finance,Senior Associate,52,,2024-12-31,39675
+454,Jose King,Sales,Associate,66,,2017-01-11,50469
+455,John Johnson,Warehouse,Director,,35,2025-12-15,99155
+456,Selena Lewis,HR,Manager,61,,2022-01-13,102087
+457,Jesse Beck,Finance,Senior Associate,5,,2020-09-15,29005
+458,Katie James,Sales,Assistant Manager,,20,2017-04-24,47728
+459,Jessica Jackson,Sales,Associate,89,,2021-04-05,83892
+460,Cheryl Keith,Operations,Manager,51,,2021-01-31,111335
+461,Kristen James,Sales,Assistant Manager,,30,2025-10-27,90035
+462,Cynthia Scott,HR,Director,74,,2024-03-08,93011
+463,Mike Keith,Marketing,Senior Associate,64,,2020-04-24,63754
+464,Kimberly Sanchez,Operations,Manager,71,,2019-04-16,33034
+465,Spencer Fisher,Warehouse,Assistant Manager,52,,2019-04-05,98464
+466,Lindsay Chandler,Operations,Assistant Manager,24,,2019-03-01,101534
+467,Rodney Sanchez,Sales,Associate,,38,2015-02-24,68783
+468,David Marshall,Finance,Director,29,,2015-05-26,74591
+469,Todd Flynn,Operations,Senior Associate,,2,2023-04-08,49624
+470,Charles Smith,HR,Senior Associate,43,,2017-10-17,69643
+471,Yolanda Vaughn,Finance,Associate,51,,2019-07-11,50259
+472,Sarah Potter,Marketing,Associate,28,,2022-09-06,66687
+473,Lindsay Clark,Operations,Senior Associate,,4,2021-09-06,40332
+474,Christopher Juarez,HR,Associate,37,,2018-12-19,83809
+475,Rodney Solis,Marketing,Assistant Manager,85,,2023-04-12,50772
+476,Randall Lee,Warehouse,Manager,,7,2016-09-28,94661
+477,Sarah Pena,Sales,Senior Associate,45,,2020-03-14,75632
+478,James Perez,Operations,Manager,61,,2016-02-29,110429
+479,Michelle Nolan,Finance,Assistant Manager,,7,2020-11-06,48347
+480,John Lewis,Finance,Associate,22,,2016-01-17,53110
+481,Charles Adkins,Operations,Senior Associate,38,,2025-05-11,50359
+482,Lindsey Ryan,Operations,Director,81,,2022-04-02,86031
+483,Yvette Wilson,Operations,Associate,15,,2017-09-13,37830
+484,David Pena,Operations,Director,44,,2021-09-27,91143
+485,Stacey Cannon,Finance,Director,,31,2018-11-07,103352
+486,John Cruz,Marketing,Senior Associate,71,,2020-09-14,90081
+487,Jennifer Scott,Sales,Senior Associate,,28,2016-11-03,40389
+488,Randall Rodriguez,Finance,Senior Associate,,14,2020-07-03,73356
+489,Andrea Marshall,Finance,Manager,,41,2016-03-05,77080
+490,Jessica Ray,HR,Senior Associate,,26,2016-09-07,63974
+491,Ashley Jones,Marketing,Assistant Manager,,7,2021-06-04,70901
+492,Anthony Graham,Sales,Senior Associate,,45,2020-07-04,98138
+493,Whitney Potter,Finance,Director,89,,2018-03-25,104784
+494,Sandra Doyle,Sales,Director,68,,2015-08-29,55600
+495,Nicholas Cook,Marketing,Manager,1,,2019-08-29,58344
+496,Tanya Carpenter,Warehouse,Manager,35,,2025-03-09,47140
+497,Alec Solis,Sales,Associate,23,,2022-10-16,64963
+498,Sara Sims,Finance,Associate,,34,2015-08-22,78216
+499,Kristen Gilbert,Finance,Manager,56,,2025-04-26,93647
+500,Michelle Miller,Warehouse,Manager,,6,2019-08-29,52620
+501,Jose Phillips,Operations,Senior Associate,28,,2021-05-02,47903
+502,Randy Walsh,Sales,Associate,57,,2015-01-03,31057
+503,Thomas Gray,Marketing,Director,1,,2018-05-30,36637
+504,Susan Garcia,Operations,Manager,26,,2023-08-25,32744
+505,Christine Dodson,Marketing,Manager,17,,2018-08-21,47078
+506,Michelle Rogers,HR,Manager,63,,2016-10-29,91940
+507,Megan Johnson,Finance,Manager,67,,2015-12-31,99227
+508,Frank Brown,Finance,Assistant Manager,47,,2025-03-05,117529
+509,Tracey Boyd,Marketing,Assistant Manager,15,,2023-12-11,78148
+510,Joshua Johnson,Sales,Manager,38,,2015-06-26,69831
+511,Elizabeth Walker,Marketing,Associate,85,,2025-03-06,110743
+512,Whitney Russell,Sales,Director,21,,2024-01-11,41529
+513,Kristen Mitchell,Marketing,Senior Associate,17,,2018-12-17,85983
+514,Andrea Coleman,Operations,Associate,12,,2022-03-23,103263
+515,Andrea Velasquez,Marketing,Associate,82,,2017-11-02,74234
+516,Craig Jackson,Sales,Assistant Manager,,30,2017-09-30,52052
+517,Eric Johnson,Warehouse,Senior Associate,,36,2022-11-10,85119
+518,Michael Fletcher,HR,Associate,,26,2017-03-24,119597
+519,Teresa Sanchez,Marketing,Director,65,,2018-11-28,49706
+520,Monique Merritt,Sales,Senior Associate,42,,2018-12-08,79820
+521,Rebecca Rivas,Sales,Director,21,,2016-08-26,32670
+522,Tracey Nolan,HR,Director,,12,2024-02-11,49402
+523,Brian Poole,Sales,Associate,,29,2022-05-31,98570
+524,Joseph Pena,Finance,Assistant Manager,,35,2024-06-25,73632
+525,Patricia Miller,Sales,Assistant Manager,,17,2020-10-06,46328
+526,Rodney Elliott,Marketing,Associate,2,,2016-12-05,58855
+527,Joyce White,HR,Senior Associate,,45,2018-01-28,39127
+528,Reginald Cobb,Marketing,Manager,,19,2018-11-21,99711
+529,Danielle Rosales,Sales,Associate,36,,2025-05-12,114744
+530,Robert Moore,Operations,Assistant Manager,,8,2017-08-12,37735
+531,Megan Peterson,Warehouse,Senior Associate,53,,2022-08-16,49890
+532,Antonio Shelton,Sales,Director,,30,2016-05-07,106844
+533,James Vance,Sales,Director,,39,2025-07-08,108837
+534,David Jones,Operations,Assistant Manager,72,,2022-02-10,98594
+535,Rodney Pham,Finance,Associate,,18,2019-09-27,93784
+536,Christopher Weiss,Finance,Associate,47,,2018-10-21,107245
+537,Ryan Smith,Sales,Associate,,36,2018-11-25,62360
+538,Jessica Christian,Sales,Manager,,43,2017-06-24,110339
+539,Rita Ryan,HR,Assistant Manager,,7,2021-08-07,109568
+540,Anthony Bishop,Warehouse,Associate,,43,2024-07-11,49139
+541,Kenneth Garcia,Finance,Assistant Manager,58,,2017-08-27,34716
+542,Joseph Smith,Operations,Associate,99,,2023-03-26,75932
+543,Monique Murphy,Warehouse,Senior Associate,9,,2021-03-24,97763
+544,Joshua Charles,Operations,Manager,85,,2023-07-06,106192
+545,Amy Adkins,Operations,Director,84,,2023-06-20,41106
+546,Charles Bell,Finance,Assistant Manager,93,,2015-06-07,62719
+547,Rodney Thompson,Warehouse,Manager,43,,2015-03-27,98642
+548,Matthew Payne,HR,Associate,26,,2025-01-24,33557
+549,Andrea Ortiz,Sales,Senior Associate,,17,2016-09-16,94509
+550,Joshua Barnes,HR,Assistant Manager,15,,2021-04-28,54830
+551,Yolanda Larson,Warehouse,Associate,,50,2023-04-14,30065
+552,Collin Jordan,Marketing,Assistant Manager,67,,2020-07-17,50256
+553,Wendy Lewis,Warehouse,Assistant Manager,49,,2015-01-25,96247
+554,Jeffrey Spears,Sales,Assistant Manager,52,,2015-02-12,108045
+555,Chad Gonzalez,Finance,Senior Associate,72,,2022-05-14,35477
+556,Yolanda Dixon,Sales,Senior Associate,53,,2024-11-15,70673
+557,Jerry Scott,Marketing,Associate,84,,2018-10-11,46507
+558,Robert Rasmussen,Warehouse,Senior Associate,93,,2020-12-25,90886
+559,Tricia Cochran,Finance,Manager,95,,2025-04-09,99823
+560,Emma Velasquez,HR,Associate,63,,2024-01-29,116514
+561,Brandon Jones,Warehouse,Manager,75,,2020-12-11,60653
+562,Nicholas Webb,HR,Senior Associate,,12,2022-03-18,55525
+563,Jeremy Stein,Operations,Manager,4,,2025-07-29,56504
+564,Charles Hernandez,Sales,Senior Associate,,26,2023-10-07,98030
+565,Christopher Reed,Finance,Director,,32,2019-07-29,68947
+566,Jerry James,Marketing,Senior Associate,,45,2022-08-16,30094
+567,Rodney Cannon,Marketing,Director,,36,2018-08-14,115180
+568,Lisa Keith,Operations,Associate,20,,2025-02-17,37578
+569,Danielle Lee,Warehouse,Associate,43,,2016-01-11,113392
+570,Kevin Schultz,Warehouse,Associate,15,,2017-06-24,42891
+571,Jeremy Robinson,Finance,Manager,,32,2018-10-22,77508
+572,Robert Sims,HR,Director,82,,2017-03-23,56742
+573,Joseph Decker,Finance,Associate,76,,2021-07-18,91185
+574,Brandon Williams,Marketing,Assistant Manager,,9,2022-11-02,65074
+575,Joe Burton,Warehouse,Assistant Manager,24,,2024-10-17,61795
+576,Christine Mitchell,HR,Senior Associate,54,,2020-07-07,71885
+577,Randy Cherry,HR,Senior Associate,,8,2021-11-01,117317
+578,David Dodson,Marketing,Director,38,,2021-08-04,50570
+579,Anna Rogers,Warehouse,Assistant Manager,51,,2015-01-14,48214
+580,Martha Byrd,Operations,Senior Associate,,29,2022-10-17,34091
+581,Elizabeth Cortez,Warehouse,Director,10,,2015-04-04,95955
+582,Robert Harrington,HR,Manager,82,,2021-01-08,90332
+583,Janet Jones,Marketing,Associate,46,,2025-12-31,84005
+584,John Rodriguez,Finance,Director,,7,2023-08-31,30176
+585,Lindsey Rodriguez,Sales,Director,53,,2020-07-28,100733
+586,William Haynes,HR,Manager,,35,2018-07-05,102471
+587,Christopher Mcdonald,Sales,Assistant Manager,,23,2024-03-17,114940
+588,Janet Potter,Warehouse,Senior Associate,82,,2024-06-13,113482
+589,Wendy Rodriguez,Marketing,Director,16,,2019-01-18,52212
+590,Rodney Pearson,Marketing,Senior Associate,52,,2016-03-08,93353
+591,Selena Ryan,Sales,Senior Associate,,11,2021-05-28,65043
+592,Jessica James,Sales,Manager,48,,2021-12-22,82828
+593,Chad Daniels,Finance,Senior Associate,82,,2025-04-11,58589
+594,Jerry Anderson,Warehouse,Assistant Manager,87,,2024-10-16,88445
+595,Chad Douglas,Warehouse,Assistant Manager,,46,2017-07-09,115653
+596,Jose Bell,Marketing,Manager,39,,2017-10-12,88004
+597,John Cherry,Marketing,Assistant Manager,,44,2025-12-19,112718
+598,John Pearson,Marketing,Manager,40,,2018-08-06,113716
+599,Elizabeth Johnson,Finance,Director,,4,2020-01-16,38936
+600,Rodney Short,Marketing,Senior Associate,31,,2018-05-12,116716
+601,Sandra Medina,Finance,Assistant Manager,41,,2019-04-30,103281
+602,Christine Flynn,Marketing,Manager,,38,2021-03-17,67257
+603,Martha Garcia,HR,Director,,6,2018-03-21,83207
+604,Emma Powell,Sales,Senior Associate,55,,2019-07-17,84771
+605,Brooke Galvan,Finance,Associate,39,,2018-11-17,100347
+606,Nicole Powell,Marketing,Director,67,,2016-03-09,101858
+607,Nancy Lewis,Operations,Director,78,,2023-08-27,37424
+608,William Gates,Warehouse,Assistant Manager,44,,2024-10-21,28095
+609,Jeffrey Smith,HR,Manager,,50,2020-05-30,50677
+610,David Webster,HR,Manager,22,,2017-04-02,76485
+611,Joseph Ross,Finance,Assistant Manager,,33,2022-01-27,106125
+612,Joshua Lawson,Warehouse,Assistant Manager,87,,2020-11-15,88064
+613,Brandon Stein,Marketing,Senior Associate,18,,2021-01-23,40501
+614,Brian Douglas,Finance,Associate,,14,2021-07-17,93982
+615,John Solis,Marketing,Associate,28,,2022-11-24,71072
+616,Daniel Wells,HR,Senior Associate,,44,2015-06-13,61928
+617,Robert Taylor,Sales,Assistant Manager,7,,2016-02-04,98992
+618,Jason Ramos,Marketing,Manager,,24,2016-01-20,55199
+619,Monique Scott,Sales,Assistant Manager,,10,2016-09-13,84917
+620,Mitchell Zavala,Operations,Manager,,18,2025-09-09,44757
+621,Wanda Kennedy,Operations,Senior Associate,25,,2023-01-12,63103
+622,Jennifer Edwards,Operations,Assistant Manager,54,,2022-04-24,79319
+623,Eric Wright,Finance,Assistant Manager,75,,2022-09-08,85354
+624,Jennifer Sheppard,Warehouse,Director,83,,2015-05-15,112575
+625,Sandra Cobb,Operations,Director,10,,2017-05-07,54711
+626,Eric Turner,Sales,Senior Associate,14,,2023-09-27,110429
+627,Diana Deleon,Operations,Assistant Manager,10,,2020-02-03,103127
+628,James Lewis,Finance,Senior Associate,91,,2020-08-05,61116
+629,Nicholas Lewis,Finance,Director,66,,2023-04-03,40887
+630,Alec Harmon,Operations,Assistant Manager,54,,2015-10-30,51722
+631,John Snyder,Sales,Director,80,,2023-10-14,88518
+632,Diana King,HR,Senior Associate,,32,2022-06-28,100569
+633,Charles Bishop,Finance,Associate,24,,2019-06-10,84329
+634,Laura Perry,Sales,Associate,52,,2020-06-29,94698
+635,Stuart Evans,Finance,Manager,71,,2015-10-26,37355
+636,Diana Gray,Operations,Director,,13,2017-04-03,74491
+637,Melanie Day,Operations,Assistant Manager,61,,2017-09-16,108388
+638,Anna Johnson,HR,Director,50,,2024-08-27,63790
+639,Leslie Garcia,Sales,Manager,,33,2016-03-28,110697
+640,Chad Juarez,Operations,Director,27,,2018-03-16,39389
+641,Patricia Anderson,Sales,Director,,40,2016-06-13,118043
+642,Sherri Graham,Operations,Senior Associate,,19,2018-02-17,100232
+643,Selena Atkinson,Finance,Director,30,,2015-02-12,85612
+644,Chelsea Brown,Operations,Associate,65,,2018-01-01,84806
+645,Robert Johnson,Sales,Manager,,50,2022-12-17,114142
+646,Andrea Hancock,Operations,Manager,,32,2023-06-11,62673
+647,Joshua Hunter,Sales,Senior Associate,80,,2019-03-05,43174
+648,Leslie Evans,HR,Director,10,,2022-10-08,112528
+649,Leslie Edwards,Marketing,Assistant Manager,36,,2021-10-21,37453
+650,Brian Juarez,Operations,Associate,8,,2024-12-07,88689
+651,James Christian,Finance,Associate,,20,2023-11-08,52470
+652,Rodney Rivas,Warehouse,Associate,19,,2017-07-10,113489
+653,Christine Wells,Sales,Senior Associate,,13,2021-06-23,117577
+654,Christopher Fernandez,Finance,Associate,,30,2023-08-26,71645
+655,Vincent Fisher,Operations,Senior Associate,,32,2018-05-13,77060
+656,James Gates,HR,Assistant Manager,,50,2021-04-21,69824
+657,Vanessa Gray,HR,Director,,47,2019-05-28,67120
+658,William Gonzalez,HR,Assistant Manager,,27,2018-05-25,114226
+659,Andrea Caldwell,Sales,Manager,,28,2017-03-11,54413
+660,John Elliott,Operations,Assistant Manager,89,,2015-05-23,116300
+661,Mitchell Burke,Finance,Director,33,,2023-04-01,87838
+662,Bridget Miller,Marketing,Associate,21,,2024-01-04,116390
+663,Crystal Medina,Sales,Director,,24,2022-03-03,84312
+664,Tanya Walton,Warehouse,Assistant Manager,,40,2017-08-26,103338
+665,Jeffrey Lewis,Marketing,Senior Associate,87,,2015-03-17,73077
+666,Nancy Walton,Operations,Manager,88,,2021-12-13,70541
+667,Jacob Burton,Warehouse,Manager,86,,2017-03-14,51688
+668,Michelle Yu,Marketing,Associate,,35,2021-01-14,47347
+669,Elizabeth Beard,Marketing,Senior Associate,12,,2025-09-03,31467
+670,Joseph Gates,HR,Senior Associate,43,,2015-01-18,63276
+671,Sherri Gray,Finance,Associate,,15,2021-05-08,118872
+672,Chad Rosales,HR,Manager,,38,2025-12-09,114323
+673,Samuel Gonzalez,Operations,Manager,64,,2018-09-05,91500
+674,Kathleen Garrison,Marketing,Senior Associate,95,,2023-12-16,61446
+675,Kevin Short,Sales,Associate,,44,2024-02-10,75873
+676,James Morrison,Sales,Director,,50,2020-05-08,97618
+677,Jerry Potter,HR,Assistant Manager,,32,2018-05-17,28184
+678,Marie Decker,Marketing,Manager,7,,2022-06-26,112916
+679,Gabrielle Valencia,Finance,Assistant Manager,5,,2021-10-24,108080
+680,John Dodson,Finance,Senior Associate,60,,2020-03-29,117276
+681,Robert Charles,Warehouse,Senior Associate,,22,2017-02-13,36680
+682,Rebecca Martinez,Warehouse,Assistant Manager,99,,2023-03-11,115186
+683,Matthew Rosales,Warehouse,Assistant Manager,14,,2017-04-29,84441
+684,Matthew Taylor,Operations,Assistant Manager,,13,2016-06-23,79065
+685,Andrew Johnson,Warehouse,Manager,,5,2015-09-28,44516
+686,Tanya Rogers,Sales,Associate,,19,2019-11-29,73252
+687,Bryan Harmon,Operations,Assistant Manager,6,,2016-04-27,61423
+688,Laura Gross,Marketing,Assistant Manager,40,,2018-09-10,118862
+689,Joseph Fisher,Finance,Manager,34,,2017-08-29,59253
+690,Jill Robertson,Sales,Senior Associate,32,,2020-01-21,48072
+691,Eric Ramos,Operations,Director,53,,2023-07-22,115066
+692,Craig Crosby,Operations,Senior Associate,13,,2019-12-15,45252
+693,Andrea Lyons,Operations,Senior Associate,13,,2021-02-16,111213
+694,Larry Perry,Finance,Assistant Manager,,25,2016-07-28,116612
+695,Joshua Coleman,Marketing,Manager,,29,2016-03-30,56276
+696,Robert Atkinson,Finance,Manager,28,,2025-09-28,91405
+697,Adam Dean,Warehouse,Assistant Manager,94,,2021-10-27,101301
+698,Nicholas Pham,Sales,Senior Associate,35,,2015-03-04,77339
+699,Antonio Simon,Sales,Associate,34,,2021-03-20,92122
+700,Nancy Brown,Finance,Associate,10,,2015-02-10,40148
+701,Matthew Smith,Finance,Director,43,,2015-11-07,75474
+702,Jacob Mitchell,HR,Manager,,19,2019-02-09,75218
+703,Brandon Burke,HR,Manager,67,,2022-03-22,80115
+704,Jeffrey Herrera,Marketing,Senior Associate,,16,2021-10-28,114868
+705,Joseph Boyd,Finance,Assistant Manager,19,,2023-09-14,103872
+706,Michelle Cannon,Sales,Director,44,,2016-12-22,83466
+707,Emily Johnson,Warehouse,Assistant Manager,7,,2017-02-09,65106
+708,Christine Russell,Sales,Manager,15,,2020-11-12,65225
+709,Brandon Cooke,Warehouse,Manager,63,,2024-07-22,29855
+710,Monica Elliott,HR,Director,,32,2022-12-14,78701
+711,Kenneth Yu,Operations,Director,58,,2022-05-13,51226
+712,Debra Schultz,Sales,Senior Associate,15,,2016-01-13,109525
+713,Beth Murphy,Warehouse,Director,100,,2024-08-28,99172
+714,Chad Diaz,HR,Director,53,,2025-10-30,111982
+715,Joseph Barton,Finance,Director,72,,2021-05-28,119615
+716,Charles Sanchez,Sales,Associate,20,,2018-09-14,64808
+717,Sharon Bentley,Operations,Associate,,46,2022-04-16,67411
+718,Adam Mccarthy,Finance,Senior Associate,8,,2022-01-25,83941
+719,Todd Rubio,Finance,Assistant Manager,63,,2025-03-22,67607
+720,Jeremy Flynn,Marketing,Associate,,21,2016-03-20,53686
+721,Gabriel Murphy,Finance,Associate,,3,2020-09-01,93056
+722,Wesley Rubio,Marketing,Associate,6,,2022-10-21,69499
+723,Shawn Wood,HR,Associate,66,,2018-11-03,114649
+724,Amanda Hamilton,Marketing,Director,14,,2024-03-30,48229
+725,Leslie Gonzalez,Warehouse,Assistant Manager,69,,2015-09-18,68829
+726,Cynthia Wang,Marketing,Assistant Manager,50,,2016-02-28,76895
+727,Jill Mckee,Warehouse,Senior Associate,,16,2023-09-13,111522
+728,Mary Murphy,Warehouse,Assistant Manager,66,,2016-05-20,81198
+729,Kevin Adkins,Finance,Assistant Manager,,6,2019-08-09,34352
+730,Wanda Rosales,Warehouse,Manager,9,,2018-02-03,59080
+731,Janet Wright,Sales,Director,,39,2022-07-27,109520
+732,Crystal Johnson,Marketing,Manager,,12,2015-02-17,53034
+733,Randall Daniels,Warehouse,Senior Associate,6,,2018-12-04,59339
+734,Emily Parker,Marketing,Assistant Manager,59,,2025-11-05,41894
+735,Corey Sanchez,Warehouse,Director,21,,2019-01-22,94184
+736,Alexander Hernandez,Marketing,Director,,9,2021-08-01,40838
+737,John Smith,HR,Manager,1,,2025-11-14,61838
+738,Tanya Mitchell,Finance,Manager,38,,2021-09-07,93454
+739,Gabriel Beard,Finance,Director,22,,2023-04-22,110385
+740,Stephanie Payne,Operations,Assistant Manager,,17,2025-07-20,48390
+741,Ashley Baker,Finance,Manager,44,,2021-10-15,58560
+742,Anthony Cannon,Marketing,Senior Associate,23,,2024-02-26,38853
+743,Amber Weiss,HR,Director,,28,2020-08-04,68284
+744,Guy Russell,Marketing,Director,47,,2023-12-16,119896
+745,Chad Keith,Marketing,Associate,,11,2022-01-23,55988
+746,Rebecca Gardner,HR,Associate,100,,2018-09-26,51912
+747,Meghan Daniels,Warehouse,Associate,48,,2021-02-20,64774
+748,Rodney Oliver,Marketing,Senior Associate,,6,2018-09-07,110436
+749,Sandra Simon,Operations,Associate,,23,2019-05-15,78328
+750,Amanda Stevens,HR,Director,,1,2018-03-18,84045
+751,Rodney Cherry,Finance,Director,55,,2020-05-27,99809
+752,Richard Rivera,Marketing,Associate,43,,2018-10-25,93786
+753,Todd Smith,Operations,Director,72,,2021-11-20,83094
+754,Joshua Gross,Sales,Associate,9,,2019-01-24,79604
+755,David Jones,Warehouse,Assistant Manager,85,,2020-05-26,77058
+756,Elizabeth Walsh,Marketing,Senior Associate,33,,2016-07-16,44634
+757,Jose Elliott,HR,Associate,1,,2019-04-03,66118
+758,Ashley Wilson,Sales,Manager,24,,2018-12-01,105928
+759,Colin Lin,Sales,Director,25,,2025-07-28,31623
+760,Vincent Burton,Warehouse,Director,2,,2019-12-01,104173
+761,Susan Patterson,Warehouse,Associate,,46,2015-03-28,80066
+762,Lindsey Cooke,Sales,Director,,9,2018-05-27,60171
+763,Jennifer Sims,Warehouse,Senior Associate,85,,2023-01-09,38493
+764,James Alvarez,Warehouse,Manager,,24,2016-10-26,98274
+765,Lisa Garcia,Operations,Associate,,50,2016-10-16,28065
+766,Joseph Reed,Operations,Director,34,,2019-02-09,77959
+767,Ryan Walsh,HR,Assistant Manager,14,,2018-12-04,42939
+768,Jennifer Santos,Marketing,Assistant Manager,19,,2020-04-16,111632
+769,Samuel Jones,Marketing,Assistant Manager,65,,2015-05-18,44771
+770,Chad Santos,HR,Director,,11,2022-12-05,101859
+771,Helen Cook,Sales,Associate,,27,2017-05-09,80814
+772,Andrea Zimmerman,Marketing,Senior Associate,36,,2022-10-28,31771
+773,Rodney Wright,Marketing,Associate,,14,2021-03-18,94245
+774,Selena Cannon,Operations,Manager,86,,2017-03-25,108893
+775,John Estes,Warehouse,Manager,42,,2020-03-01,48376
+776,Craig Sims,Sales,Associate,,9,2015-05-28,117108
+777,Samuel Mckee,Finance,Assistant Manager,31,,2022-09-20,101450
+778,Lisa Yu,Finance,Associate,54,,2018-05-05,96278
+779,Keith Pearson,Sales,Assistant Manager,57,,2019-03-21,58916
+780,Larry Wright,Finance,Assistant Manager,,22,2016-09-23,39032
+781,Matthew Vaughn,Warehouse,Director,7,,2019-01-06,67498
+782,Andrea Johnson,HR,Associate,50,,2019-05-10,102278
+783,Joyce Garrison,Operations,Director,80,,2017-06-22,81971
+784,Charles Russell,Finance,Manager,16,,2025-10-10,87568
+785,Guy Beck,Warehouse,Director,41,,2018-01-29,99853
+786,Joe Mckee,Marketing,Assistant Manager,,36,2016-12-28,59172
+787,Melanie Daniels,Sales,Assistant Manager,,41,2021-01-11,31436
+788,Jason Sims,HR,Associate,,21,2018-07-05,109330
+789,Monica Mitchell,Operations,Assistant Manager,,11,2019-12-30,84432
+790,Eric Cochran,Marketing,Manager,27,,2022-12-23,80032
+791,Kellie Morton,HR,Director,100,,2015-11-11,80741
+792,Joseph Lewis,Finance,Assistant Manager,18,,2020-08-07,106469
+793,Daniel Dominguez,Sales,Associate,19,,2015-03-29,98774
+794,Jeffrey Gardner,Finance,Director,,11,2015-06-26,89650
+795,Jason Atkinson,Sales,Associate,,49,2016-01-07,99945
+796,John Decker,Warehouse,Senior Associate,,37,2016-10-11,54543
+797,Jeremy Pearson,Operations,Senior Associate,43,,2018-11-05,93478
+798,Maria Lambert,Sales,Director,57,,2025-04-15,117701
+799,Wendy Rubio,HR,Associate,26,,2024-12-20,49616
+800,Bridget Rosales,Operations,Director,55,,2016-02-19,80532
+801,Alec Wells,HR,Senior Associate,65,,2025-11-26,90671
+802,Craig Gonzalez,Finance,Assistant Manager,26,,2021-12-26,75541
+803,Stacey Boyd,Operations,Associate,82,,2021-02-02,117134
+804,John Flynn,Finance,Senior Associate,,25,2023-09-19,65122
+805,David Boyd,Operations,Assistant Manager,97,,2020-04-30,48042
+806,Julie Flynn,Operations,Assistant Manager,9,,2017-12-02,40543
+807,Kristen Nolan,HR,Director,,48,2020-10-29,106134
+808,Tracy Hall,HR,Director,73,,2022-12-23,91131
+809,David Green,HR,Manager,,30,2022-07-06,81175
+810,Jose Haynes,Operations,Senior Associate,,46,2016-11-13,67633
+811,Jeffrey Wells,HR,Senior Associate,99,,2025-04-27,65714
+812,Vanessa Salinas,Operations,Director,,42,2018-02-18,113984
+813,Kenneth Rodriguez,Operations,Assistant Manager,,27,2024-01-08,90593
+814,Barbara Lewis,Marketing,Director,,44,2018-06-06,116788
+815,Sandra Webb,Sales,Manager,,24,2015-09-12,101738
+816,Eric Vance,Warehouse,Manager,,32,2025-12-17,98622
+817,Michelle Gates,Warehouse,Director,74,,2021-06-23,78934
+818,Karen Cochran,Operations,Assistant Manager,80,,2017-05-12,50309
+819,Jessica Dixon,Finance,Senior Associate,,17,2015-01-02,88127
+820,Natasha Cannon,Warehouse,Manager,,31,2016-06-03,93870
+821,Pamela Evans,Finance,Senior Associate,44,,2016-11-13,76021
+822,Jesse Cannon,Warehouse,Assistant Manager,,22,2025-03-08,29878
+823,Jennifer Keith,Marketing,Associate,70,,2016-12-12,116320
+824,Andrea Jones,Finance,Director,,17,2016-10-12,104028
+825,Selena Anderson,Operations,Director,,37,2024-03-20,60402
+826,Angela Molina,Marketing,Associate,49,,2024-09-02,73412
+827,Danielle Beard,Marketing,Assistant Manager,65,,2017-04-19,39349
+828,Joseph Poole,HR,Associate,91,,2022-02-26,114180
+829,Andrew Johnson,Sales,Senior Associate,39,,2020-11-17,49217
+830,Nancy Mckee,HR,Senior Associate,52,,2021-05-06,62753
+831,Debra James,Finance,Manager,19,,2018-06-04,67426
+832,Chad Smith,Warehouse,Director,36,,2023-04-07,52211
+833,Stephen Cortez,Sales,Manager,78,,2024-09-09,86391
+834,Christine Obrien,HR,Senior Associate,65,,2022-12-27,119545
+835,Brenda Wright,Finance,Associate,,40,2024-12-07,106683
+836,Patricia Velasquez,Operations,Director,,27,2016-03-20,76822
+837,Dennis Hill,Warehouse,Senior Associate,,16,2022-03-25,40048
+838,Charles Ross,Sales,Manager,,31,2025-12-29,107412
+839,Nancy Merritt,Finance,Associate,,12,2020-11-22,51620
+840,Mike Adkins,Marketing,Senior Associate,40,,2025-05-12,111817
+841,Katie Wilson,Finance,Manager,,19,2018-10-31,64379
+842,Sheila Cochran,Warehouse,Director,32,,2024-11-11,75699
+843,Jason Oconnell,Sales,Senior Associate,83,,2025-04-30,68175
+844,Jeffrey Bell,Warehouse,Manager,85,,2021-11-05,69925
+845,Beth Edwards,Marketing,Director,,29,2022-10-02,43178
+846,Jeremy Garcia,Sales,Senior Associate,,45,2020-10-01,78865
+847,Randy Scott,Operations,Senior Associate,5,,2018-06-27,65073
+848,Sarah Webb,Marketing,Associate,83,,2020-11-24,105992
+849,Amber Rodriguez,HR,Director,90,,2025-08-03,71904
+850,Todd Mcdonald,Operations,Associate,,13,2015-03-02,116748
+851,Christine Anderson,Sales,Senior Associate,,11,2017-04-04,55293
+852,Angel Hamilton,Warehouse,Associate,76,,2020-06-29,58205
+853,Breanna Soto,HR,Assistant Manager,70,,2018-09-25,31378
+854,Emma Doyle,Marketing,Senior Associate,14,,2021-11-11,95953
+855,John Charles,Marketing,Assistant Manager,68,,2018-12-19,34759
+856,Nicole Frost,Warehouse,Assistant Manager,,20,2022-03-31,54254
+857,Joe Shields,Warehouse,Associate,,22,2016-03-03,111770
+858,Jerry Gray,Marketing,Senior Associate,49,,2018-08-27,84207
+859,David Peterson,Finance,Associate,53,,2022-08-15,79407
+860,Kenneth Gray,Operations,Associate,26,,2020-03-08,102040
+861,Emily Rasmussen,Finance,Manager,67,,2022-11-07,98977
+862,Danielle Gonzalez,Finance,Senior Associate,25,,2021-12-31,109556
+863,Ashley Pena,Operations,Associate,35,,2018-08-12,89205
+864,Melanie Carpenter,Marketing,Manager,,42,2019-09-17,69281
+865,Patrick Snyder,Operations,Manager,34,,2025-08-12,40020
+866,John Green,HR,Director,37,,2025-08-01,62017
+867,Kyle Salazar,Warehouse,Assistant Manager,9,,2015-05-23,92882
+868,Wanda Fisher,Finance,Senior Associate,72,,2022-10-05,51317
+869,Susan Salinas,Marketing,Manager,,41,2020-05-26,89729
+870,Marie Salinas,Warehouse,Associate,95,,2015-01-06,40274
+871,Jesse Marshall,Warehouse,Senior Associate,,45,2021-12-22,33558
+872,Rebecca Scott,Finance,Manager,,22,2015-04-04,61572
+873,Jeffrey Hill,Marketing,Associate,18,,2018-07-04,49148
+874,Yolanda Cardenas,Marketing,Director,,28,2022-08-05,108221
+875,Jacob Haynes,Finance,Manager,,39,2023-12-10,62801
+876,Antonio Potter,Finance,Assistant Manager,45,,2019-07-17,66530
+877,Joseph Clark,Finance,Senior Associate,66,,2023-11-24,65122
+878,Robert Velasquez,Marketing,Director,,41,2024-03-26,57190
+879,Stephanie Cochran,Sales,Senior Associate,,28,2019-12-04,112430
+880,William Gonzalez,HR,Director,85,,2016-11-26,96000
+881,Jennifer Smith,Sales,Manager,19,,2022-04-02,42613
+882,Janet Riggs,HR,Assistant Manager,30,,2015-02-25,47833
+883,Brent Yu,Warehouse,Senior Associate,,36,2024-10-28,35452
+884,Ashley Johnson,Operations,Director,96,,2019-04-09,51578
+885,Sherri Miller,Marketing,Associate,12,,2023-05-12,88404
+886,Alexandra Stein,Finance,Associate,,31,2023-02-05,114103
+887,Amanda Turner,HR,Manager,,26,2020-03-14,72310
+888,Cheryl Soto,Marketing,Director,,3,2025-09-09,35506
+889,Amy Thompson,Sales,Director,49,,2023-10-05,32359
+890,Robert Herrera,HR,Director,97,,2024-09-20,66146
+891,Eric Patterson,Sales,Manager,,37,2016-01-13,52351
+892,Kathryn Aguilar,Operations,Director,,9,2020-04-29,81061
+893,Reginald Hancock,Operations,Manager,76,,2025-06-21,38882
+894,Craig Parker,HR,Manager,,16,2023-12-10,49183
+895,Angela Lee,HR,Associate,45,,2019-12-30,79136
+896,Kathryn Moore,Finance,Assistant Manager,59,,2015-10-10,53853
+897,Emily Johnson,Warehouse,Senior Associate,21,,2018-02-07,61552
+898,Michelle Walker,Marketing,Associate,12,,2021-04-18,48409
+899,Meghan Velasquez,Warehouse,Senior Associate,14,,2022-01-22,32738
+900,Natasha Johnson,Sales,Assistant Manager,,26,2025-03-02,59757
+901,Laura Atkinson,Sales,Senior Associate,66,,2016-01-09,58334
+902,Amber Decker,Sales,Senior Associate,29,,2019-05-12,110662
+903,Brooke Cannon,Warehouse,Senior Associate,74,,2017-12-29,110130
+904,Antonio Keith,Warehouse,Manager,70,,2025-07-24,67706
+905,Christopher Jackson,Marketing,Assistant Manager,82,,2016-10-29,54494
+906,Whitney Potter,Sales,Assistant Manager,92,,2017-06-05,66440
+907,Ryan Hernandez,Operations,Associate,89,,2018-04-11,83926
+908,Janet Juarez,Marketing,Senior Associate,,26,2016-02-29,63565
+909,Alexander Galvan,Sales,Assistant Manager,,19,2022-01-29,97565
+910,Darrell Anderson,Warehouse,Senior Associate,40,,2020-10-09,116698
+911,Matthew Lyons,Operations,Associate,,21,2021-02-18,65107
+912,Amy Ray,HR,Senior Associate,,18,2024-12-24,38791
+913,Sarah Molina,Marketing,Assistant Manager,,12,2019-10-07,39114
+914,Jeffrey Gilbert,Operations,Assistant Manager,,23,2018-06-04,108212
+915,Robert Jones,Warehouse,Associate,,48,2019-02-17,66280
+916,Deborah Sims,Warehouse,Assistant Manager,,26,2023-10-21,58098
+917,Lindsay Diaz,Finance,Associate,,30,2020-10-24,84984
+918,Sarah Adkins,Marketing,Assistant Manager,3,,2016-11-10,115999
+919,Maria Atkinson,Sales,Manager,,31,2022-08-03,67068
+920,Brianna Bryant,Warehouse,Associate,41,,2023-03-15,57000
+921,Kristen Collins,Finance,Senior Associate,,20,2017-10-01,107370
+922,John Smith,Sales,Director,65,,2021-02-16,35624
+923,Andrea Williams,Finance,Manager,44,,2021-03-14,105672
+924,Ryan Smith,Operations,Assistant Manager,58,,2016-12-04,75843
+925,Cheryl Jones,HR,Assistant Manager,6,,2015-02-06,29854
+926,Linda Brennan,Marketing,Associate,16,,2022-11-25,48963
+927,Amanda Phillips,HR,Director,94,,2021-10-08,90488
+928,Charles Marshall,Marketing,Senior Associate,46,,2022-11-07,97275
+929,Linda Gonzalez,HR,Assistant Manager,17,,2019-02-25,45997
+930,Jessica Rodriguez,Operations,Manager,37,,2020-09-02,88472
+931,Jason Beck,Finance,Manager,,21,2025-10-19,119012
+932,Anthony Burton,HR,Senior Associate,28,,2017-06-24,91155
+933,Andrea Atkinson,Operations,Director,30,,2022-03-07,92625
+934,Ashley Adkins,Sales,Associate,73,,2016-06-15,45801
+935,Yvette Atkinson,HR,Director,11,,2015-09-21,86649
+936,Susan Obrien,HR,Senior Associate,31,,2025-07-13,93193
+937,Cynthia Christian,Finance,Director,,43,2016-06-05,38179
+938,Melanie Morrison,Sales,Associate,,47,2022-03-20,56642
+939,Richard Ryan,HR,Associate,89,,2020-08-28,109198
+940,Robert Gonzalez,Finance,Associate,,21,2023-11-26,119878
+941,Matthew Zavala,Marketing,Manager,30,,2021-01-05,43934
+942,Jessica Harrington,Marketing,Senior Associate,54,,2022-09-01,95322
+943,Amanda Dixon,Operations,Manager,3,,2024-11-01,74149
+944,Nancy Evans,Operations,Director,62,,2024-02-15,82317
+945,Wendy Brennan,HR,Associate,,38,2022-12-10,75005
+946,Joseph Waller,Warehouse,Manager,,47,2016-10-14,107774
+947,Jeffery Salinas,Operations,Assistant Manager,,42,2016-11-11,68950
+948,Eric Pena,Sales,Manager,18,,2020-06-19,82216
+949,Jason Sanchez,Sales,Director,,41,2022-04-01,89573
+950,Adam Dodson,Warehouse,Assistant Manager,11,,2022-05-04,78852
+951,Amy Gray,Finance,Associate,75,,2023-08-27,108926
+952,Nicholas Perry,Sales,Manager,77,,2016-02-20,49833
+953,Amy Jones,Sales,Senior Associate,,42,2016-11-27,115216
+954,Richard Burton,Operations,Associate,,18,2016-08-25,90386
+955,Barbara Rivas,Marketing,Director,44,,2020-12-13,116325
+956,Tracey Martinez,Marketing,Senior Associate,19,,2021-12-22,62467
+957,Joseph Sheppard,Warehouse,Associate,,6,2016-04-09,72053
+958,Kellie Long,Sales,Senior Associate,,50,2024-07-22,31963
+959,Jennifer Nolan,Sales,Director,21,,2018-05-04,113006
+960,Vincent Charles,Marketing,Manager,,28,2022-04-07,103077
+961,Natasha Ashley,Warehouse,Director,,1,2023-04-09,55260
+962,Adam Dodson,Sales,Manager,,35,2015-05-26,32772
+963,Jeffrey Phillips,Marketing,Associate,15,,2024-07-06,92109
+964,Crystal Ramos,HR,Senior Associate,,33,2025-09-04,89851
+965,Patricia Keith,Warehouse,Associate,34,,2025-07-18,76546
+966,Joshua Ryan,Warehouse,Manager,,42,2016-07-14,42418
+967,Rita Lyons,Operations,Senior Associate,52,,2019-04-27,112491
+968,Brandon Aguilar,Marketing,Director,91,,2017-07-23,67796
+969,Chad Burton,Finance,Senior Associate,44,,2019-12-17,94659
+970,Chad Lewis,Operations,Senior Associate,30,,2025-09-22,107036
+971,Julie Rodriguez,Finance,Director,59,,2023-05-25,78445
+972,Noah Beck,Operations,Manager,66,,2023-06-26,36686
+973,Michele Espinoza,Warehouse,Associate,44,,2019-08-23,109669
+974,Stephen Daniels,Finance,Manager,56,,2025-04-21,89377
+975,Anna Burke,Sales,Senior Associate,,44,2025-02-13,110283
+976,Leslie Moore,Finance,Assistant Manager,,31,2023-11-15,84360
+977,Jennifer Wilson,Operations,Manager,,38,2023-12-17,111485
+978,Natasha Evans,Finance,Assistant Manager,91,,2022-03-03,107812
+979,Martha Robertson,Warehouse,Director,68,,2016-01-19,47838
+980,Adam Garcia,Sales,Assistant Manager,,23,2018-02-17,43891
+981,Sherri Marshall,Finance,Senior Associate,97,,2023-06-17,42741
+982,Jose Graham,Operations,Senior Associate,72,,2018-08-06,101580
+983,Danielle Peterson,Marketing,Manager,,42,2016-11-23,50115
+984,Michelle Russell,Marketing,Manager,,15,2025-06-03,69411
+985,Anthony Ramirez,Operations,Senior Associate,59,,2020-05-16,100493
+986,Nancy Lewis,HR,Director,,26,2024-06-19,67435
+987,James Coleman,Warehouse,Director,49,,2018-02-15,33690
+988,Jessica Murphy,HR,Senior Associate,,42,2018-12-15,61284
+989,Richard Simon,HR,Assistant Manager,32,,2018-10-11,36702
+990,Matthew Bishop,Operations,Director,33,,2019-02-08,63472
+991,David Brown,HR,Associate,,22,2019-10-25,95778
+992,Rita Stein,Operations,Senior Associate,83,,2018-04-11,75836
+993,Monique Murphy,Marketing,Assistant Manager,,38,2023-12-16,90088
+994,Joseph Elliott,Marketing,Manager,78,,2018-08-03,37825
+995,Veronica Moore,Sales,Assistant Manager,,17,2019-11-10,97013
+996,Rebecca Hill,Finance,Manager,,47,2024-06-20,67106
+997,Elizabeth Robinson,Marketing,Associate,34,,2019-10-23,54403
+998,Alyssa Oconnell,Sales,Manager,,6,2015-02-12,87982
+999,Matthew Gates,Finance,Manager,32,,2015-01-02,40404
+1000,Eric Reid,Marketing,Director,27,,2019-10-19,73833
+1001,Andrea Stein,Operations,Associate,87,,2022-02-18,66840
+1002,Kenneth Gonzalez,HR,Associate,,31,2025-05-16,43256
+1003,Tanya Thompson,Finance,Associate,,41,2016-06-09,115602
+1004,Barbara Murray,Warehouse,Manager,,39,2020-12-20,61400
+1005,Jeffrey Short,Operations,Director,,48,2018-03-06,31750
+1006,Joseph Smith,Warehouse,Assistant Manager,,3,2019-12-15,68752
+1007,David Bentley,Warehouse,Director,53,,2019-11-14,116932
+1008,Danielle Shelton,Finance,Director,,26,2018-06-09,89536
+1009,Leslie Hernandez,Warehouse,Assistant Manager,71,,2015-03-15,86580
+1010,Jeffrey Jones,Warehouse,Assistant Manager,96,,2015-10-24,110870
+1011,Wanda Graham,Marketing,Senior Associate,55,,2020-09-29,35720
+1012,Stephanie Davenport,HR,Director,80,,2017-06-20,78634
+1013,Barbara Fisher,Marketing,Assistant Manager,60,,2018-08-06,57515
+1014,Richard Marshall,Finance,Director,89,,2015-12-30,90225
+1015,Joseph Perry,Marketing,Director,41,,2015-07-19,106451
+1016,Erin Patterson,Operations,Senior Associate,39,,2016-05-24,35101
+1017,Ronald Ray,Marketing,Associate,,40,2019-02-24,42553
+1018,Adam Fisher,Marketing,Director,,28,2016-10-19,115810
+1019,Diana Lewis,Sales,Manager,62,,2017-07-18,73260
+1020,Patrick Vaughan,Warehouse,Director,16,,2018-04-28,56999
+1021,Samuel Peterson,Warehouse,Assistant Manager,5,,2018-03-16,42006
+1022,Leonard Mitchell,Warehouse,Senior Associate,52,,2015-02-14,60594
+1023,Kellie Weiss,Finance,Senior Associate,,7,2016-04-16,28459
+1024,Angel Charles,Finance,Assistant Manager,48,,2025-06-14,48501
+1025,Tracy Barton,Operations,Senior Associate,,40,2022-05-08,44836
+1026,Chad Burke,HR,Senior Associate,,46,2016-05-12,35789
+1027,William Rodriguez,Marketing,Senior Associate,52,,2018-02-13,117150
+1028,Nicholas Gilbert,Warehouse,Assistant Manager,,49,2019-03-20,100684
+1029,Lindsay Lewis,Marketing,Associate,64,,2024-12-17,114515
+1030,Whitney Williams,HR,Associate,,15,2024-09-03,50125
+1031,Michelle Carrillo,Marketing,Associate,,47,2023-06-23,54534
+1032,John Anderson,Marketing,Assistant Manager,,9,2016-03-04,54007
+1033,Robert Christian,Sales,Associate,,33,2020-05-24,79383
+1034,Jennifer Torres,Finance,Manager,,11,2020-04-27,44725
+1035,Christopher Beard,Operations,Associate,,17,2022-01-05,49664
+1036,John Douglas,Finance,Manager,52,,2024-04-17,117689
+1037,Brenda Nolan,Finance,Associate,,18,2018-07-13,60399
+1038,Tasha Turner,Operations,Associate,,44,2021-02-15,99855
+1039,Karen Bryant,Sales,Manager,35,,2017-11-25,49063
+1040,Diana Elliott,Warehouse,Assistant Manager,,26,2017-04-25,113550
+1041,Jose Brown,Operations,Associate,13,,2018-06-12,91832
+1042,Christopher Pope,HR,Manager,51,,2023-02-03,107278
+1043,Andrea Ball,Sales,Director,8,,2019-10-26,75505
+1044,Jessica Frost,Sales,Assistant Manager,86,,2022-06-30,111379
+1045,Nicole Cortez,Warehouse,Assistant Manager,,43,2022-08-09,61364
+1046,Deborah Gray,Finance,Senior Associate,71,,2018-12-26,72071
+1047,Cynthia Weiss,Operations,Director,18,,2025-07-04,33665
+1048,Stacey Rasmussen,Operations,Associate,80,,2015-07-06,43689
+1049,Brian James,Sales,Assistant Manager,64,,2024-11-12,98950
+1050,George Douglas,Operations,Manager,,32,2015-02-01,58072
+1051,Breanna Ramos,Operations,Associate,,2,2019-03-17,37384
+1052,Joshua Gray,Operations,Director,53,,2024-01-30,54905
+1053,Joe Diaz,Warehouse,Assistant Manager,80,,2022-07-12,60457
+1054,Melanie Hernandez,Operations,Senior Associate,4,,2018-07-16,93976
+1055,David Perry,Finance,Associate,,38,2024-09-28,36326
+1056,John Pham,Warehouse,Assistant Manager,39,,2016-07-07,30361
+1057,John Lawson,Finance,Manager,52,,2022-05-18,94618
+1058,Corey Burke,HR,Associate,48,,2020-09-14,41067
+1059,Richard Mccarthy,HR,Director,43,,2017-04-12,66608
+1060,Michelle Miller,HR,Assistant Manager,26,,2025-02-16,90825
+1061,Eric Murphy,Marketing,Manager,6,,2023-06-03,75302
+1062,Jacob Lewis,Operations,Senior Associate,,45,2015-02-04,39356
+1063,Kenneth Flynn,Marketing,Senior Associate,,39,2015-12-15,94440
+1064,Allison Hernandez,Operations,Manager,70,,2015-08-14,32442
+1065,Tanya Jackson,Sales,Associate,,30,2019-07-28,49373
+1066,Darrell Smith,Finance,Senior Associate,,45,2019-08-03,38047
+1067,Jennifer Turner,Marketing,Senior Associate,8,,2022-12-18,75158
+1068,Kenneth James,Sales,Associate,42,,2022-06-09,91542
+1069,Susan Obrien,HR,Associate,99,,2015-03-02,87791
+1070,Brandy Benson,HR,Senior Associate,,33,2020-03-27,40817
+1071,Whitney Johnson,Operations,Senior Associate,50,,2023-08-20,59589
+1072,Angela Cooke,HR,Senior Associate,,5,2024-11-15,41460
+1073,Noah Flynn,Finance,Assistant Manager,33,,2018-03-19,59528
+1074,Ryan Vaughan,HR,Manager,44,,2015-06-27,49187
+1075,Jennifer Burton,HR,Associate,,33,2016-09-06,96116
+1076,Reginald Clark,Marketing,Director,48,,2018-09-28,97083
+1077,Stephen Gross,Operations,Assistant Manager,,6,2019-11-16,103291
+1078,Andrew Rodriguez,HR,Manager,,4,2018-11-12,46432
+1079,Angela Johnson,Operations,Associate,,18,2015-12-30,29241
+1080,Cassandra Harrington,Marketing,Director,1,,2018-09-28,31254
+1081,Michele Walker,Operations,Assistant Manager,,22,2018-03-10,105600
+1082,Todd Martinez,Marketing,Manager,91,,2020-05-13,111339
+1083,Zachary Reed,HR,Associate,4,,2015-11-15,47482
+1084,Anthony Marshall,Operations,Associate,,30,2023-09-12,108621
+1085,Anna Williams,Finance,Senior Associate,,16,2019-08-03,76736
+1086,Angel Baker,Operations,Senior Associate,46,,2018-07-01,45003
+1087,Daniel Velasquez,Operations,Senior Associate,24,,2024-12-21,56789
+1088,Cassandra Ross,Warehouse,Manager,,16,2023-03-11,52411
+1089,Jesse Hill,Finance,Associate,,49,2016-07-03,98253
+1090,Richard Stein,Warehouse,Senior Associate,53,,2016-08-11,45347
+1091,Angel Jackson,HR,Director,,25,2015-01-09,44842
+1092,Jason Holmes,HR,Director,29,,2021-03-02,94197
+1093,Daniel Herrera,Operations,Associate,53,,2018-11-26,55802
+1094,Erin Daniels,Operations,Assistant Manager,,7,2019-02-16,51000
+1095,Noah Smith,Operations,Director,,44,2020-08-08,102317
+1096,Ashley Wilson,Operations,Manager,40,,2020-12-06,113693
+1097,Rachael Parker,Marketing,Senior Associate,17,,2015-01-04,79093
+1098,Vanessa Simon,Warehouse,Manager,64,,2016-03-08,104142
+1099,Yolanda Moore,Warehouse,Senior Associate,,16,2023-09-06,105396
+1100,Michelle Sanchez,Finance,Senior Associate,25,,2025-06-28,82132
+1101,Joshua Kennedy,Finance,Director,72,,2024-03-17,104332
+1102,Jessica Decker,Finance,Assistant Manager,,19,2024-12-20,28822
+1103,Tanya Martin,HR,Manager,99,,2020-02-06,31249
+1104,Katie Hamilton,Marketing,Associate,41,,2024-02-03,109297
+1105,Adam Wagner,Marketing,Director,40,,2024-09-14,40919
+1106,Amanda Jones,Operations,Associate,,7,2024-10-27,94954
+1107,Joshua Solis,Sales,Assistant Manager,64,,2016-08-23,66651
+1108,Tricia Parker,Warehouse,Senior Associate,46,,2016-08-12,100487
+1109,Yvette Wilson,Marketing,Senior Associate,89,,2019-06-06,89199
+1110,Joyce Manning,Marketing,Associate,,36,2020-07-16,34607
+1111,Chelsea Edwards,Finance,Senior Associate,,42,2025-07-16,58988
+1112,Sarah Flores,Finance,Assistant Manager,71,,2018-07-01,93187
+1113,Jason Ross,Operations,Manager,31,,2024-02-24,112782
+1114,Danielle Cooke,HR,Associate,,42,2024-10-05,102022
+1115,David Estes,Operations,Senior Associate,26,,2025-08-14,110051
+1116,Natasha Rogers,HR,Associate,30,,2017-01-31,116010
+1117,David Vaughn,Operations,Manager,72,,2017-08-29,110268
+1118,Sarah Robertson,Sales,Director,79,,2017-06-02,81403
+1119,Antonio Perez,Marketing,Director,13,,2023-02-01,58925
+1120,Alec Gardner,Marketing,Director,56,,2022-07-22,74739
+1121,Brianna Schultz,Finance,Associate,35,,2019-06-24,101203
+1122,Spencer Brennan,HR,Manager,62,,2015-12-24,67136
+1123,Ryan Atkinson,Operations,Associate,,31,2020-09-23,104436
+1124,Ryan White,HR,Manager,99,,2023-01-21,92518
+1125,Kellie Peterson,Finance,Manager,94,,2020-03-20,47257
+1126,Jose Medina,HR,Assistant Manager,,26,2017-12-13,112715
+1127,Alec Silva,Operations,Senior Associate,68,,2021-07-07,105855
+1128,Marie Carpenter,Warehouse,Associate,,27,2022-04-09,83177
+1129,Patricia Rubio,Marketing,Manager,19,,2021-07-03,45857
+1130,William Rivera,Operations,Manager,,33,2024-08-08,48910
+1131,Dana Garcia,Marketing,Assistant Manager,78,,2018-06-15,105228
+1132,Jerry Rodriguez,Finance,Associate,13,,2021-09-15,29616
+1133,Kenneth Johnson,Marketing,Assistant Manager,89,,2024-05-28,72492
+1134,Sarah Taylor,HR,Manager,70,,2017-05-04,84958
+1135,Matthew Chambers,Operations,Assistant Manager,35,,2018-02-05,49390
+1136,Yvette Robertson,Sales,Director,,34,2015-07-17,107543
+1137,Jason Smith,HR,Senior Associate,,18,2019-02-15,76053
+1138,Noah Hancock,Warehouse,Assistant Manager,92,,2015-06-29,34069
+1139,Christopher Clark,Sales,Associate,,7,2023-03-18,57454
+1140,Eric Perry,Marketing,Director,,44,2015-12-23,64576
+1141,Patricia Smith,Marketing,Manager,,17,2022-08-14,48498
+1142,Wendy Edwards,Warehouse,Assistant Manager,,2,2021-05-18,114484
+1143,Michelle Graham,Finance,Assistant Manager,,37,2025-11-13,61166
+1144,Joseph Carpenter,Warehouse,Assistant Manager,14,,2018-10-31,74154
+1145,Spencer Orr,Warehouse,Senior Associate,,23,2018-10-17,77243
+1146,Michelle May,HR,Assistant Manager,,45,2017-09-03,48300
+1147,Joe Brown,Warehouse,Manager,95,,2020-11-28,80248
+1148,Corey Martin,Finance,Assistant Manager,50,,2017-05-31,60536
+1149,Debra Jackson,Operations,Assistant Manager,24,,2016-03-31,28949
+1150,Karen Boyd,Finance,Manager,,31,2025-06-08,65548
+1151,Megan Larson,Marketing,Associate,42,,2022-06-21,81713
+1152,Janet Evans,Marketing,Senior Associate,,35,2016-04-22,38790
+1153,Eric Murray,Sales,Director,,38,2021-10-19,99703
+1154,Frank Hall,Sales,Manager,,7,2018-05-09,88792
+1155,Chad Spears,HR,Assistant Manager,61,,2016-12-24,56517
+1156,Jason Wagner,Marketing,Senior Associate,,34,2020-03-09,82479
+1157,Christopher Sanchez,Marketing,Assistant Manager,,6,2023-08-31,55936
+1158,James Adkins,Marketing,Manager,28,,2015-01-02,87590
+1159,Amanda Gilbert,Sales,Senior Associate,,6,2018-11-28,42162
+1160,Aaron Marshall,HR,Associate,52,,2025-02-17,84192
+1161,Andrea Castaneda,Finance,Senior Associate,,34,2019-05-04,33069
+1162,Pamela Torres,HR,Manager,12,,2016-02-03,29533
+1163,Emily Soto,Finance,Senior Associate,10,,2019-09-19,51396
+1164,Christopher Short,Operations,Senior Associate,89,,2022-07-05,44050
+1165,Jose Beck,Warehouse,Senior Associate,68,,2025-12-17,73146
+1166,Kathleen Murphy,Warehouse,Senior Associate,18,,2021-12-01,43232
+1167,Joshua Wang,Marketing,Assistant Manager,,11,2015-07-23,50490
+1168,Ronald Murray,Operations,Manager,11,,2023-11-25,37011
+1169,Amy Galvan,Operations,Manager,69,,2023-08-01,109595
+1170,Debra Chambers,Sales,Associate,,13,2022-03-02,95663
+1171,Andrew Flynn,Sales,Manager,,35,2024-11-11,48024
+1172,Larry Santana,Marketing,Director,81,,2023-06-19,39052
+1173,Laura Peterson,Marketing,Assistant Manager,,42,2017-07-22,106223
+1174,Elizabeth Gardner,Operations,Manager,11,,2019-08-20,89473
+1175,Jessica Mitchell,Finance,Senior Associate,,15,2020-07-31,109498
+1176,Chelsea Peterson,HR,Senior Associate,62,,2020-05-17,44411
+1177,Whitney Hunter,Marketing,Associate,,19,2022-01-10,61007
+1178,Christopher Smith,Operations,Associate,,9,2022-09-20,38884
+1179,Stephen Vaughan,Marketing,Assistant Manager,,33,2016-02-22,66948
+1180,Gabriel Perry,Warehouse,Director,76,,2021-04-02,42952
+1181,Kenneth Molina,Finance,Director,,50,2015-06-05,28382
+1182,Chelsea Flores,Warehouse,Assistant Manager,20,,2020-08-17,74773
+1183,Eric Deleon,Finance,Director,,17,2019-08-24,118073
+1184,Whitney Wright,Warehouse,Manager,,47,2017-04-05,87384
+1185,Angela Poole,Marketing,Senior Associate,,8,2025-11-25,97637
+1186,Anthony Crosby,HR,Senior Associate,45,,2017-11-03,102697
+1187,Keith Miller,Operations,Senior Associate,75,,2015-08-15,117444
+1188,Stephen Adkins,Marketing,Assistant Manager,21,,2018-12-11,39827
+1189,Matthew Perry,Finance,Associate,77,,2023-05-02,51069
+1190,Anthony Wright,Warehouse,Director,70,,2015-02-07,84689
+1191,Amber Salinas,Sales,Assistant Manager,24,,2020-06-03,103536
+1192,Brian Jackson,Marketing,Senior Associate,,13,2019-08-04,99193
+1193,Amanda Rivas,Finance,Assistant Manager,7,,2024-07-10,94942
+1194,Rita Martin,Finance,Associate,45,,2015-01-12,56741
+1195,Shane Salinas,Finance,Manager,27,,2015-03-11,61565
+1196,Stuart James,HR,Associate,,46,2021-03-20,35333
+1197,Lisa Nelson,Operations,Associate,,16,2016-12-21,56878
+1198,Diana Collins,Operations,Associate,57,,2022-09-29,42347
+1199,Brenda Patterson,Sales,Assistant Manager,9,,2018-01-22,114309
+1200,Craig Hancock,Sales,Assistant Manager,19,,2021-03-08,36423
+1201,Mary Sheppard,Finance,Director,9,,2015-06-01,61433
+1202,Chad Murray,Marketing,Director,68,,2022-08-18,109623
+1203,Joseph Poole,Sales,Director,34,,2020-09-13,115937
+1204,Nicholas Walton,HR,Director,,2,2015-01-01,62656
+1205,Guy Graham,Sales,Associate,20,,2017-12-04,70818
+1206,Frank Parker,Warehouse,Assistant Manager,,15,2015-08-27,76148
+1207,Crystal Estes,Finance,Assistant Manager,26,,2015-06-30,103643
+1208,Kyle Rodriguez,Finance,Associate,,7,2022-09-07,98719
+1209,Amber Jones,Marketing,Associate,,25,2019-09-16,76218
+1210,Stacey Cruz,Operations,Director,,6,2023-11-01,62177
+1211,Dennis Thompson,Marketing,Director,31,,2017-11-01,62258
+1212,Megan Hamilton,Finance,Senior Associate,2,,2022-11-23,87717
+1213,Brenda Ramirez,Warehouse,Associate,,44,2021-10-07,104844
+1214,David Boyd,Operations,Senior Associate,,5,2022-04-17,35054
+1215,Debra Adkins,Sales,Associate,50,,2024-02-09,98733
+1216,Keith Pope,Marketing,Assistant Manager,16,,2022-10-13,72243
+1217,David Green,Operations,Senior Associate,83,,2023-03-15,41358
+1218,Samuel Martin,Operations,Associate,,25,2023-02-19,36879
+1219,Michelle Murphy,Warehouse,Director,,40,2019-12-02,59007
+1220,Nicholas Adams,Sales,Director,,23,2022-12-20,50842
+1221,Charles Cooke,Finance,Director,,47,2024-04-06,37578
+1222,Jason Flynn,Finance,Director,61,,2023-02-13,54987
+1223,Craig Ball,Sales,Associate,89,,2021-09-07,104701
+1224,Robert Mitchell,Sales,Assistant Manager,18,,2015-10-25,94017
+1225,Leslie Burke,Sales,Assistant Manager,,18,2019-10-21,47231
+1226,Todd Baker,Marketing,Assistant Manager,56,,2015-09-12,90017
+1227,Thomas Lyons,Warehouse,Senior Associate,41,,2016-02-22,69556
+1228,Kyle Haynes,HR,Senior Associate,26,,2018-12-21,96731
+1229,Katie Bishop,Sales,Director,75,,2020-02-08,50750
+1230,Elizabeth Orr,Operations,Associate,98,,2020-10-20,33681
+1231,Christopher Pham,HR,Assistant Manager,70,,2024-11-26,56781
+1232,Amber Scott,Operations,Assistant Manager,4,,2023-05-23,119440
+1233,Rodney Martinez,HR,Assistant Manager,,11,2019-08-27,79137
+1234,Jennifer Hamilton,Marketing,Manager,74,,2018-09-06,33006
+1235,Jennifer Johnson,Operations,Assistant Manager,40,,2022-11-03,117736
+1236,Antonio Chambers,HR,Director,78,,2018-01-10,103968
+1237,Brian Martinez,Marketing,Assistant Manager,,39,2024-09-20,78020
+1238,Danielle Smith,Marketing,Associate,7,,2023-08-06,96104
+1239,Melanie Stein,Sales,Senior Associate,,30,2022-07-05,44998
+1240,Matthew Lyons,Sales,Senior Associate,,32,2017-09-28,82442
+1241,Michelle Marshall,Marketing,Senior Associate,,37,2021-11-03,111995
+1242,Andrew Rogers,Marketing,Senior Associate,39,,2024-01-12,68374
+1243,Randy Sims,Operations,Senior Associate,,20,2015-10-17,31583
+1244,Tanya Adkins,HR,Assistant Manager,87,,2016-12-12,97656
+1245,Matthew Rubio,HR,Associate,47,,2020-09-01,95168
+1246,Karen Vance,Finance,Assistant Manager,54,,2018-12-15,96066
+1247,James Chambers,Finance,Assistant Manager,63,,2022-10-22,87655
+1248,David Barton,Warehouse,Director,66,,2019-05-31,40620
+1249,Joshua Sanchez,Marketing,Associate,64,,2025-12-18,38537
+1250,John Russell,Sales,Senior Associate,79,,2018-04-18,100922
+1251,Patricia Adams,Sales,Director,99,,2018-12-18,106672
+1252,Sharon Martinez,Marketing,Manager,83,,2015-01-14,35227
+1253,Sarah Bryant,Operations,Manager,,6,2017-09-21,81454
+1254,William Murphy,Marketing,Associate,48,,2017-08-04,74050
+1255,Mitchell Dean,Operations,Assistant Manager,,46,2023-05-23,60203
+1256,John Rubio,Warehouse,Senior Associate,51,,2018-09-18,87347
+1257,Jeremy Flynn,Sales,Director,53,,2017-03-28,112107
+1258,Mitchell Solis,Marketing,Senior Associate,72,,2018-06-14,103595
+1259,Debra Lewis,Warehouse,Associate,43,,2021-03-10,42084
+1260,Colin Haynes,Operations,Manager,27,,2023-08-23,70606
+1261,Robin Johnson,Warehouse,Manager,46,,2025-10-08,114087
+1262,James Peterson,Sales,Manager,86,,2015-07-10,49790
+1263,Shane Davenport,Finance,Director,32,,2024-04-02,106573
+1264,Joshua Hamilton,Sales,Senior Associate,3,,2019-04-12,73140
+1265,Daniel Jefferson,Warehouse,Senior Associate,98,,2023-11-22,75967
+1266,Richard Jackson,Warehouse,Assistant Manager,20,,2015-05-31,51019
+1267,Sherri White,Sales,Associate,61,,2021-11-20,112573
+1268,Guy James,Sales,Director,81,,2025-03-28,76642
+1269,Joseph Castaneda,HR,Senior Associate,28,,2015-06-07,80888
+1270,Kevin Jones,Warehouse,Senior Associate,35,,2023-09-11,70550
+1271,Chelsea Green,Sales,Associate,29,,2016-04-04,36216
+1272,Danielle Wright,Sales,Senior Associate,,4,2025-10-21,99806
+1273,David Fisher,Finance,Manager,16,,2023-03-10,58230
+1274,Natasha Martinez,Finance,Assistant Manager,19,,2025-01-05,50088
+1275,Bryan Miller,HR,Director,46,,2024-11-15,99948
+1276,Ryan Molina,Marketing,Assistant Manager,,41,2018-06-22,46398
+1277,Christopher Dean,Sales,Senior Associate,,23,2019-07-30,90812
+1278,Sheila Mitchell,Finance,Director,,38,2022-08-10,71625
+1279,Lindsey Molina,Finance,Associate,,30,2016-12-03,101594
+1280,Darrell Deleon,Operations,Senior Associate,8,,2018-05-16,32646
+1281,Ronald Smith,HR,Senior Associate,,50,2016-02-02,99261
+1282,Michelle Holmes,Finance,Manager,4,,2024-10-08,49099
+1283,Randy Atkinson,HR,Senior Associate,,18,2017-09-22,108097
+1284,Teresa Gross,Operations,Director,47,,2019-07-09,60540
+1285,Tracy Poole,HR,Senior Associate,51,,2019-12-24,28643
+1286,Rodney Gray,Finance,Senior Associate,,22,2019-02-19,72861
+1287,Susan Jackson,Sales,Assistant Manager,93,,2023-07-23,33035
+1288,Leonard Henson,HR,Manager,,10,2025-01-20,52788
+1289,Melanie Herring,HR,Manager,58,,2021-04-20,93934
+1290,Jade Short,Warehouse,Director,,33,2024-03-16,79578
+1291,Christopher Ball,Sales,Manager,,17,2016-03-21,93205
+1292,Brandon Espinoza,Sales,Associate,89,,2025-08-19,108814
+1293,Brent Simon,Finance,Assistant Manager,,21,2016-04-10,71056
+1294,Jeffrey Fernandez,Finance,Assistant Manager,29,,2015-09-25,78022
+1295,Todd Obrien,Warehouse,Senior Associate,,44,2015-03-31,33359
+1296,Kristen Parker,Marketing,Director,82,,2017-09-04,54389
+1297,Angela Gonzalez,Marketing,Senior Associate,93,,2024-03-17,94629
+1298,Todd Mccarthy,HR,Associate,,19,2018-04-23,33702
+1299,Nancy Rasmussen,HR,Associate,71,,2023-09-13,61048
+1300,Karen Russell,Marketing,Assistant Manager,52,,2019-09-02,40573
+1301,Chelsea Rosales,HR,Senior Associate,32,,2016-02-22,106877
+1302,Matthew Jordan,Marketing,Manager,,17,2020-03-16,79631
+1303,Joshua Pena,Marketing,Assistant Manager,50,,2017-07-22,87291
+1304,Robert Payne,Operations,Director,,44,2018-03-17,90901
+1305,Thomas Rogers,HR,Manager,,7,2020-09-09,48636
+1306,William Sheppard,Finance,Director,80,,2023-09-12,32569
+1307,Mitchell Johnson,Finance,Senior Associate,3,,2021-06-15,64595
+1308,Robert Robertson,Warehouse,Director,,25,2017-06-15,45070
+1309,James Charles,Marketing,Senior Associate,51,,2022-11-22,57623
+1310,Katie Patton,Warehouse,Associate,100,,2022-08-30,57355
+1311,Linda Dominguez,Warehouse,Assistant Manager,,33,2017-08-10,99944
+1312,Jeremy Morton,Sales,Assistant Manager,48,,2024-05-15,57419
+1313,Richard Santana,Operations,Director,13,,2024-04-11,41924
+1314,Rodney Parker,Marketing,Director,,42,2021-08-22,116173
+1315,Jennifer Poole,Finance,Associate,71,,2018-04-04,32514
+1316,Christopher Ball,Finance,Assistant Manager,87,,2018-11-24,46746
+1317,Linda Barton,Marketing,Assistant Manager,10,,2019-11-01,59948
+1318,Jeffery Juarez,Operations,Assistant Manager,,20,2017-01-24,33751
+1319,Chelsea Frost,HR,Associate,,50,2018-05-14,110747
+1320,Eric Gonzalez,Warehouse,Associate,5,,2016-06-23,60477
+1321,Yvette Johnson,Marketing,Assistant Manager,51,,2016-09-12,99967
+1322,Gabrielle Alvarez,Warehouse,Director,41,,2023-03-10,40368
+1323,Brent Miller,Marketing,Associate,94,,2016-05-30,75989
+1324,Andrea Martin,Finance,Associate,86,,2020-02-28,39645
+1325,Jessica Jones,Finance,Manager,,38,2019-09-21,49311
+1326,Brian Molina,Marketing,Senior Associate,29,,2015-07-06,65485
+1327,Andrew Larson,Finance,Director,,29,2024-02-23,107369
+1328,Bridget Bell,Operations,Director,71,,2025-10-28,56187
+1329,Danielle May,HR,Manager,97,,2022-01-09,97439
+1330,Christopher Decker,Warehouse,Director,1,,2022-05-21,36438
+1331,Nicholas Henson,Sales,Senior Associate,98,,2017-07-24,51141
+1332,Anna Doyle,HR,Director,,16,2024-04-14,83595
+1333,Melissa Miller,Warehouse,Manager,,49,2023-08-18,71079
+1334,Kenneth Ramirez,Warehouse,Manager,,50,2019-10-27,74156
+1335,Katie Caldwell,Sales,Associate,79,,2022-10-06,90402
+1336,Matthew Torres,HR,Associate,,19,2025-07-05,35093
+1337,Nicole Murphy,HR,Associate,5,,2021-08-19,91983
+1338,Karen Simon,Sales,Manager,,10,2017-03-12,107372
+1339,Frank Wilson,HR,Associate,94,,2018-08-20,98482
+1340,Jason Nelson,Operations,Associate,16,,2017-01-13,54193
+1341,Joe Flynn,Sales,Assistant Manager,91,,2018-08-25,60286
+1342,Debra Wilson,Warehouse,Director,91,,2024-10-17,116447
+1343,Gabrielle Christian,Warehouse,Associate,100,,2017-02-01,100678
+1344,Adam Garrison,Marketing,Manager,,28,2024-10-22,113701
+1345,Anna Marshall,Sales,Director,,43,2018-02-19,112040
+1346,Alexander Perry,Warehouse,Manager,,16,2020-06-28,67936
+1347,Jose Reed,Finance,Associate,91,,2020-10-24,39907
+1348,Vanessa Estes,Operations,Associate,61,,2016-05-20,49028
+1349,Wanda Estes,Marketing,Director,20,,2017-01-09,55065
+1350,Wendy Cardenas,Finance,Manager,9,,2018-05-11,104806
+1351,Lisa Edwards,Marketing,Associate,26,,2015-08-29,53414
+1352,Joseph Cortez,Marketing,Director,7,,2023-04-19,61238
+1353,Charles Stevens,Sales,Director,20,,2021-01-03,106320
+1354,Elizabeth Espinoza,Warehouse,Assistant Manager,8,,2024-04-22,43046
+1355,Tracy Wilson,Finance,Associate,77,,2024-06-30,89052
+1356,Alec Lee,Sales,Associate,,34,2018-10-28,78747
+1357,John Mitchell,Warehouse,Senior Associate,52,,2023-12-28,118569
+1358,Barbara Johnson,Finance,Associate,,39,2015-09-04,73025
+1359,Teresa Payne,Finance,Manager,42,,2019-09-23,75953
+1360,Brooke Beard,Warehouse,Senior Associate,,30,2022-04-28,106201
+1361,Bryan Graham,Marketing,Assistant Manager,,15,2020-02-17,119235
+1362,Brandy Taylor,Finance,Associate,,50,2023-02-19,95093
+1363,Jennifer Valencia,Sales,Assistant Manager,,33,2024-06-11,92223
+1364,Sandra Keith,Operations,Director,,13,2019-08-31,108604
+1365,Susan Ashley,Marketing,Associate,,16,2018-01-07,118134
+1366,Rachael Gross,Sales,Assistant Manager,54,,2021-05-31,95592
+1367,Kyle Jones,Sales,Manager,30,,2024-07-21,54898
+1368,Joshua Graham,Warehouse,Associate,,5,2025-11-11,87080
+1369,Jennifer Dixon,Marketing,Senior Associate,83,,2023-12-21,49728
+1370,Danielle Wright,Finance,Assistant Manager,48,,2017-09-11,74016
+1371,Jennifer Webster,Sales,Director,26,,2017-04-04,68890
+1372,Larry Martin,Warehouse,Senior Associate,72,,2021-04-21,118854
+1373,Stephen Brennan,Marketing,Associate,19,,2019-06-04,78998
+1374,Matthew Peterson,Operations,Senior Associate,,37,2021-09-20,116243
+1375,Emily Graham,HR,Director,,27,2025-02-26,102348
+1376,Cynthia Dodson,Warehouse,Manager,,17,2021-01-15,106094
+1377,Jennifer Kennedy,Finance,Manager,73,,2018-11-29,43573
+1378,Angela Hill,Finance,Associate,2,,2024-07-24,99329
+1379,Charles Weiss,Finance,Assistant Manager,21,,2019-10-31,51136
+1380,Christopher Williams,Sales,Manager,13,,2021-08-27,81135
+1381,Eric Valencia,Warehouse,Manager,,2,2016-06-27,72726
+1382,Brian Cherry,Finance,Director,56,,2020-08-02,51897
+1383,Christopher Johnson,Warehouse,Manager,,30,2019-09-09,118607
+1384,Yolanda Jackson,Finance,Director,35,,2016-05-09,108540
+1385,Linda Caldwell,HR,Manager,,49,2017-04-30,80830
+1386,Joseph Velasquez,Warehouse,Senior Associate,94,,2022-09-26,28995
+1387,Jeffery Herrera,Sales,Director,2,,2016-12-26,44860
+1388,Spencer Atkinson,Marketing,Assistant Manager,,15,2016-06-14,48924
+1389,Jason Frost,Finance,Assistant Manager,3,,2015-08-20,117416
+1390,Joshua Sanchez,Marketing,Senior Associate,,22,2015-04-17,65143
+1391,Allison Benson,Operations,Assistant Manager,88,,2019-10-12,32299
+1392,Stephen Powell,Operations,Manager,80,,2020-05-16,81926
+1393,Anthony Velasquez,Operations,Associate,24,,2021-11-13,115440
+1394,Rebecca Perry,Sales,Senior Associate,,18,2021-04-19,79600
+1395,Cheryl King,Operations,Director,79,,2020-11-26,68849
+1396,Jesse Ashley,Operations,Manager,,32,2025-12-28,44175
+1397,Brandon Jordan,Marketing,Assistant Manager,,35,2017-10-01,108848
+1398,Brian Kelley,Operations,Associate,,18,2022-11-02,37641
+1399,Jeffrey Stein,HR,Senior Associate,45,,2015-11-16,113884
+1400,Debra Herrera,HR,Director,,20,2024-05-02,48454
+1401,Adam Vaughn,Warehouse,Manager,,28,2018-12-28,40711
+1402,Jeffrey Patterson,Marketing,Director,94,,2018-10-23,60081
+1403,Danielle Nolan,Sales,Director,82,,2016-06-27,28456
+1404,Kristen White,Marketing,Senior Associate,79,,2020-08-06,29292
+1405,Martha Nolan,Finance,Director,3,,2019-05-25,45155
+1406,Amber Charles,Operations,Assistant Manager,,21,2025-09-19,91705
+1407,John Dean,Finance,Associate,76,,2016-12-16,102931
+1408,Jessica Pena,Warehouse,Associate,40,,2019-08-05,50790
+1409,Andrea Edwards,Marketing,Associate,59,,2024-11-25,87296
+1410,Joseph Deleon,Sales,Assistant Manager,83,,2023-11-18,60329
+1411,Sherri Smith,Sales,Associate,91,,2023-05-30,67832
+1412,Guy Clark,HR,Senior Associate,,32,2020-10-14,58810
+1413,Beth Salazar,Marketing,Manager,,43,2024-08-09,110012
+1414,Sarah Alvarez,Sales,Associate,62,,2017-06-18,75088
+1415,Rachael Rosales,Finance,Senior Associate,,18,2023-11-28,74574
+1416,Amanda Simon,Marketing,Assistant Manager,6,,2021-05-21,107101
+1417,Tracey Byrd,Warehouse,Director,82,,2018-11-07,88467
+1418,Stuart Ryan,Marketing,Manager,21,,2017-05-26,41743
+1419,Vincent Nelson,Finance,Assistant Manager,,27,2020-09-26,45369
+1420,Chelsea Flynn,Operations,Manager,,8,2015-01-13,59346
+1421,Yolanda Ross,Marketing,Manager,,47,2022-11-11,37005
+1422,Stephen Rosales,Finance,Manager,6,,2017-08-05,91666
+1423,Brian Johnson,Sales,Director,2,,2019-04-13,73570
+1424,Kristen Potter,HR,Associate,,47,2017-02-15,32069
+1425,Joseph Johnson,HR,Manager,38,,2020-02-13,64842
+1426,Kathryn Ortiz,Finance,Associate,,22,2019-01-30,104358
+1427,Linda Walker,Finance,Director,,8,2017-01-24,111448
+1428,Diana Smith,Warehouse,Assistant Manager,93,,2024-10-10,116487
+1429,Todd Stein,Operations,Associate,,30,2023-05-10,112877
+1430,Brian Dixon,Operations,Assistant Manager,,39,2019-04-08,83902
+1431,Susan Johnson,Sales,Manager,65,,2015-08-20,113300
+1432,Christopher Short,HR,Associate,,38,2024-04-18,115998
+1433,Anna Carrillo,Marketing,Director,,15,2022-09-01,86446
+1434,Samuel Schultz,Sales,Senior Associate,7,,2021-02-10,66001
+1435,David Phillips,Finance,Associate,,23,2021-08-26,116880
+1436,Thomas Martin,HR,Assistant Manager,48,,2015-01-31,66182
+1437,Stephen Mccarthy,Operations,Senior Associate,,21,2020-03-18,43307
+1438,Julie Sanchez,Operations,Assistant Manager,,18,2017-01-28,37774
+1439,Nicole Simon,Operations,Associate,,15,2022-03-02,80205
+1440,Guy Zimmerman,Finance,Director,8,,2025-03-30,31261
+1441,John Hamilton,Operations,Manager,,17,2020-11-02,38911
+1442,Natasha Graham,Finance,Manager,2,,2021-08-24,50494
+1443,Jason Rosales,Warehouse,Director,96,,2022-05-05,76744
+1444,Jennifer Ball,Sales,Manager,3,,2025-03-23,71987
+1445,Katie Valencia,Sales,Associate,80,,2015-06-03,75030
+1446,Jesse Torres,Warehouse,Manager,52,,2018-05-31,74706
+1447,James Dean,Warehouse,Assistant Manager,59,,2017-12-14,119463
+1448,Susan Zimmerman,Finance,Senior Associate,,14,2022-11-19,48016
+1449,Jerry Stevens,Warehouse,Associate,90,,2019-12-05,71612
+1450,Natasha Fernandez,Sales,Associate,13,,2023-06-29,84378
+1451,Charles Kelley,Operations,Director,2,,2020-03-13,53202
+1452,Kevin Phillips,HR,Associate,13,,2025-09-25,44670
+1453,Colin Morrison,Warehouse,Manager,,31,2023-06-09,32292
+1454,Martha Peterson,Finance,Director,57,,2015-03-15,58011
+1455,Alexander Ball,Marketing,Senior Associate,9,,2025-11-15,51384
+1456,Todd Russell,Warehouse,Senior Associate,,30,2025-06-23,46005
+1457,Alyssa Robertson,HR,Assistant Manager,,43,2015-06-24,52956
+1458,Jeffrey Smith,Finance,Assistant Manager,,15,2019-04-23,92093
+1459,Eric Smith,Operations,Associate,,19,2025-09-04,104131
+1460,Joshua Mitchell,HR,Manager,,4,2024-03-21,75524
+1461,Adam Anderson,Operations,Associate,100,,2020-02-25,34121
+1462,Meghan Lewis,HR,Senior Associate,,37,2020-12-28,95721
+1463,Mario Cooke,Finance,Senior Associate,,38,2015-04-30,41983
+1464,Eric Dodson,Sales,Director,88,,2021-03-18,33266
+1465,Wanda Mccarthy,Operations,Director,73,,2022-05-01,80298
+1466,James Charles,Sales,Assistant Manager,52,,2018-12-14,67133
+1467,Beth Mitchell,Sales,Assistant Manager,,39,2018-05-17,56688
+1468,Richard Torres,Sales,Associate,,11,2024-02-11,116960
+1469,Sheila Johnson,Finance,Associate,,24,2019-12-08,36392
+1470,Jacob Clark,Marketing,Assistant Manager,19,,2017-11-26,32932
+1471,Michelle Adkins,Warehouse,Manager,100,,2019-02-15,82049
+1472,Darrell Ramirez,Marketing,Manager,7,,2020-05-31,66490
+1473,Lindsay Perry,Finance,Assistant Manager,70,,2017-11-08,101741
+1474,Eric Sanchez,Finance,Senior Associate,,33,2021-02-28,31716
+1475,Danielle Gray,Finance,Assistant Manager,,32,2024-06-22,66582
+1476,Marie Perry,Operations,Assistant Manager,,33,2023-03-03,41492
+1477,Joe Garrison,HR,Senior Associate,,39,2017-07-18,31788
+1478,Brenda Ball,HR,Assistant Manager,,46,2020-03-10,70552
+1479,Jade Yu,HR,Associate,24,,2020-12-24,95606
+1480,Larry Johnson,Finance,Senior Associate,70,,2022-06-26,42491
+1481,Joseph Sanders,Sales,Assistant Manager,86,,2023-04-28,105490
+1482,Tasha Juarez,Finance,Director,96,,2020-05-03,75725
+1483,Andrew Cortez,Finance,Associate,52,,2018-06-19,72205
+1484,Cynthia Johnson,Sales,Assistant Manager,32,,2022-04-03,112891
+1485,Lindsay Anderson,Warehouse,Manager,,33,2016-05-20,58283
+1486,Samuel Parker,Marketing,Assistant Manager,49,,2022-06-01,46437
+1487,Leslie Marshall,Sales,Assistant Manager,,15,2024-11-10,100337
+1488,Andrea Powell,Sales,Associate,,41,2022-10-21,37861
+1489,David Daniels,Finance,Assistant Manager,,21,2019-10-09,108232
+1490,Joseph Dodson,Operations,Senior Associate,,33,2024-01-22,103925
+1491,Janet King,Finance,Associate,76,,2020-11-08,117882
+1492,Joshua Caldwell,Marketing,Manager,,4,2020-12-12,70344
+1493,Darrell Walton,Warehouse,Associate,94,,2024-05-16,85241
+1494,Matthew Poole,Warehouse,Assistant Manager,,8,2017-02-15,109200
+1495,Marie Robertson,Warehouse,Manager,90,,2023-07-31,40108
+1496,Michelle Sanders,Warehouse,Manager,98,,2022-06-23,56163
+1497,Joseph Douglas,Warehouse,Associate,,25,2020-10-26,71410
+1498,Nicole White,HR,Assistant Manager,,45,2015-11-06,85732
+1499,Lisa Lee,Marketing,Associate,60,,2023-06-04,90483
+1500,Ryan Galvan,Marketing,Senior Associate,,48,2017-05-29,112944
+1501,John Marshall,Marketing,Senior Associate,39,,2024-11-07,73018
+1502,Marie Zavala,Sales,Assistant Manager,,22,2023-09-18,43796
+1503,Jason Vaughn,Operations,Manager,79,,2019-01-01,45471
+1504,Danielle Wang,Finance,Director,59,,2019-10-15,101667
+1505,Monica Coleman,HR,Director,44,,2015-04-13,70415
+1506,John Nelson,Warehouse,Assistant Manager,15,,2020-06-24,86099
+1507,Maria Gross,Operations,Associate,72,,2015-08-21,79782
+1508,Joseph Webb,Sales,Assistant Manager,44,,2025-11-11,102791
+1509,Kathleen Kelley,Operations,Senior Associate,4,,2022-01-16,48097
+1510,Martha Byrd,Warehouse,Director,29,,2017-08-02,43703
+1511,Rachael Garcia,Warehouse,Director,88,,2023-11-04,95485
+1512,Amy Garcia,HR,Associate,12,,2015-03-20,67935
+1513,Robert Wood,Operations,Associate,,42,2021-01-16,103052
+1514,Kellie Jones,Operations,Assistant Manager,,2,2016-03-23,39853
+1515,Wendy Cherry,Marketing,Associate,9,,2015-08-07,53013
+1516,Kristen Rubio,Warehouse,Director,,30,2017-09-09,116327
+1517,Charles Byrd,Operations,Manager,95,,2018-03-28,105617
+1518,Jeffrey Fernandez,HR,Manager,60,,2022-12-26,33767
+1519,John Martin,HR,Director,,27,2024-10-19,103150
+1520,Danielle Lee,HR,Senior Associate,,35,2023-07-15,34024
+1521,Shawn Moore,Operations,Manager,,15,2023-02-20,39067
+1522,Christopher Keith,Finance,Director,73,,2021-03-22,110630
+1523,Sara Bishop,Operations,Associate,,37,2019-01-31,39593
+1524,Mike Bishop,Marketing,Associate,20,,2017-10-21,55670
+1525,Randall Potter,Warehouse,Associate,73,,2025-05-28,40452
+1526,William Smith,Warehouse,Senior Associate,90,,2020-09-27,82925
+1527,John Lee,Warehouse,Associate,,30,2021-03-17,33261
+1528,Katie Jackson,Warehouse,Associate,3,,2015-03-02,54447
+1529,Zachary Flores,HR,Director,,11,2020-01-15,58022
+1530,Kristen Miller,Warehouse,Manager,,11,2022-07-02,87685
+1531,Brandon Castaneda,Sales,Senior Associate,,41,2020-06-12,73679
+1532,Natasha Walker,HR,Manager,,35,2021-10-04,45707
+1533,Stephanie Payne,Operations,Director,,46,2023-11-28,70716
+1534,Brent Miller,Sales,Manager,23,,2015-03-29,70215
+1535,Marie Edwards,Marketing,Manager,22,,2024-12-12,60541
+1536,Breanna Moore,Operations,Director,48,,2023-12-27,77081
+1537,Corey Boyd,HR,Associate,11,,2019-08-15,58004
+1538,Jason Garrison,Operations,Manager,85,,2023-05-26,58695
+1539,George Frost,Warehouse,Assistant Manager,52,,2015-09-25,100068
+1540,Eric Jackson,Warehouse,Manager,92,,2018-05-23,51156
+1541,Jeffrey Sanchez,Sales,Director,51,,2016-03-09,58269
+1542,Brenda Fernandez,Marketing,Director,31,,2021-12-27,40899
+1543,Jeremy Elliott,Operations,Senior Associate,,10,2024-06-02,92229
+1544,Michelle Stevens,HR,Director,16,,2021-08-13,92965
+1545,Darrell Dodson,HR,Senior Associate,,21,2022-10-30,90385
+1546,Dana Nolan,Warehouse,Senior Associate,,23,2016-07-29,43482
+1547,Chelsea Kelley,HR,Director,15,,2025-04-10,69545
+1548,Veronica Fletcher,HR,Associate,,47,2017-02-15,54875
+1549,Mario Sheppard,Sales,Senior Associate,,11,2020-10-15,98260
+1550,Janet Edwards,Finance,Assistant Manager,,29,2022-07-08,58995
+1551,Michele Chandler,Sales,Manager,13,,2024-06-04,66267
+1552,John Hernandez,Warehouse,Director,77,,2025-04-09,69801
+1553,Andrea Torres,Warehouse,Senior Associate,27,,2021-08-02,97992
+1554,Patrick Cruz,Warehouse,Manager,,49,2021-05-04,92636
+1555,Noah Smith,Sales,Associate,,1,2019-08-04,103438
+1556,Janet Bell,Finance,Senior Associate,,24,2021-03-31,67370
+1557,Guy Garcia,Warehouse,Associate,,6,2022-06-04,103403
+1558,Jessica Martinez,Sales,Assistant Manager,,22,2022-02-11,108140
+1559,Adam Marshall,Sales,Senior Associate,,31,2021-07-08,76199
+1560,Melissa Poole,HR,Assistant Manager,44,,2019-11-06,90540
+1561,Katie Wright,HR,Senior Associate,,16,2017-02-25,111679
+1562,John Sanchez,HR,Manager,19,,2015-08-06,105140
+1563,David Rogers,Finance,Director,45,,2019-08-18,53432
+1564,Craig Mitchell,Finance,Director,76,,2019-05-13,93904
+1565,Patricia Smith,Marketing,Associate,,19,2021-09-09,69028
+1566,Elizabeth Vaughan,Marketing,Assistant Manager,16,,2024-11-26,41674
+1567,Crystal Hamilton,Marketing,Director,85,,2022-09-19,62204
+1568,James Martinez,Finance,Assistant Manager,78,,2023-11-09,117969
+1569,Eric Adams,Warehouse,Associate,69,,2021-05-11,116126
+1570,Cynthia Mitchell,HR,Assistant Manager,80,,2025-03-15,100365
+1571,Bryan Miller,HR,Assistant Manager,,13,2025-05-03,119113
+1572,Angela Beck,Operations,Assistant Manager,,11,2016-09-06,80690
+1573,Amanda Zavala,Finance,Manager,51,,2022-01-12,97696
+1574,Danielle Jordan,HR,Manager,2,,2020-07-25,43201
+1575,Susan Harrington,HR,Assistant Manager,60,,2025-09-10,55486
+1576,Brianna Wright,Marketing,Manager,28,,2021-06-07,43886
+1577,Jesse Scott,Finance,Assistant Manager,78,,2015-03-06,114256
+1578,Frank Nelson,Marketing,Assistant Manager,,28,2017-04-23,84518
+1579,Andrea Rodriguez,Marketing,Senior Associate,,20,2016-06-04,113799
+1580,Jennifer Hernandez,Finance,Assistant Manager,60,,2017-03-18,66290
+1581,Robert Parker,Operations,Assistant Manager,56,,2016-01-20,65117
+1582,Rodney Bishop,Operations,Manager,92,,2023-08-09,90179
+1583,Teresa Pearson,Operations,Assistant Manager,48,,2020-06-08,80247
+1584,Angela Perry,Finance,Associate,,9,2022-05-23,62263
+1585,Chad Graham,Marketing,Senior Associate,,38,2025-12-31,57218
+1586,Scott Silva,Marketing,Assistant Manager,,12,2022-02-13,75181
+1587,Barbara Cannon,Finance,Director,,26,2020-04-09,34950
+1588,Gabrielle Dixon,Finance,Assistant Manager,,41,2017-12-08,45292
+1589,Andrew Johnson,Marketing,Assistant Manager,,45,2023-04-20,32026
+1590,Erica Hernandez,Finance,Senior Associate,38,,2020-07-29,42278
+1591,Chelsea Bentley,Sales,Assistant Manager,65,,2023-04-30,46277
+1592,Melissa Bell,HR,Senior Associate,6,,2015-04-03,34959
+1593,Brianna Smith,Warehouse,Associate,72,,2016-10-17,33101
+1594,Kyle Pham,HR,Senior Associate,75,,2016-06-06,103406
+1595,Amber May,HR,Assistant Manager,23,,2022-06-30,44805
+1596,Tracy Gates,Operations,Director,,10,2020-09-13,79095
+1597,Matthew Adkins,Operations,Manager,,36,2018-06-27,37066
+1598,Chad Martin,Sales,Director,26,,2018-05-29,115136
+1599,Cassandra Potter,Operations,Assistant Manager,95,,2021-09-04,49985
+1600,Joshua Vaughn,Finance,Manager,,24,2025-08-16,96952
+1601,Melanie Rubio,HR,Director,96,,2025-12-13,86988
+1602,Christopher Edwards,Marketing,Manager,54,,2020-03-09,98726
+1603,Patrick Brennan,Marketing,Manager,94,,2022-05-18,85881
+1604,Veronica Peterson,Marketing,Assistant Manager,2,,2015-12-02,74833
+1605,Andrea Juarez,Operations,Assistant Manager,29,,2025-05-26,99035
+1606,Eric Bryant,Warehouse,Manager,,8,2015-03-13,103021
+1607,Richard Obrien,Sales,Manager,,3,2018-10-07,62953
+1608,Brian Pham,Sales,Director,,18,2022-12-24,114669
+1609,Andrea Lin,Operations,Associate,29,,2025-09-01,118849
+1610,Erin Adams,Operations,Associate,,20,2016-11-20,94400
+1611,Michelle Sims,Sales,Manager,,50,2022-04-09,113463
+1612,Jerry Hamilton,Marketing,Associate,19,,2017-01-24,37714
+1613,Nicholas Stevens,HR,Senior Associate,,39,2015-07-21,77710
+1614,Tanya Powell,HR,Manager,62,,2019-08-30,87893
+1615,Aaron Gray,HR,Manager,24,,2021-05-05,113349
+1616,Joe Rivas,Marketing,Senior Associate,23,,2017-11-26,39079
+1617,Stephen Rasmussen,Sales,Senior Associate,36,,2025-09-14,102158
+1618,Susan Pearson,Warehouse,Assistant Manager,60,,2021-10-13,35104
+1619,Dennis Ball,Operations,Director,26,,2019-10-28,60945
+1620,Patricia Estes,HR,Assistant Manager,38,,2020-05-05,91746
+1621,Jeffrey Murray,HR,Manager,,47,2020-02-09,54770
+1622,Nicholas Hill,Finance,Associate,19,,2016-03-23,104800
+1623,Joseph Nelson,HR,Senior Associate,57,,2021-09-02,113607
+1624,Chelsea May,Operations,Manager,14,,2023-08-20,42613
+1625,Michelle Turner,HR,Senior Associate,,33,2019-08-20,51744
+1626,Thomas Cannon,Marketing,Assistant Manager,24,,2019-09-08,34821
+1627,Joseph Vaughan,HR,Senior Associate,,8,2025-01-06,93328
+1628,Janet Graham,HR,Director,3,,2021-09-20,109560
+1629,Angela Simon,Operations,Senior Associate,97,,2018-04-11,83349
+1630,Alyssa Jones,Sales,Manager,31,,2015-01-16,40163
+1631,Ryan Perry,Operations,Assistant Manager,81,,2024-01-21,43984
+1632,Natalie Rogers,Sales,Senior Associate,,23,2021-11-21,31227
+1633,Bryan Cooke,Warehouse,Assistant Manager,,41,2021-11-20,73079
+1634,Amanda Walton,Marketing,Manager,84,,2018-02-10,94337
+1635,Rodney Robinson,Warehouse,Assistant Manager,,16,2017-01-17,41801
+1636,Dennis Pope,HR,Manager,38,,2020-06-09,105989
+1637,Matthew Peterson,Marketing,Director,75,,2023-05-03,51247
+1638,Stuart Davenport,Finance,Assistant Manager,58,,2018-04-11,75331
+1639,Sandra Smith,HR,Associate,1,,2020-10-18,89422
+1640,Kenneth Rodriguez,Finance,Manager,,5,2025-12-16,77673
+1641,Maria Smith,Operations,Director,81,,2017-05-31,71965
+1642,Samuel Cook,Warehouse,Senior Associate,83,,2017-07-16,58991
+1643,Nicole Larson,Warehouse,Manager,39,,2017-08-06,67561
+1644,Bryan Robertson,Finance,Assistant Manager,24,,2025-01-15,49938
+1645,Natasha Shields,Warehouse,Senior Associate,31,,2020-10-25,55095
+1646,Charles Fletcher,Marketing,Manager,,48,2025-02-05,97481
+1647,Leonard Douglas,Operations,Manager,35,,2025-06-05,109198
+1648,Thomas Nelson,Operations,Associate,31,,2019-08-19,106134
+1649,Brian Sanchez,Finance,Associate,46,,2015-08-09,58447
+1650,James Atkinson,Finance,Manager,5,,2018-05-06,57554
+1651,Tricia Cooke,Finance,Associate,28,,2020-12-24,33363
+1652,Sheila Byrd,Operations,Director,,41,2019-03-12,53191
+1653,James Martinez,Sales,Manager,,8,2015-01-10,81874
+1654,Karen Walton,Operations,Assistant Manager,88,,2025-11-19,52636
+1655,Robert Cooke,Warehouse,Senior Associate,,1,2018-05-03,95479
+1656,Sarah Rasmussen,Warehouse,Senior Associate,92,,2021-10-22,32654
+1657,Wendy Decker,Marketing,Manager,,15,2025-06-01,65887
+1658,Antonio Deleon,Marketing,Assistant Manager,,49,2020-12-28,53858
+1659,Erica Bell,Finance,Senior Associate,,24,2022-08-22,73474
+1660,Jesse Powell,Sales,Senior Associate,,14,2015-05-25,30359
+1661,Diana Gonzalez,Sales,Associate,69,,2022-08-31,66527
+1662,Brian Graham,Warehouse,Manager,39,,2024-04-29,100533
+1663,Samuel Cardenas,HR,Assistant Manager,50,,2025-02-06,106840
+1664,Thomas Cardenas,Finance,Manager,49,,2015-12-03,51545
+1665,Joshua Gates,Operations,Senior Associate,,37,2017-07-06,67449
+1666,Jason Travis,Sales,Senior Associate,56,,2015-07-08,91494
+1667,Stephanie Kennedy,Operations,Senior Associate,74,,2025-02-05,70663
+1668,Eric Ball,Finance,Senior Associate,3,,2018-01-09,77973
+1669,Teresa Jones,Marketing,Senior Associate,14,,2020-11-05,59419
+1670,Christopher Ball,Marketing,Director,,1,2020-03-26,105046
+1671,Jeffrey Robinson,HR,Senior Associate,,2,2022-07-30,86098
+1672,Jeffrey Smith,Sales,Senior Associate,98,,2024-11-06,116354
+1673,Angela Cortez,Marketing,Assistant Manager,61,,2018-07-24,99743
+1674,Jessica Sanchez,Sales,Director,66,,2023-09-10,61790
+1675,Brian Cochran,Operations,Manager,90,,2018-03-15,58159
+1676,Brenda James,Marketing,Assistant Manager,,9,2017-03-05,36127
+1677,John Cooke,HR,Associate,33,,2016-03-02,85266
+1678,Tanya Marshall,Operations,Manager,53,,2019-02-04,96967
+1679,Andrea Phillips,HR,Associate,24,,2021-03-02,60587
+1680,Brian Mitchell,Sales,Associate,,27,2023-08-02,29959
+1681,Beth Manning,Operations,Manager,,9,2024-05-01,103949
+1682,Andrea Ryan,Marketing,Senior Associate,15,,2020-10-18,48512
+1683,Cassandra Adkins,Operations,Associate,68,,2019-07-02,81568
+1684,Jennifer Rodriguez,Marketing,Associate,59,,2016-12-02,32899
+1685,Alexandra Burke,HR,Assistant Manager,,22,2025-01-20,33774
+1686,Zachary Brennan,HR,Manager,5,,2019-05-11,110629
+1687,Colin Miller,Finance,Senior Associate,71,,2023-05-31,89869
+1688,Rodney Shelton,HR,Director,,4,2021-11-20,28487
+1689,Daniel Flores,Sales,Senior Associate,,33,2025-03-31,37260
+1690,Antonio Vance,Marketing,Director,43,,2025-09-15,73332
+1691,Joshua Herrera,Warehouse,Senior Associate,66,,2022-10-11,90593
+1692,Beth Daniels,HR,Associate,42,,2022-04-13,67007
+1693,Michelle Santos,HR,Associate,36,,2016-07-05,108293
+1694,Susan Clark,HR,Senior Associate,33,,2015-03-07,88052
+1695,Joseph Dominguez,Warehouse,Associate,,38,2021-01-02,84511
+1696,John Graham,Marketing,Associate,,37,2022-10-03,54656
+1697,Anthony Perry,Operations,Senior Associate,67,,2023-03-17,90739
+1698,John Sanchez,HR,Director,,3,2017-10-04,108379
+1699,Kimberly Jackson,HR,Senior Associate,87,,2020-07-14,32503
+1700,Charles Gardner,HR,Senior Associate,16,,2024-06-26,95559
+1701,Ryan Johnson,Sales,Director,,8,2016-01-20,108935
+1702,Diana Dixon,Warehouse,Senior Associate,17,,2019-03-23,67771
+1703,Joseph Davenport,Sales,Director,37,,2025-05-23,98462
+1704,Tanya Waller,HR,Assistant Manager,66,,2017-03-13,60938
+1705,Matthew Adams,Finance,Director,100,,2018-06-26,45744
+1706,Meghan Lyons,HR,Manager,100,,2020-02-24,103061
+1707,Joe Parker,Finance,Manager,,34,2022-07-28,56624
+1708,Sarah Cannon,Warehouse,Senior Associate,,5,2017-10-22,97649
+1709,Christine Lewis,Operations,Manager,,19,2023-09-19,57015
+1710,Kathryn Wilson,Warehouse,Assistant Manager,,32,2017-08-05,64708
+1711,Lisa Haynes,Operations,Director,93,,2019-01-19,91029
+1712,Tracey Collins,Finance,Associate,,4,2021-04-22,59406
+1713,Susan Rogers,Finance,Associate,2,,2015-02-18,102318
+1714,Alec Miller,Warehouse,Associate,65,,2023-06-11,31577
+1715,Todd Collins,Finance,Assistant Manager,,40,2022-05-11,29073
+1716,Selena Bryant,Sales,Associate,5,,2024-03-08,35517
+1717,Thomas Walker,Sales,Director,94,,2018-01-09,51576
+1718,Nicholas Sanchez,Operations,Senior Associate,50,,2019-05-17,32960
+1719,Joshua Holmes,Warehouse,Senior Associate,12,,2024-11-19,63025
+1720,James Cannon,Operations,Director,66,,2015-09-26,30246
+1721,Kevin Wright,HR,Assistant Manager,37,,2020-05-27,97576
+1722,John Vance,Finance,Manager,,11,2020-04-28,42064
+1723,Joseph Coleman,Warehouse,Director,90,,2019-12-04,117429
+1724,Sarah Parker,Warehouse,Assistant Manager,24,,2019-10-09,106857
+1725,Jason Miller,Sales,Assistant Manager,65,,2023-03-22,91879
+1726,Diana Smith,Operations,Senior Associate,,29,2017-03-02,101430
+1727,Andrew Rogers,Finance,Director,43,,2024-10-20,99298
+1728,Joseph Gross,Finance,Assistant Manager,98,,2024-11-09,105792
+1729,Nicholas Sims,Sales,Director,45,,2016-12-21,79095
+1730,Melissa Merritt,Sales,Director,,2,2025-09-19,85389
+1731,Cassandra Edwards,Finance,Manager,,5,2017-11-18,71149
+1732,David Nelson,Operations,Senior Associate,64,,2015-07-27,85413
+1733,Alec Parker,HR,Director,,20,2019-05-19,63085
+1734,Nicole Taylor,Finance,Director,80,,2023-10-03,39401
+1735,Brooke Zavala,Finance,Associate,72,,2024-04-16,113663
+1736,Tanya Martinez,HR,Assistant Manager,25,,2022-02-07,92304
+1737,Angel Walker,Warehouse,Assistant Manager,40,,2023-12-04,92854
+1738,Dana Bentley,Finance,Assistant Manager,87,,2017-11-16,53762
+1739,Tanya Oliver,Finance,Director,62,,2024-09-01,98916
+1740,Cheryl Lawson,Marketing,Senior Associate,29,,2021-12-27,75771
+1741,Elizabeth Atkinson,HR,Director,33,,2016-06-20,35051
+1742,Robin Charles,Marketing,Assistant Manager,78,,2016-05-31,115834
+1743,Jill Barton,Finance,Associate,,41,2017-12-10,119244
+1744,Brent Anderson,Sales,Manager,,8,2015-10-06,108096
+1745,Kathleen Contreras,Operations,Associate,77,,2018-02-10,71696
+1746,Patricia May,Finance,Director,29,,2025-12-05,49453
+1747,Jose Stevens,Sales,Assistant Manager,77,,2017-08-22,29014
+1748,Alec Parker,Finance,Director,54,,2021-12-31,95771
+1749,Stephanie Estes,Warehouse,Assistant Manager,100,,2025-10-02,109965
+1750,Joseph Keith,Operations,Senior Associate,53,,2017-10-14,37576
+1751,Andrea Rubio,HR,Manager,,46,2022-08-29,90961
+1752,Mary Vaughan,Marketing,Director,,34,2019-12-14,30460
+1753,Michelle Cortez,Marketing,Associate,22,,2018-02-20,99447
+1754,Yolanda Smith,Warehouse,Director,100,,2025-06-14,30592
+1755,Lindsey Cook,Sales,Manager,,42,2022-03-23,117731
+1756,Cynthia Cobb,Marketing,Manager,11,,2019-10-29,43662
+1757,Allison Hernandez,Marketing,Assistant Manager,,24,2023-12-07,64827
+1758,Yolanda Poole,HR,Associate,28,,2024-11-26,91935
+1759,Christopher Johnson,HR,Associate,2,,2023-08-06,105855
+1760,Jeffrey Harrington,HR,Associate,36,,2024-07-22,61424
+1761,Andrea Graham,Sales,Assistant Manager,100,,2018-07-17,118198
+1762,Natalie Marshall,Sales,Associate,,49,2018-10-14,29466
+1763,Randall King,Sales,Assistant Manager,3,,2017-07-23,71368
+1764,Andrea Merritt,Marketing,Associate,,16,2022-08-28,118898
+1765,Chelsea Nelson,Sales,Assistant Manager,22,,2023-11-02,53218
+1766,Vincent Mcdonald,HR,Director,,2,2022-04-07,77070
+1767,Jason Contreras,Warehouse,Manager,,28,2021-08-04,68898
+1768,James Nolan,Sales,Senior Associate,78,,2023-06-26,64236
+1769,Melinda Cochran,Marketing,Manager,45,,2016-12-30,98634
+1770,Dennis Merritt,Sales,Assistant Manager,,9,2019-01-10,75734
+1771,Linda Russell,Marketing,Assistant Manager,68,,2022-10-11,93672
+1772,Tasha Ryan,Finance,Assistant Manager,,26,2015-07-29,75837
+1773,John Daniels,Finance,Manager,78,,2025-01-07,119759
+1774,Kristen Estes,Sales,Assistant Manager,62,,2016-11-18,71261
+1775,Jeffrey Cardenas,Marketing,Senior Associate,79,,2023-08-29,101239
+1776,Eric Rubio,HR,Senior Associate,,32,2021-10-13,84391
+1777,Darrell Beard,Warehouse,Director,,18,2024-04-28,101728
+1778,Jacob Hill,Finance,Manager,14,,2023-07-12,109477
+1779,Noah Walker,Warehouse,Director,,27,2020-09-03,48838
+1780,Anthony Cooke,Operations,Assistant Manager,,19,2023-04-26,55757
+1781,Alan Schultz,Operations,Manager,80,,2018-10-24,55744
+1782,Cynthia Johnson,HR,Manager,42,,2021-06-03,72801
+1783,Randall Long,HR,Assistant Manager,,24,2025-01-24,73252
+1784,James Jefferson,Operations,Associate,,21,2015-12-07,28335
+1785,Todd Pearson,Operations,Manager,39,,2018-11-30,110379
+1786,Collin Barnes,Marketing,Assistant Manager,,40,2015-03-11,107102
+1787,Cheryl Valencia,HR,Associate,13,,2020-11-16,83296
+1788,Thomas Stein,Marketing,Associate,,30,2023-08-09,56143
+1789,Eric Stevens,Operations,Associate,,23,2015-06-04,104045
+1790,David James,Operations,Manager,,6,2021-01-16,52959
+1791,Joshua Lewis,Operations,Senior Associate,78,,2019-07-27,56134
+1792,Christopher Flores,HR,Manager,52,,2023-08-11,119773
+1793,Joe Turner,Finance,Associate,86,,2017-06-03,113000
+1794,Sharon Oliver,HR,Senior Associate,88,,2016-10-16,81764
+1795,Danielle Johnson,Operations,Associate,,37,2016-01-16,43569
+1796,Breanna Gray,Marketing,Director,13,,2019-06-26,39319
+1797,Danielle Dodson,HR,Manager,60,,2020-05-12,116713
+1798,Christopher Walton,Warehouse,Associate,12,,2025-02-10,52428
+1799,Jill Robinson,Sales,Manager,23,,2020-02-15,90694
+1800,Thomas Green,HR,Director,31,,2016-11-20,60496
+1801,Joshua Deleon,HR,Director,,32,2022-09-09,73692
+1802,Kenneth Wood,Marketing,Director,,9,2015-09-05,118717
+1803,Kevin Contreras,Operations,Manager,87,,2018-10-19,82552
+1804,Michelle Johnson,Sales,Senior Associate,,10,2022-03-10,67617
+1805,Wesley Sheppard,Marketing,Senior Associate,,23,2017-10-17,66240
+1806,Gabrielle Schultz,HR,Senior Associate,77,,2021-07-16,49172
+1807,Erin Barnes,Sales,Director,,31,2019-12-27,79197
+1808,Courtney Anderson,Sales,Associate,25,,2025-06-22,80415
+1809,Adam Short,Warehouse,Director,74,,2018-02-28,36740
+1810,Adam Oliver,HR,Director,9,,2024-12-21,65237
+1811,Nancy Nelson,Operations,Director,55,,2021-11-19,87321
+1812,Christopher Jackson,Warehouse,Assistant Manager,,13,2023-03-31,33056
+1813,Ryan Nolan,Finance,Director,,11,2016-11-09,117821
+1814,James Bryant,Marketing,Associate,,22,2015-03-18,107204
+1815,Kevin Adams,Warehouse,Director,93,,2023-01-15,86594
+1816,Kimberly Zavala,Warehouse,Manager,86,,2020-04-14,29443
+1817,Lindsay Fisher,Warehouse,Director,,3,2018-05-25,75655
+1818,Erin Estes,Sales,Associate,74,,2024-11-09,110660
+1819,Keith Velasquez,Sales,Director,4,,2018-08-04,30088
+1820,Nicole Frost,Marketing,Manager,56,,2019-10-09,100851
+1821,George Daniels,Sales,Associate,5,,2022-12-19,105224
+1822,Daniel Lyons,Finance,Manager,73,,2025-08-01,34975
+1823,Jose Murray,Operations,Associate,97,,2024-11-21,49194
+1824,Christopher Caldwell,Finance,Associate,69,,2022-03-06,94572
+1825,Jeffrey Walton,Marketing,Manager,84,,2016-03-19,111867
+1826,Zachary Gonzalez,Finance,Director,24,,2016-03-15,98926
+1827,Joseph Zimmerman,Finance,Associate,100,,2022-08-15,76361
+1828,Matthew Herrera,Operations,Senior Associate,56,,2020-08-08,83412
+1829,William Gray,HR,Senior Associate,,37,2016-06-18,76272
+1830,Brenda Rodriguez,HR,Manager,78,,2022-08-26,81145
+1831,Sarah Hernandez,Warehouse,Associate,,24,2025-05-14,98889
+1832,Alec Cook,Sales,Assistant Manager,,43,2015-09-20,32571
+1833,Laura Cruz,Marketing,Manager,62,,2024-01-31,47274
+1834,Kristen Alvarez,Operations,Director,,26,2018-10-16,33473
+1835,Christopher Williams,Marketing,Senior Associate,,42,2019-05-18,101260
+1836,Amy Garcia,Marketing,Manager,49,,2022-11-21,94910
+1837,Wanda Rivera,Sales,Associate,51,,2017-09-18,32885
+1838,Christopher Ramos,Finance,Director,51,,2016-09-23,37711
+1839,Samuel Ryan,HR,Director,,19,2025-08-08,52366
+1840,Jason Gray,Operations,Senior Associate,,38,2018-10-31,50249
+1841,David Castaneda,Finance,Manager,,23,2016-11-12,75781
+1842,Maria Wells,Sales,Director,,15,2022-08-04,73892
+1843,Joseph Ramos,Operations,Senior Associate,42,,2017-05-20,60907
+1844,Collin Rubio,Marketing,Senior Associate,,31,2023-07-14,43103
+1845,Jeffery Cobb,Finance,Senior Associate,71,,2015-10-11,87742
+1846,Debra Stevens,Sales,Assistant Manager,,19,2020-09-14,100665
+1847,Angela Chandler,Sales,Senior Associate,11,,2019-06-08,86907
+1848,Amy Cortez,Operations,Associate,37,,2025-07-11,102278
+1849,Jose Bryant,Sales,Associate,,5,2020-09-25,112083
+1850,Vanessa Miller,Operations,Director,,49,2025-03-06,105477
+1851,Chelsea Shelton,HR,Director,,34,2017-09-25,87941
+1852,Diana Johnson,Sales,Director,3,,2020-03-17,32560
+1853,Craig Dixon,Operations,Senior Associate,42,,2023-12-14,58778
+1854,Daniel Rogers,Operations,Manager,,30,2016-10-05,67364
+1855,Wendy Jones,Marketing,Manager,69,,2025-03-16,93550
+1856,Jeffrey Lewis,Marketing,Manager,50,,2023-07-03,105916
+1857,Tanya Dodson,Marketing,Associate,15,,2022-06-12,86910
+1858,Stephen Taylor,Warehouse,Manager,36,,2017-09-03,61416
+1859,Helen Graham,HR,Associate,53,,2023-12-31,100471
+1860,Stephen Gilbert,HR,Senior Associate,28,,2024-04-09,92015
+1861,Joshua Travis,Marketing,Senior Associate,,3,2018-03-21,101419
+1862,Jeffery Hill,Finance,Assistant Manager,,49,2021-06-17,82210
+1863,Amy Evans,Marketing,Director,,36,2015-09-01,87499
+1864,Elizabeth Russell,HR,Assistant Manager,26,,2019-05-03,59943
+1865,Anthony Phillips,Marketing,Manager,13,,2016-08-28,64785
+1866,Angela Rodriguez,Finance,Manager,,34,2021-02-13,53429
+1867,Joseph Long,Finance,Manager,,7,2021-01-14,51631
+1868,Rachael Davenport,HR,Associate,29,,2020-11-10,88052
+1869,Christopher Smith,Warehouse,Director,,45,2022-06-13,63297
+1870,Sarah Short,HR,Director,,15,2025-03-04,40293
+1871,Daniel Russell,Warehouse,Senior Associate,,49,2017-03-01,31225
+1872,Nancy Johnson,HR,Associate,,4,2017-05-11,107131
+1873,Matthew Dean,Operations,Associate,24,,2017-05-15,68049
+1874,Karen Byrd,Finance,Assistant Manager,1,,2025-03-18,81032
+1875,Angela Morrison,HR,Associate,48,,2016-01-08,111246
+1876,Eric Scott,Finance,Associate,68,,2015-05-06,38258
+1877,Robert Walker,Operations,Assistant Manager,,12,2016-10-06,114239
+1878,Joshua Johnson,Finance,Associate,,34,2023-06-18,92724
+1879,Brandon Hunter,Finance,Associate,16,,2021-05-17,86894
+1880,Rita Morton,Sales,Associate,,44,2025-02-12,67662
+1881,Brian Nolan,Warehouse,Assistant Manager,,44,2017-03-31,92973
+1882,Charles Byrd,Finance,Senior Associate,,16,2019-05-03,46775
+1883,Tricia Fernandez,Marketing,Senior Associate,52,,2021-02-09,55797
+1884,Keith Jordan,Finance,Assistant Manager,,17,2015-10-21,116418
+1885,James Ashley,Warehouse,Associate,40,,2025-02-07,53373
+1886,Mike Martinez,Operations,Manager,3,,2023-11-08,94207
+1887,Yvette Rivera,Marketing,Manager,37,,2016-07-31,113586
+1888,Leslie Reid,Marketing,Assistant Manager,,8,2024-04-09,82555
+1889,Michelle Atkinson,Marketing,Assistant Manager,,13,2019-12-09,55385
+1890,Todd Nelson,Operations,Assistant Manager,100,,2018-09-13,106095
+1891,Andrea Cochran,Warehouse,Senior Associate,100,,2025-05-29,104013
+1892,Danielle Fisher,Operations,Associate,,19,2020-09-14,78036
+1893,Amanda Velasquez,Marketing,Manager,,32,2017-07-01,38572
+1894,Andrea Walker,Marketing,Associate,28,,2023-11-27,68615
+1895,Jerry Henson,Operations,Manager,,14,2022-11-15,67710
+1896,Joseph Coleman,Operations,Assistant Manager,,9,2017-02-10,45429
+1897,Stuart Cook,HR,Director,,47,2022-06-14,64994
+1898,Brian Bentley,Warehouse,Assistant Manager,,47,2021-12-02,42111
+1899,Cassandra Peterson,Warehouse,Director,,38,2018-01-11,91716
+1900,Brian Short,Warehouse,Manager,,13,2019-09-27,67741
+1901,Wendy Christian,Finance,Manager,,31,2024-03-26,95210
+1902,Thomas Nolan,Marketing,Senior Associate,76,,2016-12-01,69949
+1903,Eric Mcdonald,Marketing,Assistant Manager,22,,2022-12-12,93669
+1904,Wanda Walker,Warehouse,Director,,8,2024-02-23,95464
+1905,Michelle Torres,Finance,Senior Associate,64,,2025-04-21,42739
+1906,Richard Graham,Finance,Associate,,10,2018-07-28,68671
+1907,Breanna Soto,Operations,Associate,93,,2017-12-07,96997
+1908,Alan Salinas,Finance,Assistant Manager,58,,2025-04-12,82570
+1909,Christopher Brennan,Warehouse,Assistant Manager,51,,2020-02-03,48393
+1910,Tricia Shelton,HR,Associate,31,,2021-04-04,104591
+1911,Anthony Torres,Finance,Associate,9,,2020-08-23,46390
+1912,Jeffrey Keith,Marketing,Assistant Manager,88,,2020-08-29,119386
+1913,Alan Bell,Marketing,Senior Associate,,35,2021-11-14,93030
+1914,Sandra Cochran,Finance,Manager,17,,2019-08-28,57672
+1915,Anna Cruz,HR,Senior Associate,71,,2019-04-25,45899
+1916,Emily Robertson,Warehouse,Assistant Manager,37,,2019-05-29,110979
+1917,Ryan Aguilar,Warehouse,Assistant Manager,44,,2022-03-22,76161
+1918,Marie Davenport,Marketing,Associate,85,,2023-12-31,102156
+1919,Leslie Webb,Operations,Associate,,1,2021-02-08,104514
+1920,John Peterson,HR,Manager,,7,2022-06-15,34256
+1921,Noah Jones,Finance,Assistant Manager,31,,2019-07-18,90908
+1922,Stacey Zimmerman,Sales,Associate,83,,2023-07-06,58742
+1923,James Powell,HR,Associate,92,,2019-05-02,111510
+1924,Melissa Flynn,Operations,Assistant Manager,8,,2019-08-19,48151
+1925,Aaron Walton,Operations,Manager,,12,2015-08-11,31084
+1926,Adam Anderson,HR,Associate,49,,2017-11-16,89123
+1927,Jill Collins,Sales,Assistant Manager,,37,2023-02-15,78785
+1928,Christopher Cardenas,Sales,Associate,8,,2015-12-16,79087
+1929,Danielle Johnson,Warehouse,Senior Associate,69,,2017-06-18,52224
+1930,John Rivera,HR,Assistant Manager,68,,2023-07-18,73526
+1931,Tracy Day,Sales,Senior Associate,67,,2024-08-09,116707
+1932,Jessica Jefferson,Warehouse,Associate,,20,2019-07-27,98247
+1933,Corey Daniels,Operations,Director,95,,2019-06-23,118609
+1934,Brian May,HR,Senior Associate,,17,2020-08-08,58664
+1935,Sherri Zimmerman,Operations,Manager,,48,2023-06-22,108058
+1936,Sharon Lawson,Sales,Director,99,,2020-02-29,63213
+1937,Amanda Lee,HR,Director,68,,2016-11-27,114080
+1938,Monique Hall,Marketing,Director,68,,2019-09-29,107638
+1939,Amy Johnson,HR,Senior Associate,55,,2017-10-20,43147
+1940,Stephen Walker,Warehouse,Director,,48,2022-07-10,117443
+1941,David Nolan,Warehouse,Associate,8,,2016-07-27,83877
+1942,Angel Lee,Sales,Senior Associate,,29,2021-09-11,99424
+1943,Anthony James,Operations,Associate,,4,2016-06-05,81270
+1944,Adam Vaughan,Warehouse,Manager,92,,2025-09-10,47970
+1945,Wendy Bell,HR,Director,,29,2022-01-15,118596
+1946,Sarah Ashley,Warehouse,Assistant Manager,65,,2016-07-12,38363
+1947,Tasha Jordan,Marketing,Director,,48,2025-07-19,102424
+1948,David Coleman,HR,Associate,89,,2021-04-23,47246
+1949,Melinda Clark,Sales,Assistant Manager,,21,2021-09-03,100280
+1950,Robin Potter,HR,Assistant Manager,,22,2015-09-12,66894
+1951,Julie Adkins,HR,Manager,,31,2017-01-24,49759
+1952,Brian Graham,Sales,Associate,50,,2023-11-21,49776
+1953,Kimberly Medina,Warehouse,Associate,,14,2020-02-22,57401
+1954,Kyle Rubio,Marketing,Director,73,,2021-10-12,110895
+1955,Laura Parker,Warehouse,Senior Associate,,29,2025-11-10,98782
+1956,Brandy Johnson,Warehouse,Assistant Manager,21,,2019-09-18,89706
+1957,Ronald Ray,Operations,Director,41,,2019-03-11,85943
+1958,Nicole Castaneda,Sales,Manager,22,,2023-10-29,66339
+1959,Jacob Miller,Operations,Senior Associate,14,,2015-09-23,110937
+1960,Joseph Garcia,Finance,Manager,98,,2020-01-03,53190
+1961,Joe Anderson,Marketing,Senior Associate,,34,2024-05-27,114749
+1962,Leonard Byrd,HR,Associate,44,,2017-07-04,63020
+1963,Destiny Cannon,Finance,Director,,2,2018-05-06,59412
+1964,Anna Murphy,HR,Senior Associate,19,,2020-03-13,71796
+1965,Kathryn Wright,HR,Assistant Manager,,10,2015-10-26,96866
+1966,Melanie Soto,Warehouse,Assistant Manager,,29,2015-10-12,93671
+1967,Susan Perry,Sales,Manager,2,,2017-10-07,98537
+1968,Chelsea Cannon,Warehouse,Manager,,24,2024-11-16,36219
+1969,Chad Nolan,Marketing,Associate,,50,2017-06-10,42817
+1970,Erica Vaughan,HR,Manager,,27,2023-01-15,106092
+1971,Stephen Cochran,Finance,Assistant Manager,34,,2019-09-08,118239
+1972,Nicholas Beard,Sales,Associate,93,,2023-05-13,39735
+1973,Nicole Nolan,Operations,Senior Associate,,15,2018-08-19,111180
+1974,Jose Green,Operations,Assistant Manager,99,,2024-08-14,52145
+1975,Guy Sanchez,Warehouse,Director,,23,2019-01-30,118095
+1976,Joshua Perry,Marketing,Senior Associate,66,,2023-09-16,119410
+1977,Randy Rodriguez,Warehouse,Director,,27,2024-02-23,86593
+1978,Kenneth Poole,HR,Associate,70,,2019-10-02,45499
+1979,Eric Hernandez,HR,Manager,75,,2022-05-03,100518
+1980,Jessica Beard,Warehouse,Director,,28,2016-04-21,37305
+1981,Tracey Taylor,Marketing,Manager,,4,2020-06-17,58750
+1982,Sarah Robinson,Operations,Manager,,3,2019-02-09,86733
+1983,Amanda Perez,Sales,Associate,,24,2025-07-01,34217
+1984,Jeremy Spears,Finance,Manager,22,,2025-04-11,64167
+1985,Rebecca Jones,HR,Manager,72,,2023-08-14,101342
+1986,Amanda Jordan,Operations,Director,11,,2025-06-10,36448
+1987,Courtney Lyons,Marketing,Senior Associate,11,,2025-09-26,61743
+1988,Jeffrey Reid,Sales,Senior Associate,98,,2023-06-13,28344
+1989,Larry Potter,Operations,Assistant Manager,,31,2021-07-13,88559
+1990,Susan Martinez,Sales,Director,87,,2017-04-01,35282
+1991,Alyssa Oliver,Operations,Senior Associate,44,,2023-12-21,53849
+1992,Robin Santos,Finance,Assistant Manager,31,,2017-02-20,76091
+1993,Sarah Shields,Finance,Director,8,,2017-01-14,47735
+1994,Samuel Dean,HR,Assistant Manager,68,,2024-09-04,49242
+1995,Michael Gonzalez,Marketing,Manager,,47,2016-04-04,104809
+1996,Teresa Snyder,Sales,Senior Associate,47,,2016-07-24,99534
+1997,Deborah Parker,HR,Senior Associate,,22,2020-08-15,35433
+1998,Andrea Perry,Sales,Associate,,32,2021-06-05,106890
+1999,Angela Hunter,Marketing,Associate,,44,2015-07-03,71072
+2000,Christine Rodriguez,HR,Manager,,12,2019-02-28,41324
